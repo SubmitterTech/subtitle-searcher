@@ -1,12 +1,15 @@
 {
   "name": "subtitle-searcher",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://submittertech.github.io/subtitle-searcher",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "next": "15.2.4",
@@ -18,6 +21,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
+    "gh-pages": "^6.3.0",
     "node-fetch": "^3.3.2",
     "tailwindcss": "^4"
   }

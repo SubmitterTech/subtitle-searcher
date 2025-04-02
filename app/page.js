@@ -96,7 +96,7 @@ export default function Home() {
 
   useEffect(() => {
     performSearch(searchTerm);
-  }, [searchTerm]);
+  }, [searchTerm, performSearch]);
 
   useEffect(() => {
     setLoadedResults(searchResults.slice(0, batchSize));
