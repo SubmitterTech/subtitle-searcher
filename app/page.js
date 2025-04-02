@@ -112,7 +112,7 @@ export default function Home() {
   }
 
   return (
-    <div className="h-screen fixed w-screen bg-gradient-to-r from-sky-500 to-cyan-500 flex flex-col">
+    <div className="h-full fixed w-screen bg-gradient-to-r from-sky-500 to-cyan-500 flex flex-col">
       <div className="max-w-4xl relative -translate-x-1/2 left-1/2">
         <div className="p-2 absolute top-0 left-0 right-0 flex space-x-3">
           <div className="w-full h-full relative ">
