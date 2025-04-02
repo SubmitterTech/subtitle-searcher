@@ -49,7 +49,7 @@ export default function Home() {
     const parts = text.split(new RegExp(`(${query})`, 'gi'));
     return parts.map((part, index) =>
       part.toLowerCase() === query.toLowerCase() ? (
-        <span key={index} className="text-rose-500">{part}</span>
+        <span key={index} className="text-rose-500 font-semibold">{part}</span>
       ) : (
         part
       )
@@ -57,7 +57,6 @@ export default function Home() {
   };
 
   useEffect(() => {
-    // Flatten embeddedSubtitles (keyed by file number) into an array.
     const flattened = Object.entries(embeddedSubtitles).flatMap(([fileKey, subs]) =>
       subs.map((sub) => ({ ...sub, file: fileKey }))
     );
@@ -105,36 +104,40 @@ export default function Home() {
 
   if (loading) {
     return (
-      <div className="min-h-screen flex justify-center items-center">
-        <div className="text-xl font-semibold">Yükleniyor...</div>
+      <div className={`absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex text-neutral-200 select-none text-3xl text-nowrap`}>
+        <svg className={`animate-spin mr-2 h-8 w-8 text-neutral-200`} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <circle className={`opacity-25`} cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+          <path className={`opacity-75`} fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+        {`Yükleniyor...`}
       </div>
     );
   }
 
   return (
     <div className="h-full fixed w-screen bg-gradient-to-r from-sky-500 to-cyan-500 flex flex-col">
-      <div className="max-w-4xl relative -translate-x-1/2 left-1/2">
+      <div className="max-w-4xl relative -translate-x-1/2 left-1/2 mt-1 md:mt-3">
         <div className="p-2 absolute top-0 left-0 right-0 flex space-x-3">
           <div className="w-full h-full relative ">
             <input
               type="text"
               placeholder="Ses kayıtlarında ara..."
-              className=" w-full h-full z-20 text-xl md:text-3xl py-2 px-4 bg-neutral-700 rounded-md border border-neutral-400 focus:outline-none focus:border-neutral-600 focus:ring-2 focus:ring-sky-200"
+              className=" w-full h-full z-20 text-xl md:text-3xl py-2 px-4 text-neutral-400 focus:text-neutral-100 bg-neutral-800 rounded-md border border-neutral-400 focus:outline-none focus:border-neutral-600 focus:ring-2 focus:ring-neutral-200"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
 
             />
-            <div className="absolute top-1 bottom-1 right-1 z-30 text-2xl md:text-4xl bg-neutral-700 text-sky-500 p-3 flex items-center justify-center">
+            <div className="absolute top-1 bottom-1 right-1 z-30 text-2xl md:text-4xl bg-neutral-800 text-sky-500 p-3 flex items-center justify-center">
               {searchResults.length > 0 && searchResults.length}
             </div>
           </div>
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto rounded shadow-l h-full mt-16 md:mt-20 pb-20">
-        <div className="h-full overflow-y-auto p-3 pb-6">
+      <div className="max-w-4xl mx-auto h-full mt-16 md:mt-20 pb-20 ">
+        <div className="h-full overflow-y-auto pb-2 md:pb-6 px-2 md:px-2.5">
           {searchTerm.trim() === '' ? (
-            <div className="text-center text-neutral-700">Lütfen aramak istediğiniz kelimeyi giriniz.</div>
+            <div className="text-center text-neutral-900/50 md:text-2xl">Lütfen aramak istediğiniz kelimeyi giriniz.</div>
           ) : loadedResults.length > 0 ? (
             <div className="flex flex-col space-y-5">
               {loadedResults.map((result, index) => {
@@ -148,7 +151,7 @@ export default function Home() {
                       }
                     }}
                     key={`${fileNumber}-${index}`}
-                    className=" bg-neutral-50 rounded-md shadow-lg shadow-neutral-600/50 overflow-hidden"
+                    className=" bg-neutral-50 rounded-md shadow-lg shadow-neutral-700/70 overflow-hidden"
                     onClick={() => handleSubtitleClick(result)}
                   >
                     <div className="flex flex-col md:flex-row">
@@ -177,7 +180,7 @@ export default function Home() {
               })}
             </div>
           ) : (
-            <div className="text-center text-neutral-700 text-lg ">Sonuç bulunamadı.</div>
+            <div className="text-center text-neutral-900/50 md:text-2xl ">Sonuç bulunamadı.</div>
           )}
         </div>
       </div>
