@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,683 --> 00:00:11,594
 Reşad: Öğretmenimiz Catherine.Yeni çeviride sayfa 573.
 Catherine: Eğer yeni çeviriniz yoksa 415.
@@ -43,7 +43,7 @@ Rabbim onu bir süreliğine erteleyecek mi bilmiyorum.”
 
 9
 00:01:04,068 --> 00:01:07,674
-[72:26] O, geleceği Bilendir; O, geleceği kimseye vahyetmez. 
+[72:26] O, geleceği Bilendir; O, geleceği kimseye vahyetmez.
 
 10
 00:01:08,357 --> 00:01:14,455
@@ -1705,7 +1705,7 @@ zorlamamalıyız ve sinirlenmemeliyiz.
 344
 00:49:10,564 --> 00:49:19,198
 Ve yine iki yıl öncesine, Reşad'ın verdiği muhteşem
-hutbeye döneceğim. Çünkü orada 'Size, burada oturan herkese
+hutbeye döneceğim. Çünkü orada 'Size, burada oturan herkese 
 adıyla seslenmişti, kendisi de dahil.
 
 345

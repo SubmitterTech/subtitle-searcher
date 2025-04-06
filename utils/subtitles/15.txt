@@ -1,102 +1,102 @@
 1
 00:00:00,340 --> 00:00:13,780
-23, "Semud..." başka bir inkarcı grubu, "...uyarıları reddetti. Dediler ki, 'Biz, bizim gibi bir adamı mı takip etmeliyiz, o zaman yanlış ve aptal oluruz!' "
+23, "Semud..." baÅŸka bir inkarcÄ± grubu, "...uyarÄ±larÄ± reddetti. Dediler ki, 'Biz, bizim gibi bir adamÄ± mÄ± takip etmeliyiz, o zaman yanlÄ±ÅŸ ve aptal oluruz!' "
 
 2
 00:00:15,300 --> 00:00:21,100
-25, " 'Hepimizin arasından o mu mesajı almak için seçilmiş?!.
+25, " 'Hepimizin arasÄ±ndan o mu mesajÄ± almak iÃ§in seÃ§ilmiÅŸ?!.
 
 3
 00:00:21,739 --> 00:00:23,739
-" 'O, aşikar bir yalancı!' "
+" 'O, aÅŸikar bir yalancÄ±!' "
 
 4
 00:00:24,219 --> 00:00:29,339
-26, "Kimin aşikar yalancı olduğunu yarın öğrenecekler."
+26, "Kimin aÅŸikar yalancÄ± olduÄŸunu yarÄ±n Ã¶ÄŸrenecekler."
 
 5
 00:00:29,339 --> 00:00:35,100
-27, "Biz, o deveyi onlara bir test olarak gönderdik. 'Onları izle sadece ve sabırlı ol.' "
+27, "Biz, o deveyi onlara bir test olarak gÃ¶nderdik. 'OnlarÄ± izle sadece ve sabÄ±rlÄ± ol.' "
 
 6
 00:00:35,780 --> 00:00:41,160
-28, " 'Onlara söyle..." Bu onların elçisi Salih'e yönelik...
+28, " 'Onlara sÃ¶yle..." Bu onlarÄ±n elÃ§isi Salih'e yÃ¶nelik...
 
 7
 00:00:41,780 --> 00:00:47,660
-28, " 'Onlara, suyun onlar arasında spesifik zamanlarda paylaştırılması gerektiğini söyle.' "
+28, " 'Onlara, suyun onlar arasÄ±nda spesifik zamanlarda paylaÅŸtÄ±rÄ±lmasÄ± gerektiÄŸini sÃ¶yle.' "
 
 8
 00:00:48,179 --> 00:00:54,619
-29, "Onlar önderlerine danıştılar..." ve mesajı aldıktan sonra, "...o da, o deveyi katletti."
+29, "Onlar Ã¶nderlerine danÄ±ÅŸtÄ±lar..." ve mesajÄ± aldÄ±ktan sonra, "...o da, o deveyi katletti."
 
 9
 00:00:55,219 --> 00:00:58,179
-"Benim azabım ve uyarılarım nasıl da korkunçtu!"
+"Benim azabÄ±m ve uyarÄ±larÄ±m nasÄ±l da korkunÃ§tu!"
 
 10
 00:00:58,500 --> 00:01:04,679
-31, "Biz onların üzerine, onları saman çöpüne çeviren bir vuruş gönderdik."
+31, "Biz onlarÄ±n Ã¼zerine, onlarÄ± saman Ã§Ã¶pÃ¼ne Ã§eviren bir vuruÅŸ gÃ¶nderdik."
 
 11
 00:01:04,939 --> 00:01:07,179
-"Biz, Kuran'ı hatırlanması kolay kıldık...
+"Biz, Kuran'Ä± hatÄ±rlanmasÄ± kolay kÄ±ldÄ±k...
 
 12
 00:01:07,420 --> 00:01:09,840
-"...öğrenmek isteyen herhangi bir kimse var mı?"
+"...Ã¶ÄŸrenmek isteyen herhangi bir kimse var mÄ±?"
 
 13
 00:01:09,840 --> 00:01:15,120
-Bildiğiniz üzere Tanrı'nın işaretleri, her çağa uygundu.
+BildiÄŸiniz Ã¼zere TanrÄ±'nÄ±n iÅŸaretleri, her Ã§aÄŸa uygundu.
 
 14
 00:01:16,280 --> 00:01:21,400
-O çağda ne zaman yenileceğini ve ne zaman ve hangi gün içileceğini bilen bir deve...
+O Ã§aÄŸda ne zaman yenileceÄŸini ve ne zaman ve hangi gÃ¼n iÃ§ileceÄŸini bilen bir deve...
 
 15
 00:01:21,719 --> 00:01:25,459
-...o insanlar için bir mucizeydi. Onlar, develerle fazlasıyla uğraşıyorlardı.
+...o insanlar iÃ§in bir mucizeydi. Onlar, develerle fazlasÄ±yla uÄŸraÅŸÄ±yorlardÄ±.
 
 16
 00:01:25,680 --> 00:01:28,740
-Musa'nın zamanında sihir, büyük meseleydi.
+Musa'nÄ±n zamanÄ±nda sihir, bÃ¼yÃ¼k meseleydi.
 
 17
 00:01:28,840 --> 00:01:32,920
-İsa'nın zamanında hastayı iyleştirmek, büyük meseleydi.
+Ä°sa'nÄ±n zamanÄ±nda hastayÄ± iyleÅŸtirmek, bÃ¼yÃ¼k meseleydi.
 
 18
 00:01:34,760 --> 00:01:38,859
-Muhammed'in zamanında edebi mükemmellik, büyük meseleydi.
+Muhammed'in zamanÄ±nda edebi mÃ¼kemmellik, bÃ¼yÃ¼k meseleydi.
 
 19
 00:01:38,859 --> 00:01:41,239
-Onların, edebi yarışmaları vardı.
+OnlarÄ±n, edebi yarÄ±ÅŸmalarÄ± vardÄ±.
 
 20
 00:01:42,579 --> 00:01:45,099
-Şimdi de bilgisayar, büyük mesele...
+Åimdi de bilgisayar, bÃ¼yÃ¼k mesele...
 
 21
 00:01:45,099 --> 00:01:47,640
-...ve biz de şimdi bir bilgisayar mucizesine sahibiz.
+...ve biz de ÅŸimdi bir bilgisayar mucizesine sahibiz.
 
 22
 00:01:48,379 --> 00:01:54,640
-Bilgisayar Çağı için uygun olan bilgisayar mucizesi...
+Bilgisayar Ã‡aÄŸÄ± iÃ§in uygun olan bilgisayar mucizesi...
 
 23
 00:01:55,980 --> 00:02:01,200
-Abdullah'ın yaptığı numarayı nasıl bölebilirsiniz?..
+Abdullah'Ä±n yaptÄ±ÄŸÄ± numarayÄ± nasÄ±l bÃ¶lebilirsiniz?..
 
 24
 00:02:01,379 --> 00:02:05,899
-Ayetlerin sayısını aldığınızda ve herbir ayetin numarasını koyduğunuzda...
+Ayetlerin sayÄ±sÄ±nÄ± aldÄ±ÄŸÄ±nÄ±zda ve herbir ayetin numarasÄ±nÄ± koyduÄŸunuzda...
 
 25
 00:02:07,599 --> 00:02:13,659
-Kuran'daki her surede... Yarım mil uzunluğunda bir numaraya ulaşıyorsunuz.
+Kuran'daki her surede... YarÄ±m mil uzunluÄŸunda bir numaraya ulaÅŸÄ±yorsunuz.
 
 26
 00:02:14,219 --> 00:02:18,219
@@ -104,27 +104,27 @@ Kuran'daki her surede... Yarım mil uzunluğunda bir numaraya ulaşıyorsunuz.
 
 27
 00:02:18,800 --> 00:02:24,340
-Bu basamak sayısı, Kuran'ın ortak paydasının, 19 sayısının bir katıdır.
+Bu basamak sayÄ±sÄ±, Kuran'Ä±n ortak paydasÄ±nÄ±n, 19 sayÄ±sÄ±nÄ±n bir katÄ±dÄ±r.
 
 28
 00:02:24,620 --> 00:02:28,840
-Ve ayrıca o numara da, 19'un bir katıdır.
+Ve ayrÄ±ca o numara da, 19'un bir katÄ±dÄ±r.
 
 29
 00:02:30,080 --> 00:02:33,460
-Kuran vahyolunduğu zaman duymuş oldukları en büyük sayı, 1.000'di.
+Kuran vahyolunduÄŸu zaman duymuÅŸ olduklarÄ± en bÃ¼yÃ¼k sayÄ±, 1.000'di.
 
 30
 00:02:33,580 --> 00:02:36,020
-En büyük sayı oydu. Veya 50.000.
+En bÃ¼yÃ¼k sayÄ± oydu. Veya 50.000.
 
 31
 00:02:36,020 --> 00:02:39,260
-1.000'in herhangi bir katı...Her neyse.
+1.000'in herhangi bir katÄ±...Her neyse.
 
 32
 00:02:40,340 --> 00:02:42,520
-Yani, bu numarayı nasıl okuyabilirsiniz?
+Yani, bu numarayÄ± nasÄ±l okuyabilirsiniz?
 
 33
 00:02:42,520 --> 00:02:45,439
@@ -132,8 +132,8 @@ Yani, bu numarayı nasıl okuyabilirsiniz?
 
 34
 00:02:46,620 --> 00:02:49,539
-Eğer üniversitenin matematik departmanına giderseniz,
-onlara bu sayıyı okumalarını söyleyin.
+EÄŸer Ã¼niversitenin matematik departmanÄ±na giderseniz,
+onlara bu sayÄ±yÄ± okumalarÄ±nÄ± sÃ¶yleyin.
 
 35
 00:02:49,539 --> 00:02:51,759
@@ -141,47 +141,47 @@ onlara bu sayıyı okumalarını söyleyin.
 
 36
 00:02:54,400 --> 00:02:56,020
-Bu doğru...
+Bu doÄŸru...
 
 37
 00:02:57,180 --> 00:03:01,860
-Sayı burada, Kod'a uyuyor...
+SayÄ± burada, Kod'a uyuyor...
 
 38
 00:03:02,360 --> 00:03:05,260
-Yani bu, Bilgisayar Çağı'dır.
+Yani bu, Bilgisayar Ã‡aÄŸÄ±'dÄ±r.
 
 39
 00:03:05,860 --> 00:03:17,099
-Bu sayı hakkında bilmeniz için bir bilgisayara sahip olmanız gerekir. Size, Abdullah'ın kağıtlara yazdığı bu büyüklükteki bilgisayar çıktısını getirebilirim.
+Bu sayÄ± hakkÄ±nda bilmeniz iÃ§in bir bilgisayara sahip olmanÄ±z gerekir. Size, Abdullah'Ä±n kaÄŸÄ±tlara yazdÄ±ÄŸÄ± bu bÃ¼yÃ¼klÃ¼kteki bilgisayar Ã§Ä±ktÄ±sÄ±nÄ± getirebilirim.
 
 40
 00:03:17,500 --> 00:03:21,840
-Sadece bu bir problemi çözmek, bu bir numara için,
+Sadece bu bir problemi Ã§Ã¶zmek, bu bir numara iÃ§in,
 
 41
 00:03:22,199 --> 00:03:28,839
-Onu, 19'a bölmek ve o, bölünüyor.
+Onu, 19'a bÃ¶lmek ve o, bÃ¶lÃ¼nÃ¼yor.
 
 42
 00:03:32,639 --> 00:03:38,659
-Dolayısıyla, Semud'un zamanında işaret, o deveydi.
+DolayÄ±sÄ±yla, Semud'un zamanÄ±nda iÅŸaret, o deveydi.
 
 43
 00:03:39,419 --> 00:03:43,519
-Musa'nın zamanında, o asayı fırlattı ve o bir yılana dönüştü...
+Musa'nÄ±n zamanÄ±nda, o asayÄ± fÄ±rlattÄ± ve o bir yÄ±lana dÃ¶nÃ¼ÅŸtÃ¼...
 
 44
 00:03:43,520 --> 00:03:48,840
-...ve yılanı yuttu... Sihirbazların diğer yılanlarını...
+...ve yÄ±lanÄ± yuttu... SihirbazlarÄ±n diÄŸer yÄ±lanlarÄ±nÄ±...
 
 45
 00:03:48,840 --> 00:03:56,140
-Onlar bu yüzden iman ettiler çünkü onlar bunun bir sihirbaz olmadığını fark ettiler, onlar uzmanlar.
+Onlar bu yÃ¼zden iman ettiler Ã§Ã¼nkÃ¼ onlar bunun bir sihirbaz olmadÄ±ÄŸÄ±nÄ± fark ettiler, onlar uzmanlar.
 
 46
 00:04:01,479 --> 00:04:05,539
-Lut'un halkına geçmeden önce, herhangi bir soru var mı?
+Lut'un halkÄ±na geÃ§meden Ã¶nce, herhangi bir soru var mÄ±?
 
 47
 00:04:06,520 --> 00:04:08,020
@@ -189,39 +189,39 @@ Lut'un halkına geçmeden önce, herhangi bir soru var mı?
 
 48
 00:04:08,740 --> 00:04:11,760
-"Lut'un halkı uyarıları reddetti.
+"Lut'un halkÄ± uyarÄ±larÄ± reddetti.
 
 49
 00:04:12,639 --> 00:04:15,199
-"Biz onlara kayalar yağdırdık.
+"Biz onlara kayalar yaÄŸdÄ±rdÄ±k.
 
 50
 00:04:15,199 --> 00:04:18,839
-"Lut'un ailesi hariç. Biz onları şafak vakti kurtardık.
+"Lut'un ailesi hariÃ§. Biz onlarÄ± ÅŸafak vakti kurtardÄ±k.
 
 51
 00:04:19,019 --> 00:04:21,180
-"Bu, bizden bir lütuftu.
+"Bu, bizden bir lÃ¼tuftu.
 
 52
 00:04:21,420 --> 00:04:23,980
-"Biz minnettar olanları böyle ödüllendiririz.
+"Biz minnettar olanlarÄ± bÃ¶yle Ã¶dÃ¼llendiririz.
 
 53
 00:04:25,680 --> 00:04:30,300
-"Onları vuruşumuzla ilgili uyardık ama onlar uyarılardan şüphe duydular.
+"OnlarÄ± vuruÅŸumuzla ilgili uyardÄ±k ama onlar uyarÄ±lardan ÅŸÃ¼phe duydular.
 
 54
 00:04:31,360 --> 00:04:35,420
-"Onunla misafirleri hakkında pazarlık ettiler.
+"Onunla misafirleri hakkÄ±nda pazarlÄ±k ettiler.
 
 55
 00:04:35,420 --> 00:04:38,199
-"Biz onların gözlerini kör ettik.
+"Biz onlarÄ±n gÃ¶zlerini kÃ¶r ettik.
 
 56
 00:04:39,040 --> 00:04:41,740
-"Onlar Benim azabımı ve uyarılarımı hak ettiler.
+"Onlar Benim azabÄ±mÄ± ve uyarÄ±larÄ±mÄ± hak ettiler.
 
 57
 00:04:42,259 --> 00:04:43,959
@@ -229,67 +229,67 @@ Sonraki sabah...
 
 58
 00:04:43,959 --> 00:04:47,199
-"Bir mahvedici azap tarafından vuruldular.
+"Bir mahvedici azap tarafÄ±ndan vuruldular.
 
 59
 00:04:47,699 --> 00:04:51,099
-"Benim azabımı ve uyarılarımı üzerlerine çektiler.
+"Benim azabÄ±mÄ± ve uyarÄ±larÄ±mÄ± Ã¼zerlerine Ã§ektiler.
 
 60
 00:04:51,660 --> 00:04:54,360
-"Biz, Kuran'ı hatırlanması kolay kıldık.
+"Biz, Kuran'Ä± hatÄ±rlanmasÄ± kolay kÄ±ldÄ±k.
 
 61
 00:04:54,360 --> 00:04:57,400
-"...öğrenmek isteyen herhangi bir kimse var mı?"
+"...Ã¶ÄŸrenmek isteyen herhangi bir kimse var mÄ±?"
 
 62
 00:04:58,759 --> 00:05:06,681
-Dolayısıyla gördüğünüz gibi, uyarılar, yeteri kadar uyarıları azap takip etti. Yani diğer bir deyişle Tanrı, insanlara diyor ki...
+DolayÄ±sÄ±yla gÃ¶rdÃ¼ÄŸÃ¼nÃ¼z gibi, uyarÄ±lar, yeteri kadar uyarÄ±larÄ± azap takip etti. Yani diÄŸer bir deyiÅŸle TanrÄ±, insanlara diyor ki...
 
 63
 00:05:06,716 --> 00:05:07,879
-"Siz ruhlarınızı ihmal ediyorsunuz
+"Siz ruhlarÄ±nÄ±zÄ± ihmal ediyorsunuz
 
 64
 00:05:08,040 --> 00:05:13,840
-"Siz kendinizi ihmal ediyorsunuz. Siz azabı üzerinize çekeceksiniz."
+"Siz kendinizi ihmal ediyorsunuz. Siz azabÄ± Ã¼zerinize Ã§ekeceksiniz."
 
 65
 00:05:17,699 --> 00:05:21,899
-Lut'un halkı, kötü eşcinsellerdi.
+Lut'un halkÄ±, kÃ¶tÃ¼ eÅŸcinsellerdi.
 
 66
 00:05:24,759 --> 00:05:32,079
-Eşcinsellere tırnak içerisinde "haklarını" vererek onlara bir iyilik yapmış olmazsınız.
+EÅŸcinsellere tÄ±rnak iÃ§erisinde "haklarÄ±nÄ±" vererek onlara bir iyilik yapmÄ±ÅŸ olmazsÄ±nÄ±z.
 
 67
 00:05:33,019 --> 00:05:36,779
-Bir şekilde onları ikna etmelisiniz/vazgeçirmelisiniz.
+Bir ÅŸekilde onlarÄ± ikna etmelisiniz/vazgeÃ§irmelisiniz.
 
 68
 00:05:38,100 --> 00:05:44,699
-Son 10 yıldır, haklarını talep ediyorlardı ta ki AİDS'i alıncaya değin...
+Son 10 yÄ±ldÄ±r, haklarÄ±nÄ± talep ediyorlardÄ± ta ki AÄ°DS'i alÄ±ncaya deÄŸin...
 
 69
 00:05:44,699 --> 00:05:49,560
-Şu anda San Francisco'yu alıp, Sodom ve Gomora gibi ters yüz edemeyeceğinizden ötürü...
+Åu anda San Francisco'yu alÄ±p, Sodom ve Gomora gibi ters yÃ¼z edemeyeceÄŸinizden Ã¶tÃ¼rÃ¼...
 
 70
 00:05:49,560 --> 00:05:52,839
-San Francisco'da bir sürü iyi insan var.
+San Francisco'da bir sÃ¼rÃ¼ iyi insan var.
 
 71
 00:05:53,259 --> 00:06:00,459
-Bu AİDS, seçici olarak eşcinselleri vuruyor.
+Bu AÄ°DS, seÃ§ici olarak eÅŸcinselleri vuruyor.
 
 72
 00:06:09,439 --> 00:06:16,139
-Martha: "Benim gazabımı ve uyarılarımı hak ettiler." (Anlaşılmıyor)
+Martha: "Benim gazabÄ±mÄ± ve uyarÄ±larÄ±mÄ± hak ettiler." (AnlaÅŸÄ±lmÄ±yor)
 
 73
 00:06:17,120 --> 00:06:22,500
-Reşad Halife: Pekala, eğer siz her şeyi doğru yapıyorsanız, neden uyarılmanız gereksin ki?..
+ReÅŸad Halife: Pekala, eÄŸer siz her ÅŸeyi doÄŸru yapÄ±yorsanÄ±z, neden uyarÄ±lmanÄ±z gereksin ki?..
 
 74
 00:06:24,939 --> 00:06:27,439
@@ -297,75 +297,75 @@ Hangi ayet o?
 
 75
 00:06:27,519 --> 00:06:30,399
-Martha: (?) diyor ki, "üzerlerine çektiler"...
+Martha: (?) diyor ki, "Ã¼zerlerine Ã§ektiler"...
 
 76
 00:06:30,399 --> 00:06:35,359
-Reşad Halife: Ben ''incur'' (üzerine çekmek) (kelimesini) ''deserve'' (hak etmek) (kelimesinden) daha çok beğeniyorum. "Onlar..."
+ReÅŸad Halife: Ben ''incur'' (Ã¼zerine Ã§ekmek) (kelimesini) ''deserve'' (hak etmek) (kelimesinden) daha Ã§ok beÄŸeniyorum. "Onlar..."
 
 77
 00:06:38,240 --> 00:06:44,959
-Bilmiyorum, bakmam gerek. "Onlar, Benim gazabımı ve uyarılarımı hak ettiler."
+Bilmiyorum, bakmam gerek. "Onlar, Benim gazabÄ±mÄ± ve uyarÄ±larÄ±mÄ± hak ettiler."
 
 78
 00:06:44,959 --> 00:06:54,500
-Martha: (Anlaşılmıyor)
+Martha: (AnlaÅŸÄ±lmÄ±yor)
 
 79
 00:06:55,980 --> 00:07:01,439
-Reşad Halife:  Pekala, eğer siz her şeyi doğru yapıyorsanız, bir uyarıyı hak etmezsiniz.
+ReÅŸad Halife:  Pekala, eÄŸer siz her ÅŸeyi doÄŸru yapÄ±yorsanÄ±z, bir uyarÄ±yÄ± hak etmezsiniz.
 
 80
 00:07:02,300 --> 00:07:09,860
-Aslına bakarsanız, nerede çalışırsanız çalışın yalnızca disiplini bir yaptırım almadan önce bir uyarı alırsınız...
+AslÄ±na bakarsanÄ±z, nerede Ã§alÄ±ÅŸÄ±rsanÄ±z Ã§alÄ±ÅŸÄ±n yalnÄ±zca disiplini bir yaptÄ±rÄ±m almadan Ã¶nce bir uyarÄ± alÄ±rsÄ±nÄ±z...
 
 81
 00:07:09,860 --> 00:07:13,800
-Ama eğer siz her şeyi mükemmel şekilde yapıyorsanız, bir uyarı almazsınız. Alır mısınız?..
+Ama eÄŸer siz her ÅŸeyi mÃ¼kemmel ÅŸekilde yapÄ±yorsanÄ±z, bir uyarÄ± almazsÄ±nÄ±z. AlÄ±r mÄ±sÄ±nÄ±z?..
 
 82
 00:07:13,800 --> 00:07:17,620
-''Uyarı! Sen her şeyi mükemmel yapıyorsun''
+''UyarÄ±! Sen her ÅŸeyi mÃ¼kemmel yapÄ±yorsun''
 
 83
 00:07:28,939 --> 00:07:34,420
-Yeni çeviride, "üzerine çekmek (incur)" kelimesini "hak etmenin (deserve)" yerine kullanıyorum.
+Yeni Ã§eviride, "Ã¼zerine Ã§ekmek (incur)" kelimesini "hak etmenin (deserve)" yerine kullanÄ±yorum.
 
 84
 00:07:34,600 --> 00:07:39,660
-Çünkü biz, insanların başlarına geleni üzerlerine çektiklerini öğreniyoruz.
+Ã‡Ã¼nkÃ¼ biz, insanlarÄ±n baÅŸlarÄ±na geleni Ã¼zerlerine Ã§ektiklerini Ã¶ÄŸreniyoruz.
 
 85
 00:07:40,319 --> 00:07:46,579
-Kuran'daki yasayı hatırlayın: "Başınıza kendi eylemlerinizin bir sonucu olması dışında hiçbir şey gelmez.
+Kuran'daki yasayÄ± hatÄ±rlayÄ±n: "BaÅŸÄ±nÄ±za kendi eylemlerinizin bir sonucu olmasÄ± dÄ±ÅŸÄ±nda hiÃ§bir ÅŸey gelmez.
 
 86
 00:07:46,579 --> 00:07:49,199
-Başınıza hiçbir şey gelmez...
+BaÅŸÄ±nÄ±za hiÃ§bir ÅŸey gelmez...
 
 87
 00:07:49,360 --> 00:07:53,139
-Martha: (Tam olarak anlaşılmıyor)
+Martha: (Tam olarak anlaÅŸÄ±lmÄ±yor)
 
 88
 00:07:55,120 --> 00:08:01,019
-Reşad Halife: Hiç çalıştığında yerde bir uyarı aldın mı? Bir şeyin doğru olmadığı ile alakalı...
+ReÅŸad Halife: HiÃ§ Ã§alÄ±ÅŸtÄ±ÄŸÄ±nda yerde bir uyarÄ± aldÄ±n mÄ±? Bir ÅŸeyin doÄŸru olmadÄ±ÄŸÄ± ile alakalÄ±...
 
 89
 00:08:01,019 --> 00:08:08,560
-Martha: Meseleyi anladım... (Gerisi anlaşılmıyor)
+Martha: Meseleyi anladÄ±m... (Gerisi anlaÅŸÄ±lmÄ±yor)
 
 90
 00:08:08,720 --> 00:08:11,740
-Reşad Halife: Tamam. ...dığı sürece sürece dilbilgisi ile ilgilenmiyorum.
+ReÅŸad Halife: Tamam. ...dÄ±ÄŸÄ± sÃ¼rece sÃ¼rece dilbilgisi ile ilgilenmiyorum.
 
 91
 00:08:11,740 --> 00:08:13,740
-Martha: Sen olumsuz bir şeyi üzerine çekersin...
+Martha: Sen olumsuz bir ÅŸeyi Ã¼zerine Ã§ekersin...
 
 92
 00:08:14,100 --> 00:08:16,660
-Reşad Halife: Uyarı, olumsuz bir şeydir.
+ReÅŸad Halife: UyarÄ±, olumsuz bir ÅŸeydir.
 
 93
 00:08:16,660 --> 00:08:17,660
@@ -373,7 +373,7 @@ Evet.
 
 94
 00:08:17,839 --> 00:08:20,699
-''Uyarı! Gelecek aya kıdemin düşürülecek!''
+''UyarÄ±! Gelecek aya kÄ±demin dÃ¼ÅŸÃ¼rÃ¼lecek!''
 
 95
 00:08:21,399 --> 00:08:23,299
@@ -381,71 +381,71 @@ Bu olumsuzdur. Biliyorsunuz.
 
 96
 00:08:23,639 --> 00:08:33,139
-(Kendinizi) bir düzene sokmazsanız, kıdeminizin düşürüleceksiniz. Bu olumsuzdur.
+(Kendinizi) bir dÃ¼zene sokmazsanÄ±z, kÄ±deminizin dÃ¼ÅŸÃ¼rÃ¼leceksiniz. Bu olumsuzdur.
 
 97
 00:08:37,519 --> 00:08:40,259
-Başka herhangi bir soru?
+BaÅŸka herhangi bir soru?
 
 98
 00:08:41,379 --> 00:08:46,919
-Bu, bu sure kısa ama, kesinlikle derslerle dolu.
+Bu, bu sure kÄ±sa ama, kesinlikle derslerle dolu.
 
 99
 00:08:52,379 --> 00:08:54,360
-Araplar uyarıldılar.
+Araplar uyarÄ±ldÄ±lar.
 
 100
 00:08:54,360 --> 00:09:01,779
-Size tam şu anda söyleyebilirim ki, biz Araplar'a gelecek olan korkunç, korkunç bir felakete tanıklık edeceğiz.
+Size tam ÅŸu anda sÃ¶yleyebilirim ki, biz Araplar'a gelecek olan korkunÃ§, korkunÃ§ bir felakete tanÄ±klÄ±k edeceÄŸiz.
 
 101
 00:09:03,100 --> 00:09:13,480
-Bugün postada, onlara Kuran'ın izlemediklerini, uyarıları aldıklarını söyleyen manşetlere sahip bir gazete aldım.
+BugÃ¼n postada, onlara Kuran'Ä±n izlemediklerini, uyarÄ±larÄ± aldÄ±klarÄ±nÄ± sÃ¶yleyen manÅŸetlere sahip bir gazete aldÄ±m.
 
 102
 00:09:17,799 --> 00:09:22,620
-Bu sefer benim negatif (görünümlü resmimi) koymadılar, gerçek resmi koydular.
+Bu sefer benim negatif (gÃ¶rÃ¼nÃ¼mlÃ¼ resmimi) koymadÄ±lar, gerÃ§ek resmi koydular.
 
 103
 00:09:24,320 --> 00:09:26,900
-Bana adlar takıyorlar ve falan filan...
+Bana adlar takÄ±yorlar ve falan filan...
 
 104
 00:09:27,179 --> 00:09:31,299
-En azından negatifi koymadılar...
+En azÄ±ndan negatifi koymadÄ±lar...
 
 105
 00:09:35,100 --> 00:09:38,300
-Yani onlar, uyarıları aldılar.
+Yani onlar, uyarÄ±larÄ± aldÄ±lar.
 
 106
 00:09:44,960 --> 00:09:52,759
-Ne olacağını bilmiyorum ama Kuranî öğretiler, Arap dünyasının başına gelecek olan korkunç bir felakete işaret ediyor.
+Ne olacaÄŸÄ±nÄ± bilmiyorum ama KuranÃ® Ã¶ÄŸretiler, Arap dÃ¼nyasÄ±nÄ±n baÅŸÄ±na gelecek olan korkunÃ§ bir felakete iÅŸaret ediyor.
 
 107
 00:09:53,399 --> 00:10:07,539
-Elbette ki onlar, son 40 yıldır bir sürü aşağılanmayı ve sorunları üzerlerine çekiyorlardı ama şimdi uyarılar gerçekten de onlara odaklandı.
+Elbette ki onlar, son 40 yÄ±ldÄ±r bir sÃ¼rÃ¼ aÅŸaÄŸÄ±lanmayÄ± ve sorunlarÄ± Ã¼zerlerine Ã§ekiyorlardÄ± ama ÅŸimdi uyarÄ±lar gerÃ§ekten de onlara odaklandÄ±.
 
 108
 00:10:10,980 --> 00:10:19,879
-Her bir caminin Kuran'ın buyruklarını, tek birini bile tutmadığı onlara söylendi.
+Her bir caminin Kuran'Ä±n buyruklarÄ±nÄ±, tek birini bile tutmadÄ±ÄŸÄ± onlara sÃ¶ylendi.
 
 109
 00:10:20,519 --> 00:10:22,279
-Dolayısıyla biz göreceğiz...
+DolayÄ±sÄ±yla biz gÃ¶receÄŸiz...
 
 110
 00:10:22,379 --> 00:10:27,379
-Bayan: Diyorsun ki, "onlara söylendi" nasıl?..
+Bayan: Diyorsun ki, "onlara sÃ¶ylendi" nasÄ±l?..
 
 111
 00:10:27,759 --> 00:10:38,539
-Reşad Halife: Daha yeni, orada çok popüler olan bir gazete aldım ve uyarıları çok etkili bir şekilde sergilemişler.
+ReÅŸad Halife: Daha yeni, orada Ã§ok popÃ¼ler olan bir gazete aldÄ±m ve uyarÄ±larÄ± Ã§ok etkili bir ÅŸekilde sergilemiÅŸler.
 
 112
 00:10:39,000 --> 00:10:41,960
-...ve bu ilk seferi de değil.
+...ve bu ilk seferi de deÄŸil.
 
 113
 00:10:45,200 --> 00:10:46,720
@@ -453,59 +453,59 @@ Hangi gazete?..
 
 114
 00:10:48,240 --> 00:10:53,559
-Onların takip ettikleri İslam'ın Kuran ile veya Muhammed Peygamber ile hiçbir ilgisinin olmadığı (ile ilgili olarak) uyarıyor...
+OnlarÄ±n takip ettikleri Ä°slam'Ä±n Kuran ile veya Muhammed Peygamber ile hiÃ§bir ilgisinin olmadÄ±ÄŸÄ± (ile ilgili olarak) uyarÄ±yor...
 
 115
 00:10:53,559 --> 00:10:55,559
-Martha: (Tam olarak anlaşılmıyor)
+Martha: (Tam olarak anlaÅŸÄ±lmÄ±yor)
 
 116
 00:10:55,679 --> 00:10:56,939
-Reşad Halife: Evet.
+ReÅŸad Halife: Evet.
 
 117
 00:10:59,259 --> 00:11:01,720
-Onun adı, Lual İslam.
+Onun adÄ±, Lual Ä°slam.
 
 118
 00:11:03,840 --> 00:11:08,259
-Ama oradaki neredeyse her bir gazetede yer aldı...
+Ama oradaki neredeyse her bir gazetede yer aldÄ±...
 
 119
 00:11:09,059 --> 00:11:12,779
-Dergiler...Büyük meşhur dergileri.
+Dergiler...BÃ¼yÃ¼k meÅŸhur dergileri.
 
 120
 00:11:14,639 --> 00:11:19,399
-Ortalama Mısırlı en azından Kuran'ın Mucizesi hakkında (bir şeyler) duydu. Evet.
+Ortalama MÄ±sÄ±rlÄ± en azÄ±ndan Kuran'Ä±n Mucizesi hakkÄ±nda (bir ÅŸeyler) duydu. Evet.
 
 121
 00:11:19,679 --> 00:11:24,339
-Martha: (Tam olarak anlaşılmıyor)
+Martha: (Tam olarak anlaÅŸÄ±lmÄ±yor)
 
 122
 00:11:25,519 --> 00:11:26,360
-Reşad Halife: Evet.
+ReÅŸad Halife: Evet.
 
 123
 00:11:27,039 --> 00:11:28,439
-Yanlış insanlarla tanıştın.
+YanlÄ±ÅŸ insanlarla tanÄ±ÅŸtÄ±n.
 
 124
 00:11:28,440 --> 00:11:39,040
-Martha: Çok fazlasıyla tanışmadım. (Gerisi anlaşılmıyor)
+Martha: Ã‡ok fazlasÄ±yla tanÄ±ÅŸmadÄ±m. (Gerisi anlaÅŸÄ±lmÄ±yor)
 
 125
 00:11:40,039 --> 00:11:44,439
-Reşad Halife: Biliyorsunuz o, o gerçekten de yoğun oldu, o yoğun oldu.
+ReÅŸad Halife: Biliyorsunuz o, o gerÃ§ekten de yoÄŸun oldu, o yoÄŸun oldu.
 
 126
 00:11:46,100 --> 00:11:51,659
-Yayımlar ve uyarılar...Nerdeyse herkes onun hakkında (bir şeyler) duydu.
+YayÄ±mlar ve uyarÄ±lar...Nerdeyse herkes onun hakkÄ±nda (bir ÅŸeyler) duydu.
 
 127
 00:11:53,340 --> 00:11:57,639
-Hayır, hayır...O Ahir Saah'taydı. Ahir Saah'ın nasıl göründüğünü biliyor musun Rosol Yusuf?..
+HayÄ±r, hayÄ±r...O Ahir Saah'taydÄ±. Ahir Saah'Ä±n nasÄ±l gÃ¶rÃ¼ndÃ¼ÄŸÃ¼nÃ¼ biliyor musun Rosol Yusuf?..
 
 128
 00:11:57,779 --> 00:11:59,779
@@ -517,98 +517,98 @@ El-Ahraam.
 
 130
 00:12:04,799 --> 00:12:09,700
-El-Ahraam, Ramazan'da son üç yıldır her gün bir şeyler yayımladı.
+El-Ahraam, Ramazan'da son Ã¼Ã§ yÄ±ldÄ±r her gÃ¼n bir ÅŸeyler yayÄ±mladÄ±.
 
 131
 00:12:09,740 --> 00:12:20,740
-Martha: Kayınvalidem (gerisi anlaşılmıyor)...
+Martha: KayÄ±nvalidem (gerisi anlaÅŸÄ±lmÄ±yor)...
 
 132
 00:12:21,519 --> 00:12:29,120
-Hatırlıyorum ki (gerisi anlaşılmıyor)...
+HatÄ±rlÄ±yorum ki (gerisi anlaÅŸÄ±lmÄ±yor)...
 
 133
 00:12:31,039 --> 00:12:36,539
-Lisa Spray: Bilirsin Martha, ayrıca Hristiyanlar'a da sorabilirsin: "Kim günlük olarak Kitâb-ı Mukaddes'i okuyor?" (diye).
+Lisa Spray: Bilirsin Martha, ayrÄ±ca Hristiyanlar'a da sorabilirsin: "Kim gÃ¼nlÃ¼k olarak KitÃ¢b-Ä± Mukaddes'i okuyor?" (diye).
 
 134
 00:12:37,419 --> 00:12:45,240
-Mesih hakkında...Ve Mesih Kitâb-ı Mukaddes'te tekrarla kendisinin insanın oğlu olduğunu söyler.
+Mesih hakkÄ±nda...Ve Mesih KitÃ¢b-Ä± Mukaddes'te tekrarla kendisinin insanÄ±n oÄŸlu olduÄŸunu sÃ¶yler.
 
 135
 00:12:45,240 --> 00:12:50,600
-Tüm mesaj, basit olarak yalnızca Tanrı'ya tapmak etrafında
-dönüyor. Birtakım bozulmalar var...
+TÃ¼m mesaj, basit olarak yalnÄ±zca TanrÄ±'ya tapmak etrafÄ±nda
+dÃ¶nÃ¼yor. BirtakÄ±m bozulmalar var...
 
 136
 00:12:50,600 --> 00:12:54,299
-Ama onlar onu anlamıyorlar. Muhtemlen aynı şey...
+Ama onlar onu anlamÄ±yorlar. Muhtemlen aynÄ± ÅŸey...
 
 137
 00:12:54,299 --> 00:13:00,299
-Martha: Ne kadar kendimi bakıyor ve sorguluyor bulsam o kadar da... (?)
+Martha: Ne kadar kendimi bakÄ±yor ve sorguluyor bulsam o kadar da... (?)
 
 138
 00:13:00,720 --> 00:13:04,240
-Reşad Halife: Ama bize söylediğin her şey, bahsettiğin her şey Martha...
+ReÅŸad Halife: Ama bize sÃ¶ylediÄŸin her ÅŸey, bahsettiÄŸin her ÅŸey Martha...
 
 139
 00:13:04,240 --> 00:13:12,879
-Martha: Ben daha yeni...ama tüm mesele, tüm mesele İsa Mesih'in üzerine kurulu...
+Martha: Ben daha yeni...ama tÃ¼m mesele, tÃ¼m mesele Ä°sa Mesih'in Ã¼zerine kurulu...
 
 140
 00:13:12,879 --> 00:13:30,860
-İsa Mesih, İsa Mesih yoluyla kurtuluş... (tam anlaşılmıyor) Gerçekten ünlü bir tanesi...
+Ä°sa Mesih, Ä°sa Mesih yoluyla kurtuluÅŸ... (tam anlaÅŸÄ±lmÄ±yor) GerÃ§ekten Ã¼nlÃ¼ bir tanesi...
 
 141
 00:13:31,320 --> 00:13:36,720
-Reşad: Ama Mektuplar, şimdi, onlar... Onlar her yıl bir İsa konferansları var.
+ReÅŸad: Ama Mektuplar, ÅŸimdi, onlar... Onlar her yÄ±l bir Ä°sa konferanslarÄ± var.
 
 142
 00:13:36,980 --> 00:13:40,480
-Ve onlar yalnızca ilk iki mektubun doğru olduğunu duyurdular.
+Ve onlar yalnÄ±zca ilk iki mektubun doÄŸru olduÄŸunu duyurdular.
 
 143
 00:13:40,679 --> 00:13:43,599
-Dediler ki, "Geri kalanı çöptür".
+Dediler ki, "Geri kalanÄ± Ã§Ã¶ptÃ¼r".
 
 144
 00:13:44,100 --> 00:13:47,519
-Onlara hiçbir güvenleri yok. Ama eğer
-İnciller'e bakarsanız...
+Onlara hiÃ§bir gÃ¼venleri yok. Ama eÄŸer
+Ä°nciller'e bakarsanÄ±z...
 
 145
 00:13:47,860 --> 00:13:50,059
-İncil'e bakın, çoğunluğu hakikattir.
+Ä°ncil'e bakÄ±n, Ã§oÄŸunluÄŸu hakikattir.
 
 146
 00:13:50,059 --> 00:13:57,399
-Lydia: Hristiyanlar'ın %99'unu alıyorsunuz, aynı onlar gibi...
-duysalar bile...onu duymayacaklardır... (tam anlaşılmıyor).
+Lydia: Hristiyanlar'Ä±n %99'unu alÄ±yorsunuz, aynÄ± onlar gibi...
+duysalar bile...onu duymayacaklardÄ±r... (tam anlaÅŸÄ±lmÄ±yor).
 
 147
 00:13:57,399 --> 00:14:01,000
-Hristiyanlar...Bilirsiniz, birinin onu söylediğini duysalar, onu duymazlar...
+Hristiyanlar...Bilirsiniz, birinin onu sÃ¶ylediÄŸini duysalar, onu duymazlar...
 
 148
 00:14:01,179 --> 00:14:02,579
-Reşad Halife: Onu tanımayacaklardır.
+ReÅŸad Halife: Onu tanÄ±mayacaklardÄ±r.
 
 149
 00:14:02,580 --> 00:14:05,879
-Ama o, her yıl gazetede. Onların her yılki İsa konferansları...
+Ama o, her yÄ±l gazetede. OnlarÄ±n her yÄ±lki Ä°sa konferanslarÄ±...
 
 150
 00:14:05,879 --> 00:14:12,620
-Aslında, bu en meşhur ifadeler... onlar, onların sahte olduğunu ilan ettiler.
+AslÄ±nda, bu en meÅŸhur ifadeler... onlar, onlarÄ±n sahte olduÄŸunu ilan ettiler.
 
 151
 00:14:12,980 --> 00:14:17,259
-Don'un daha demin paylaştığı gibi, "Yol benim, hayat benim..." falan filan...
+Don'un daha demin paylaÅŸtÄ±ÄŸÄ± gibi, "Yol benim, hayat benim..." falan filan...
 
 152
 00:14:17,379 --> 00:14:20,600
-"Benim yolumla olması hariç hiç kimse Baba'ya gidemez." O, sahte olan bir tanesi.
+"Benim yolumla olmasÄ± hariÃ§ hiÃ§ kimse Baba'ya gidemez." O, sahte olan bir tanesi.
 
 153
 00:14:20,639 --> 00:14:24,879
@@ -616,380 +616,380 @@ Ve bu, Hristiyan alimlerden geliyor.
 
 154
 00:14:25,100 --> 00:14:29,240
-Martha: İncil...İnciller'den önce çoğunluğun (hakikat) olduğunu söyleyen...
+Martha: Ä°ncil...Ä°nciller'den Ã¶nce Ã§oÄŸunluÄŸun (hakikat) olduÄŸunu sÃ¶yleyen...
 
 155
 00:14:29,399 --> 00:14:35,789
-Reşad Halife: %99'u hakikattir. Örneğin hiçbiri "İsa, Tanrı'nın Oğludur" demez, Yuhanna hariç.
+ReÅŸad Halife: %99'u hakikattir. Ã–rneÄŸin hiÃ§biri "Ä°sa, TanrÄ±'nÄ±n OÄŸludur" demez, Yuhanna hariÃ§.
 
 156
 00:14:36,440 --> 00:14:40,680
-Ve Yuhanna'da, yalnızca 4 keredir. Yuhanna 4'ünün en sonuncusudur...
+Ve Yuhanna'da, yalnÄ±zca 4 keredir. Yuhanna 4'Ã¼nÃ¼n en sonuncusudur...
 
 157
 00:14:41,419 --> 00:14:44,539
-...ama diğer üçü "İsa, Tanrı'nın Oğlu" demez.
+...ama diÄŸer Ã¼Ã§Ã¼ "Ä°sa, TanrÄ±'nÄ±n OÄŸlu" demez.
 
 158
 00:14:44,539 --> 00:14:47,419
-Martha: Onlar Paul'un verdiği mektuplardır...
+Martha: Onlar Paul'un verdiÄŸi mektuplardÄ±r...
 
 159
 00:14:47,580 --> 00:14:48,980
-Reşad Halife: Onlar Mektuplar'dır, evet.
+ReÅŸad Halife: Onlar Mektuplar'dÄ±r, evet.
 
 160
 00:14:48,980 --> 00:14:51,539
-Martha: (?) olanları biliyor...
+Martha: (?) olanlarÄ± biliyor...
 
 161
 00:14:51,940 --> 00:14:55,480
-Reşad Halife: Onlar ilk ikisi hariç olmak üzere hepsinin sahte olduğuna hükmettiler.
+ReÅŸad Halife: Onlar ilk ikisi hariÃ§ olmak Ã¼zere hepsinin sahte olduÄŸuna hÃ¼kmettiler.
 
 162
 00:14:55,840 --> 00:15:00,360
-İsimleri unuttum. Eğer "İsa..." kitabını okursanız, Lisa'nın yazdığı...
+Ä°simleri unuttum. EÄŸer "Ä°sa..." kitabÄ±nÄ± okursanÄ±z, Lisa'nÄ±n yazdÄ±ÄŸÄ±...
 
 163
 00:15:00,620 --> 00:15:04,379
-Yani o size tüm bunlar hakkında bir rapor veriyor. O kitabı okudunuz mu?
+Yani o size tÃ¼m bunlar hakkÄ±nda bir rapor veriyor. O kitabÄ± okudunuz mu?
 
 164
 00:15:04,659 --> 00:15:07,620
-Martha: (Anlaşılmıyor)
+Martha: (AnlaÅŸÄ±lmÄ±yor)
 
 165
 00:15:07,620 --> 00:15:13,360
-Reşad Halife: Bizim bir tane ofis kopyamız var. Eğer istersen, seni oraya koyabilir ve orada hapsedebilir ve sana onu okutabiliriz.
+ReÅŸad Halife: Bizim bir tane ofis kopyamÄ±z var. EÄŸer istersen, seni oraya koyabilir ve orada hapsedebilir ve sana onu okutabiliriz.
 
 166
 00:15:13,840 --> 00:15:17,220
-İsa üzerine herhangi bir soru var mı?
+Ä°sa Ã¼zerine herhangi bir soru var mÄ±?
 
 167
 00:15:18,519 --> 00:15:30,799
-Bu arada bu sure, Kuran'da .. (olan) tek suredir...Bu bilgisayar olgularından şimdilik bir bilgi parçasıdır... (çev. : ?)
+Bu arada bu sure, Kuran'da .. (olan) tek suredir...Bu bilgisayar olgularÄ±ndan ÅŸimdilik bir bilgi parÃ§asÄ±dÄ±r... (Ã§ev. : ?)
 
 168
 00:15:30,799 --> 00:15:35,679
-Bu, Kuran'daki "Tanrı" isminin her ayette geçtiği tek suredir.
+Bu, Kuran'daki "TanrÄ±" isminin her ayette geÃ§tiÄŸi tek suredir.
 
 169
 00:15:35,679 --> 00:15:38,179
-En azından bir kere...
+En azÄ±ndan bir kere...
 
 170
 00:15:38,259 --> 00:15:44,799
-Buradaki bu sure, tüm Kuran'daki her ayette "Allah" kelimesini içeren tek (suredir).
+Buradaki bu sure, tÃ¼m Kuran'daki her ayette "Allah" kelimesini iÃ§eren tek (suredir).
 
 171
 00:15:44,799 --> 00:15:50,219
-En azından bir kere, ayetlerden bazısı onlardan 4 taneye sahip.
+En azÄ±ndan bir kere, ayetlerden bazÄ±sÄ± onlardan 4 taneye sahip.
 
 172
 00:15:50,220 --> 00:15:51,220
-Bir daha söyle...
+Bir daha sÃ¶yle...
 
 173
 00:15:51,220 --> 00:15:54,580
-Bir Adam: 57 "Tanrı"... 57 kere...
+Bir Adam: 57 "TanrÄ±"... 57 kere...
 
 174
 00:15:54,639 --> 00:16:01,000
-Reşad Halife: Gerçekten, oh! Aman tanrım! Pekala. İşte başka bir bilgi parçası...
+ReÅŸad Halife: GerÃ§ekten, oh! Aman tanrÄ±m! Pekala. Ä°ÅŸte baÅŸka bir bilgi parÃ§asÄ±...
 
 175
 00:16:04,000 --> 00:16:08,500
-Yani bunlar...O bir lütuf, evet.
+Yani bunlar...O bir lÃ¼tuf, evet.
 
 176
 00:16:08,639 --> 00:16:18,980
-Görüyorsunuz ya, bir elçi olduğunda olan şu: Tanrı, elçi yoluyla tüm gruba bilgi gönderiyor ve elçinin kendisi bu bilgiden faydalanıyor.
+GÃ¶rÃ¼yorsunuz ya, bir elÃ§i olduÄŸunda olan ÅŸu: TanrÄ±, elÃ§i yoluyla tÃ¼m gruba bilgi gÃ¶nderiyor ve elÃ§inin kendisi bu bilgiden faydalanÄ±yor.
 
 177
 00:16:19,139 --> 00:16:23,919
-Dolayısıyla eğer biz itaat edersek, bizi bir sürü sorundan kurtaracaktır.
+DolayÄ±sÄ±yla eÄŸer biz itaat edersek, bizi bir sÃ¼rÃ¼ sorundan kurtaracaktÄ±r.
 
 178
 00:16:25,340 --> 00:16:31,379
-Bu elçi ve insanları içerir. Çünkü bu bilgi herkese geliyor.
+Bu elÃ§i ve insanlarÄ± iÃ§erir. Ã‡Ã¼nkÃ¼ bu bilgi herkese geliyor.
 
 179
 00:16:31,639 --> 00:16:40,379
-Onlar aslında...Mesela ben bunu Kanada'ya olan son seyahatimde gördüm, mesela.
+Onlar aslÄ±nda...Mesela ben bunu Kanada'ya olan son seyahatimde gÃ¶rdÃ¼m, mesela.
 
 180
 00:16:42,159 --> 00:16:49,559
-40 Yaş meselesinden bahsettim ve herkesin onu kabul edeceğini zannediyordum.
+40 YaÅŸ meselesinden bahsettim ve herkesin onu kabul edeceÄŸini zannediyordum.
 
 181
 00:16:49,620 --> 00:16:54,160
-Ama onlar etmediler ve ben onun üzerine  zamanı boşa harcadım.
+Ama onlar etmediler ve ben onun Ã¼zerine  zamanÄ± boÅŸa harcadÄ±m.
 
 182
 00:16:54,440 --> 00:17:01,200
-Ve eğer insanlar, örneğin bu ayet üzerinde anlayışa sahip olurlarsa bir lütuftur. Ve sonunda çok rahat edecekler.
+Ve eÄŸer insanlar, Ã¶rneÄŸin bu ayet Ã¼zerinde anlayÄ±ÅŸa sahip olurlarsa bir lÃ¼tuftur. Ve sonunda Ã§ok rahat edecekler.
 
 183
 00:17:01,419 --> 00:17:07,240
-Ve onların kanaatleri ve anlayışları varsa, ileri geri tartışmakla çok fazla zamanı boşa harcamayacaklar.
+Ve onlarÄ±n kanaatleri ve anlayÄ±ÅŸlarÄ± varsa, ileri geri tartÄ±ÅŸmakla Ã§ok fazla zamanÄ± boÅŸa harcamayacaklar.
 
 184
 00:17:08,240 --> 00:17:14,840
-(Yani) "Neden 40?!. 35 yaşındaki bir insan, bunu veya şunu yaptıysa nasıl cennete gidebilir?!."
+(Yani) "Neden 40?!. 35 yaÅŸÄ±ndaki bir insan, bunu veya ÅŸunu yaptÄ±ysa nasÄ±l cennete gidebilir?!."
 
 185
 00:17:14,900 --> 00:17:17,700
-Ama o, Tanrı'nın bize gönderdiği bir bilgi parçasıdır.
+Ama o, TanrÄ±'nÄ±n bize gÃ¶nderdiÄŸi bir bilgi parÃ§asÄ±dÄ±r.
 
 186
 00:17:17,839 --> 00:17:21,919
-Ve O, bize kanıtlar ve delil ve Kuran'dan bir sayı verdi.
+Ve O, bize kanÄ±tlar ve delil ve Kuran'dan bir sayÄ± verdi.
 
 187
 00:17:21,920 --> 00:17:23,700
-Dolayısıyla bu lütfa sahip bir kişi...
+DolayÄ±sÄ±yla bu lÃ¼tfa sahip bir kiÅŸi...
 
 188
 00:17:23,700 --> 00:17:28,480
-Tanrı, onun lütuf olduğunu söylüyor çünkü o, bize çok fazla zaman kazandırıyor.
+TanrÄ±, onun lÃ¼tuf olduÄŸunu sÃ¶ylÃ¼yor Ã§Ã¼nkÃ¼ o, bize Ã§ok fazla zaman kazandÄ±rÄ±yor.
 
 189
 00:17:28,480 --> 00:17:29,839
-Bitti, kapandı.
+Bitti, kapandÄ±.
 
 190
 00:17:29,839 --> 00:17:34,899
-"Tanrı diyor ki, '40'ına kadar herkes cennete gider' '' diye söylediğimizde...
+"TanrÄ± diyor ki, '40'Ä±na kadar herkes cennete gider' '' diye sÃ¶ylediÄŸimizde...
 
 191
 00:17:35,240 --> 00:17:38,720
-"Ve işte Kuran'daki o sayı da burada ve kanıtlar da burada, işaretler burada..."
+"Ve iÅŸte Kuran'daki o sayÄ± da burada ve kanÄ±tlar da burada, iÅŸaretler burada..."
 
 192
 00:17:38,720 --> 00:17:43,200
-O zaman biz, ikna olduk. Dolayısıyla bu, bir lütuftur.
+O zaman biz, ikna olduk. DolayÄ±sÄ±yla bu, bir lÃ¼tuftur.
 
 193
 00:17:45,160 --> 00:17:53,240
-Dolayısıyla ben, bu ayetin özellikle elçiye itaatsizlikle alakalı olduğunu anlıyorum.
+DolayÄ±sÄ±yla ben, bu ayetin Ã¶zellikle elÃ§iye itaatsizlikle alakalÄ± olduÄŸunu anlÄ±yorum.
 
 194
 00:17:53,240 --> 00:17:58,900
-Dolayısıyla olaylarlardaki itaat Tanrı'yla ilgili olmalı ve Tanrı'dan gelen bilgiyle.
+DolayÄ±sÄ±yla olaylarlardaki itaat TanrÄ±'yla ilgili olmalÄ± ve TanrÄ±'dan gelen bilgiyle.
 
 195
 00:18:02,000 --> 00:18:11,040
-Bu, şahsa itaat değildir. Tanrı'ya itaattir. Çünkü bilgi, Tanrı'dan geliyor.
+Bu, ÅŸahsa itaat deÄŸildir. TanrÄ±'ya itaattir. Ã‡Ã¼nkÃ¼ bilgi, TanrÄ±'dan geliyor.
 
 196
 00:18:11,220 --> 00:18:16,559
-Tarihe sahibiz. Tarih bizlere onların bir savaşı veya bir şeyi olduğunu söylüyor.
+Tarihe sahibiz. Tarih bizlere onlarÄ±n bir savaÅŸÄ± veya bir ÅŸeyi olduÄŸunu sÃ¶ylÃ¼yor.
 
 197
 00:18:16,740 --> 00:18:22,010
-Ve Muhammed Peygamber, haydi burada konaklayalım diyor ve onlar ona (Peygambere) gidip ve "Bu, senden bir mesaj mı yoksa Tanrı'dan mı?..
+Ve Muhammed Peygamber, haydi burada konaklayalÄ±m diyor ve onlar ona (Peygambere) gidip ve "Bu, senden bir mesaj mÄ± yoksa TanrÄ±'dan mÄ±?..
 
 198
 00:18:22,045 --> 00:18:31,059
-"...Eğer o Tanrı'dansa, onu yaparız." diye soruyorlar, o da "Hayır, bu benim (fikrim)." diyor. Onlar da, "Bu salakça bir fikir. Haydi buradan çıkalım." diyorlar.
+"...EÄŸer o TanrÄ±'dansa, onu yaparÄ±z." diye soruyorlar, o da "HayÄ±r, bu benim (fikrim)." diyor. Onlar da, "Bu salakÃ§a bir fikir. Haydi buradan Ã§Ä±kalÄ±m." diyorlar.
 
 199
 00:18:31,220 --> 00:18:36,380
-O, "Bu, benim (fikrim)." dediğinde, itaat etmemekte özgürdüler.
+O, "Bu, benim (fikrim)." dediÄŸinde, itaat etmemekte Ã¶zgÃ¼rdÃ¼ler.
 
 200
 00:18:36,579 --> 00:18:41,019
-Dolayısıyla itaat, gerçekte Tanrı'yadır. Bu, gerçekten de tarihte kayıtlıdır...
+DolayÄ±sÄ±yla itaat, gerÃ§ekte TanrÄ±'yadÄ±r. Bu, gerÃ§ekten de tarihte kayÄ±tlÄ±dÄ±r...
 
 201
 00:18:41,180 --> 00:18:48,080
-"Eğer sana itaat etseydik, hepimiz ölürdük." Ve onlar, başka bir yere hareket ettiler.
+"EÄŸer sana itaat etseydik, hepimiz Ã¶lÃ¼rdÃ¼k." Ve onlar, baÅŸka bir yere hareket ettiler.
 
 202
 00:18:54,599 --> 00:19:07,119
-Bayan: (Anlaşılmıyor)
+Bayan: (AnlaÅŸÄ±lmÄ±yor)
 
 203
 00:19:19,539 --> 00:19:23,079
-Reşad Halife: Tamam, buna katılıyorum.
+ReÅŸad Halife: Tamam, buna katÄ±lÄ±yorum.
 
 204
 00:19:24,779 --> 00:19:30,559
-Tamam. Genel sorular için vaktimiz varç
+Tamam. Genel sorular iÃ§in vaktimiz varÃ§
 
 205
 00:19:30,819 --> 00:19:35,779
-...İlgisiz, genel sorular...
+...Ä°lgisiz, genel sorular...
 
 206
 00:19:38,099 --> 00:19:45,339
-Evet, oh evet. Aman Allah'ım...Bundan bir pay çıkaracağız.
+Evet, oh evet. Aman Allah'Ä±m...Bundan bir pay Ã§Ä±karacaÄŸÄ±z.
 
 207
 00:19:45,339 --> 00:19:47,199
-Bana hatırlattığın için teşekkürler.
+Bana hatÄ±rlattÄ±ÄŸÄ±n iÃ§in teÅŸekkÃ¼rler.
 
 208
 00:19:47,359 --> 00:19:52,919
-Salih'e dedikleri kelimeı...(anlaşılmıyor)
+Salih'e dedikleri kelimeÄ±...(anlaÅŸÄ±lmÄ±yor)
 
 209
 00:19:52,920 --> 00:19:55,200
-Eskiler bunu hatırlayacaklardır.
+Eskiler bunu hatÄ±rlayacaklardÄ±r.
 
 210
 00:19:55,279 --> 00:20:04,180
-Salih dedi ki, "Bu, Tanrı'nın devesi... bırakın da bazı yerlerde kendi içmesi olsun."
+Salih dedi ki, "Bu, TanrÄ±'nÄ±n devesi... bÄ±rakÄ±n da bazÄ± yerlerde kendi iÃ§mesi olsun."
 
 211
 00:20:04,240 --> 00:20:10,099
-Ve ardından, o deveyi boğazladılar . Yani o kelime ..
+Ve ardÄ±ndan, o deveyi boÄŸazladÄ±lar . Yani o kelime ..
 
 212
 00:20:10,099 --> 00:20:16,359
-O kelime... Yaşı küçük olanlar kusura bakmayın fakat onlar dediler ki onlar deveyle ilişkiye girdi. (anlaşılmıyor)
+O kelime... YaÅŸÄ± kÃ¼Ã§Ã¼k olanlar kusura bakmayÄ±n fakat onlar dediler ki onlar deveyle iliÅŸkiye girdi. (anlaÅŸÄ±lmÄ±yor)
 
 213
 00:20:22,359 --> 00:20:27,619
-Reşad: "Dedikleri bu " 
+ReÅŸad: "Dedikleri bu " 
 
 214
 00:20:27,619 --> 00:20:33,779
-''O kelime.. (boğazladılar) anlamına gelmiyor.'' dediler. "Boğazlamak" anlamına gelen spesifik bir kelime istediler.
+''O kelime.. (boÄŸazladÄ±lar) anlamÄ±na gelmiyor.'' dediler. "BoÄŸazlamak" anlamÄ±na gelen spesifik bir kelime istediler.
 
 215
 00:20:33,779 --> 00:20:36,319
-Ve aslında, o kelime yeterince spesifik.
+Ve aslÄ±nda, o kelime yeterince spesifik.
 
 216
 00:20:40,000 --> 00:20:43,860
-.....Yani bu, Şeytan'dan (gelen) komploların örneklerinden
+.....Yani bu, Åeytan'dan (gelen) komplolarÄ±n Ã¶rneklerinden
 birisidir ve...
 
 217
 00:20:44,359 --> 00:20:46,419
-...onlar aslında geri geldiler ve benimle tartıştılar.
+...onlar aslÄ±nda geri geldiler ve benimle tartÄ±ÅŸtÄ±lar.
 
 218
 00:20:46,420 --> 00:20:50,259
-Sonra geri gelip "Sen onu neden 'Onlar deveyi katlettiler' diye çevirdin?.." dediler.
+Sonra geri gelip "Sen onu neden 'Onlar deveyi katlettiler' diye Ã§evirdin?.." dediler.
 
 219
 00:20:51,920 --> 00:20:55,320
-Dolayısıyla biz, Kuran'ı gerçekten yaşıyoruz. ''Komplo, Şeytan'dandır.'' (58:10)
+DolayÄ±sÄ±yla biz, Kuran'Ä± gerÃ§ekten yaÅŸÄ±yoruz. ''Komplo, Åeytan'dandÄ±r.'' (58:10)
 
 220
 00:20:55,380 --> 00:20:58,460
-Bariz şekilde Şeytan onlara o fikri verdi.
+Bariz ÅŸekilde Åeytan onlara o fikri verdi.
 
 221
 00:20:58,799 --> 00:21:05,779
-Bir Adam: Ayrıca insanlar, Arapça'dan İngilizce'ye çevirdikleri Kuran'ı okuyorlardı.
+Bir Adam: AyrÄ±ca insanlar, ArapÃ§a'dan Ä°ngilizce'ye Ã§evirdikleri Kuran'Ä± okuyorlardÄ±.
 
 222
 00:21:06,059 --> 00:21:08,799
-Bunu kullanmıyorlardı.
+Bunu kullanmÄ±yorlardÄ±.
 
 223
 00:21:09,000 --> 00:21:14,759
-Reşad: Zannediyorum ikisini de kullanıyorlardı, Arapça ve İngilizce... Veya, başka çevirileri de vardı.
+ReÅŸad: Zannediyorum ikisini de kullanÄ±yorlardÄ±, ArapÃ§a ve Ä°ngilizce... Veya, baÅŸka Ã§evirileri de vardÄ±.
 
 224
 00:21:14,759 --> 00:21:16,559
-Bir Adam: Ve hepsini birlikte kullanıyorlardı?
+Bir Adam: Ve hepsini birlikte kullanÄ±yorlardÄ±?
 
 225
 00:21:16,559 --> 00:21:23,319
-Reşad: Evet, (?)'leri var. Aslında kanıtları bile o fikirden aldılar. (tam anlaşılmıyor)
+ReÅŸad: Evet, (?)'leri var. AslÄ±nda kanÄ±tlarÄ± bile o fikirden aldÄ±lar. (tam anlaÅŸÄ±lmÄ±yor)
 
 226
 00:21:24,279 --> 00:21:27,960
-Martha, sen Arapça'yı biliyorsun. Kelime, "fea'karu".
+Martha, sen ArapÃ§a'yÄ± biliyorsun. Kelime, "fea'karu".
 
 227
 00:21:27,960 --> 00:21:32,600
-Ve onlar "debhu" kelimesini istediler, deveyi boğazlamak (slaughter)...
+Ve onlar "debhu" kelimesini istediler, deveyi boÄŸazlamak (slaughter)...
 
 228
 00:21:33,420 --> 00:21:39,119
-Kuran'da o kelime...O deveye yaptıkları boğazlamaktı.
+Kuran'da o kelime...O deveye yaptÄ±klarÄ± boÄŸazlamaktÄ±.
 
 229
 00:21:39,119 --> 00:21:44,779
-Yani onlar, "fea'akaru"yu deve ile cinsel ilişki yaşamak şeklini alacak şekilde değiştirdiler, öldürmek değil...
+Yani onlar, "fea'akaru"yu deve ile cinsel iliÅŸki yaÅŸamak ÅŸeklini alacak ÅŸekilde deÄŸiÅŸtirdiler, Ã¶ldÃ¼rmek deÄŸil...
 
 230
 00:21:44,779 --> 00:21:51,660
-Garip...Sapıklar. (Kahkaha) ...
+Garip...SapÄ±klar. (Kahkaha) ...
 
 231
 00:21:52,140 --> 00:21:53,779
-''Komplo, Şeytan'dandır''
+''Komplo, Åeytan'dandÄ±r''
 
 232
 00:21:53,779 --> 00:22:00,859
-Kendimizi imanlılardan ayırırsak olan işte budur.
+Kendimizi imanlÄ±lardan ayÄ±rÄ±rsak olan iÅŸte budur.
 
 233
 00:22:01,019 --> 00:22:04,900
-Nekru (?) kelimesi. Tamam, Robert'e dönelim.
+Nekru (?) kelimesi. Tamam, Robert'e dÃ¶nelim.
 
 234
 00:22:04,900 --> 00:22:11,180
-Robert: Tamam. Özellikle, "Tanrı, senin için bir yer açsın." kısmı... Ben, onun (?) bağlamında olduğunu düşünmüştüm.
+Robert: Tamam. Ã–zellikle, "TanrÄ±, senin iÃ§in bir yer aÃ§sÄ±n." kÄ±smÄ±... Ben, onun (?) baÄŸlamÄ±nda olduÄŸunu dÃ¼ÅŸÃ¼nmÃ¼ÅŸtÃ¼m.
 
 235
 00:22:11,180 --> 00:22:17,720
-Reşad: Aslında o, kelimenin tam anlamıyla şu anda oldu (?). Oturmak için bir yer buldun mu?
+ReÅŸad: AslÄ±nda o, kelimenin tam anlamÄ±yla ÅŸu anda oldu (?). Oturmak iÃ§in bir yer buldun mu?
 
 236
 00:22:17,819 --> 00:22:23,939
-Birinin hareket etmesini istedin mi? Birinin hareket etmesini istemek zorunda kaldın mı?
+Birinin hareket etmesini istedin mi? Birinin hareket etmesini istemek zorunda kaldÄ±n mÄ±?
 
 237
 00:22:23,980 --> 00:22:29,640
-Tamam, o zaman o, muhtemeldir. O içeri gelir ve kimsenin olmadığını fark eder.
+Tamam, o zaman o, muhtemeldir. O iÃ§eri gelir ve kimsenin olmadÄ±ÄŸÄ±nÄ± fark eder.
 
 238
 00:22:29,940 --> 00:22:35,319
-Yer yok, o birisinden ona yer açmasını isteyecektir. Kelime anlamıyla anlayabilirsiniz veya Robert'in söylediği şekilde de anlayabilirsiniz.
+Yer yok, o birisinden ona yer aÃ§masÄ±nÄ± isteyecektir. Kelime anlamÄ±yla anlayabilirsiniz veya Robert'in sÃ¶ylediÄŸi ÅŸekilde de anlayabilirsiniz.
 
 239
 00:22:35,319 --> 00:22:40,740
-Bir Adam: Onu başkalarına karşı kibar olmak olarak düşün.
+Bir Adam: Onu baÅŸkalarÄ±na karÅŸÄ± kibar olmak olarak dÃ¼ÅŸÃ¼n.
 
 240
 00:22:40,740 --> 00:22:42,299
-Reşad: Kesinlikle.
+ReÅŸad: Kesinlikle.
 
 241
 00:22:42,299 --> 00:22:44,819
-"Başkalarına karşı duyarlı ol." Genel ilkedir.
+"BaÅŸkalarÄ±na karÅŸÄ± duyarlÄ± ol." Genel ilkedir.
 
 242
 00:22:45,279 --> 00:22:48,700
-Diğer bir deyişle, eğer sen insanlara karşı nazik olursan, ....
+DiÄŸer bir deyiÅŸle, eÄŸer sen insanlara karÅŸÄ± nazik olursan, ....
 
 243
 00:22:48,700 --> 00:22:53,279
-Tanrı da sana karşı nazik olacaktır, eğer sen başkalarına karşı naziksen...
+TanrÄ± da sana karÅŸÄ± nazik olacaktÄ±r, eÄŸer sen baÅŸkalarÄ±na karÅŸÄ± naziksen...
 
 244
 00:22:53,279 --> 00:22:57,599
-hepsi gelip de ''hayır'' derse...Düşüncesiz olmayın..
+hepsi gelip de ''hayÄ±r'' derse...DÃ¼ÅŸÃ¼ncesiz olmayÄ±n..
 
 245
 00:22:57,599 --> 00:23:02,339
-Yalnızca umursamaz olmak...
+YalnÄ±zca umursamaz olmak...
 
 246
 00:23:02,339 --> 00:23:03,579
-Robert: ...onu yapmalarının nedeni miydi?
+Robert: ...onu yapmalarÄ±nÄ±n nedeni miydi?
 
 247
 00:23:03,660 --> 00:23:06,539
-Reşad: Evet. Onlar kendilerine Tanrı'nın düşmanlarını müttefik ediniyorlar.
+ReÅŸad: Evet. Onlar kendilerine TanrÄ±'nÄ±n dÃ¼ÅŸmanlarÄ±nÄ± mÃ¼ttefik ediniyorlar.
 
 248
 00:23:06,539 --> 00:23:07,359
@@ -997,99 +997,99 @@ Robert: Tamam.
 
 249
 00:23:07,359 --> 00:23:17,059
-Reşad Halife: Aslında biz, bunların örneklerine sahibiz.
+ReÅŸad Halife: AslÄ±nda biz, bunlarÄ±n Ã¶rneklerine sahibiz.
 
 250
 00:23:17,420 --> 00:23:23,000
-Örneğin kendilerine müttefik edinen insanlar... Bana İslamic Center'a giden birilerinin olduğu söylendi.
+Ã–rneÄŸin kendilerine mÃ¼ttefik edinen insanlar... Bana Ä°slamic Center'a giden birilerinin olduÄŸu sÃ¶ylendi.
 
 251
 00:23:23,500 --> 00:23:31,059
-Islamic Center,..  Onlar aşikar putperestlerdir, namazlarını yalnızca Tanrı'ya adamıyorlar.
+Islamic Center,..  Onlar aÅŸikar putperestlerdir, namazlarÄ±nÄ± yalnÄ±zca TanrÄ±'ya adamÄ±yorlar.
 
 252
 00:23:31,220 --> 00:23:34,200
-Ve onları siz biliyorsunuz. Tanrı'nın kızgınlığı (anlaşılmıyor)
+Ve onlarÄ± siz biliyorsunuz. TanrÄ±'nÄ±n kÄ±zgÄ±nlÄ±ÄŸÄ± (anlaÅŸÄ±lmÄ±yor)
 
 253
 00:23:34,200 --> 00:23:36,380
-Onlar "La İlahe İlla Allah" ı kabul etmeyeceklerdir.
+Onlar "La Ä°lahe Ä°lla Allah" Ä± kabul etmeyeceklerdir.
 
 254
 00:23:36,380 --> 00:23:41,440
-Oraya gidin ve onlara deyin ki, "La İlahe İllallah". Size "Kafir" derler.
+Oraya gidin ve onlara deyin ki, "La Ä°lahe Ä°llallah". Size "Kafir" derler.
 
 255
 00:23:48,440 --> 00:23:55,380
-İfade özgürlüğüne sahip olmayı söylediğim için eleştiriyorlar.
+Ä°fade Ã¶zgÃ¼rlÃ¼ÄŸÃ¼ne sahip olmayÄ± sÃ¶ylediÄŸim iÃ§in eleÅŸtiriyorlar.
 
 256
 00:23:55,380 --> 00:24:09,120
-O mektupta diyorlar ki, "Biz, Salman Rüşdi'ye karşı durdukları için Katolik Kilisesi ile aynı düşünüyoruz, onu takdir ediyoruz veya onu alkışlıyoruz." Şimdi...Bu bir İslamî Merkez.
+O mektupta diyorlar ki, "Biz, Salman RÃ¼ÅŸdi'ye karÅŸÄ± durduklarÄ± iÃ§in Katolik Kilisesi ile aynÄ± dÃ¼ÅŸÃ¼nÃ¼yoruz, onu takdir ediyoruz veya onu alkÄ±ÅŸlÄ±yoruz." Åimdi...Bu bir Ä°slamÃ® Merkez.
 
 257
 00:24:09,259 --> 00:24:15,019
-Onu beğeniyor...Bana saldırıyorlar ve Katolik Kilisesi'ne alkış tutuyorlar.
+Onu beÄŸeniyor...Bana saldÄ±rÄ±yorlar ve Katolik Kilisesi'ne alkÄ±ÅŸ tutuyorlar.
 
 258
 00:24:15,019 --> 00:24:23,259
-Tamam. Ben diyorum ki, "La İlahe İllallah". Katolik Kilisesi de diyor ki, "Tanrı'nın anası Meryem'e övgüler sunuyoruz!"
+Tamam. Ben diyorum ki, "La Ä°lahe Ä°llallah". Katolik Kilisesi de diyor ki, "TanrÄ±'nÄ±n anasÄ± Meryem'e Ã¶vgÃ¼ler sunuyoruz!"
 
 259
 00:24:23,799 --> 00:24:28,059
-Yani o, Tanrı'ya tapma meselesi değil. O politika veya bir şey...
+Yani o, TanrÄ±'ya tapma meselesi deÄŸil. O politika veya bir ÅŸey...
 
 260
 00:24:28,539 --> 00:24:35,681
-Katolik Kilisesi'ni herhangi bir şey için nasıl olur da alkışlayabilirler? Çünkü Katolik Kilisesi, Humeyni'nin uyguladığı şeyin aynısını uyguluyor.
+Katolik Kilisesi'ni herhangi bir ÅŸey iÃ§in nasÄ±l olur da alkÄ±ÅŸlayabilirler? Ã‡Ã¼nkÃ¼ Katolik Kilisesi, Humeyni'nin uyguladÄ±ÄŸÄ± ÅŸeyin aynÄ±sÄ±nÄ± uyguluyor.
 
 261
 00:24:36,100 --> 00:24:42,700
-İnsanların, kendilerinin ''Torino Kefeni'' ve sahip oldukları tüm o saçmalıklar hakkında yazı yazmalarından hoşlanmıyorlar.
+Ä°nsanlarÄ±n, kendilerinin ''Torino Kefeni'' ve sahip olduklarÄ± tÃ¼m o saÃ§malÄ±klar hakkÄ±nda yazÄ± yazmalarÄ±ndan hoÅŸlanmÄ±yorlar.
 
 262
 00:24:42,700 --> 00:24:50,240
-Ve onlar sansürlüyorlar (?). İnsanları, görüşlerinden dolayı sağdan ve soldan aforoz ediyorlar.
+Ve onlar sansÃ¼rlÃ¼yorlar (?). Ä°nsanlarÄ±, gÃ¶rÃ¼ÅŸlerinden dolayÄ± saÄŸdan ve soldan aforoz ediyorlar.
 
 263
 00:24:51,360 --> 00:24:56,640
-Yani onlar aynı kafadalar.
+Yani onlar aynÄ± kafadalar.
 
 264
 00:24:56,640 --> 00:24:58,380
-Lydia: (Anlaşılmıyor)
+Lydia: (AnlaÅŸÄ±lmÄ±yor)
 
 265
 00:24:58,380 --> 00:24:59,900
-Reşad: Doğru.
+ReÅŸad: DoÄŸru.
 
 266
 00:24:59,900 --> 00:25:03,940
-Lydia: Tam olarak aynı şey. Bir kulaktan giriyor ve ötekinden çıkıyor.
+Lydia: Tam olarak aynÄ± ÅŸey. Bir kulaktan giriyor ve Ã¶tekinden Ã§Ä±kÄ±yor.
 
 267
 00:25:03,940 --> 00:25:07,960
-Dolayısıyla siz, nasıl { [?] olduğunu } görebilirsiniz...
+DolayÄ±sÄ±yla siz, nasÄ±l { [?] olduÄŸunu } gÃ¶rebilirsiniz...
 
 268
 00:25:07,960 --> 00:25:13,960
-Reşad: Tanrı'nın bu gibi insanlara nasıl bakacağını görebilirsiniz.
+ReÅŸad: TanrÄ±'nÄ±n bu gibi insanlara nasÄ±l bakacaÄŸÄ±nÄ± gÃ¶rebilirsiniz.
 
 269
 00:25:14,140 --> 00:25:19,640
-"Tanrı'nın annesi Meryem'e övgüler sunuyoruz!" diyen insanlara alkış tutan...
+"TanrÄ±'nÄ±n annesi Meryem'e Ã¶vgÃ¼ler sunuyoruz!" diyen insanlara alkÄ±ÅŸ tutan...
 
 270
 00:25:19,640 --> 00:25:23,500
-İbare, "Tanrı'nın annesi Meryem".
+Ä°bare, "TanrÄ±'nÄ±n annesi Meryem".
 
 271
 00:25:24,259 --> 00:25:29,519
-Ve, "La İlahe İllallah, yalnızca Tanrı'ya tapın." diyen birilerini kınayan...
+Ve, "La Ä°lahe Ä°llallah, yalnÄ±zca TanrÄ±'ya tapÄ±n." diyen birilerini kÄ±nayan...
 
 272
 00:25:29,960 --> 00:25:36,059
-Dolayısıyla o insanları kendine müttefik edinen herhangi bir kimse...Tanrı, onlara kızgındır.
+DolayÄ±sÄ±yla o insanlarÄ± kendine mÃ¼ttefik edinen herhangi bir kimse...TanrÄ±, onlara kÄ±zgÄ±ndÄ±r.
 
 273
 00:25:36,119 --> 00:25:38,619
@@ -1097,15 +1097,15 @@ Bu, Ayet 15.
 
 274
 00:25:38,779 --> 00:25:41,779
-"Tanrı, onlar için şiddetli azabı hazırladı. Yaptıkları gerçekten de berbat."
+"TanrÄ±, onlar iÃ§in ÅŸiddetli azabÄ± hazÄ±rladÄ±. YaptÄ±klarÄ± gerÃ§ekten de berbat."
 
 275
 00:25:41,779 --> 00:25:47,180
-Robert: Onlar, kendilerine Tanrı'yı kızdırmış insanları müttefik edinenlerdir.
+Robert: Onlar, kendilerine TanrÄ±'yÄ± kÄ±zdÄ±rmÄ±ÅŸ insanlarÄ± mÃ¼ttefik edinenlerdir.
 
 276
 00:25:47,299 --> 00:25:48,339
-Reşad: Hıhı.
+ReÅŸad: HÄ±hÄ±.
 
 277
 00:25:48,339 --> 00:25:50,339
@@ -1113,7 +1113,7 @@ Robert: Tamam.
 
 278
 00:25:53,720 --> 00:25:57,460
-Reşad: Şeytan'dan Tanrı'ya sığınıyoruz.
+ReÅŸad: Åeytan'dan TanrÄ±'ya sÄ±ÄŸÄ±nÄ±yoruz.
 
 279
 00:25:57,559 --> 00:25:59,079
@@ -1121,43 +1121,43 @@ Bismillahir rahmanir rahim.
 
 280
 00:25:59,240 --> 00:26:01,980
-En Lütufkâr, En Merhametli olan Tanrı'nın adıyla.
+En LÃ¼tufkÃ¢r, En Merhametli olan TanrÄ±'nÄ±n adÄ±yla.
 
 281
 00:26:02,619 --> 00:26:07,659
-Bu gece, Sure 54'den başlıyoruz.
+Bu gece, Sure 54'den baÅŸlÄ±yoruz.
 
 282
 00:26:07,660 --> 00:26:09,220
-55--Kusura bakmayın.
+55--Kusura bakmayÄ±n.
 
 283
 00:26:10,000 --> 00:26:12,640
-Ve öğretmenimiz bu gece Lori olacak, değil mi?
+Ve Ã¶ÄŸretmenimiz bu gece Lori olacak, deÄŸil mi?
 
 284
 00:26:12,960 --> 00:26:16,519
-Ama biz başlamadan önce ben, bazı düzeltmeler yapmak istiyorum.
+Ama biz baÅŸlamadan Ã¶nce ben, bazÄ± dÃ¼zeltmeler yapmak istiyorum.
 
 285
 00:26:16,740 --> 00:26:19,920
-Bugünkü hutbemde... Bazen bazı potlar kırıyorum.
+BugÃ¼nkÃ¼ hutbemde... Bazen bazÄ± potlar kÄ±rÄ±yorum.
 
 286
 00:26:19,980 --> 00:26:24,740
-Bazen pek nazik gözükmeyen şeyler söylerim.
+Bazen pek nazik gÃ¶zÃ¼kmeyen ÅŸeyler sÃ¶ylerim.
 
 287
 00:26:25,440 --> 00:26:31,140
-Örneğin, burada muazzam bir kek getiricileri veya kek yapıcıları takımımız var.
+Ã–rneÄŸin, burada muazzam bir kek getiricileri veya kek yapÄ±cÄ±larÄ± takÄ±mÄ±mÄ±z var.
 
 288
 00:26:31,579 --> 00:26:35,779
-Ve ben Rahima'nın sırası mı yoksa Lori'nin sırası mı diye sorduğumda...
+Ve ben Rahima'nÄ±n sÄ±rasÄ± mÄ± yoksa Lori'nin sÄ±rasÄ± mÄ± diye sorduÄŸumda...
 
 289
 00:26:36,380 --> 00:26:40,860
-"En iyisi" dedim. Yani bu...Onların hepsi, onların hepsi muazzam kek yapıcıları...
+"En iyisi" dedim. Yani bu...OnlarÄ±n hepsi, onlarÄ±n hepsi muazzam kek yapÄ±cÄ±larÄ±...
 
 290
 00:26:41,200 --> 00:26:42,819
@@ -1165,23 +1165,23 @@ kek getiricileri...
 
 291
 00:26:42,920 --> 00:26:55,519
-Ve bu pek nazik gözükmüyor ama benim size her bir imanlının en iyisi olduğunu açıklamam lazım. Ben "En iyisi" dediğimde, onların tek tek her birine atıfta bulunuyorum.
+Ve bu pek nazik gÃ¶zÃ¼kmÃ¼yor ama benim size her bir imanlÄ±nÄ±n en iyisi olduÄŸunu aÃ§Ä±klamam lazÄ±m. Ben "En iyisi" dediÄŸimde, onlarÄ±n tek tek her birine atÄ±fta bulunuyorum.
 
 292
 00:26:55,519 --> 00:26:57,000
-Çünkü onların hepsi..
+Ã‡Ã¼nkÃ¼ onlarÄ±n hepsi..
 
 293
 00:26:57,319 --> 00:27:08,759
-Umarım durumu daha da batırmam. Hayır, gerçekten... Çünkü siz insanlar o kadar özelsiniz ki her biriniz en iyisisiniz ve onu dediğimde ben yalnızca...
+UmarÄ±m durumu daha da batÄ±rmam. HayÄ±r, gerÃ§ekten... Ã‡Ã¼nkÃ¼ siz insanlar o kadar Ã¶zelsiniz ki her biriniz en iyisisiniz ve onu dediÄŸimde ben yalnÄ±zca...
 
 294
 00:27:08,759 --> 00:27:14,839
-...size diğerlerinin hakkını yemeden (edilebilecek) mümkün olan en yüksek övgüyü etmek istedim sadece.
+...size diÄŸerlerinin hakkÄ±nÄ± yemeden (edilebilecek) mÃ¼mkÃ¼n olan en yÃ¼ksek Ã¶vgÃ¼yÃ¼ etmek istedim sadece.
 
 295
 00:27:16,259 --> 00:27:22,900
-Yani "HER BİRİNİN EN İYİSİ OLDUKLARINI" (söylemek istedim sadece).
+Yani "HER BÄ°RÄ°NÄ°N EN Ä°YÄ°SÄ° OLDUKLARINI" (sÃ¶ylemek istedim sadece).
 
 296
 00:27:22,900 --> 00:27:24,900
@@ -1193,99 +1193,99 @@ Her bir... (Kahkaha)
 
 298
 00:27:30,160 --> 00:27:35,620
-Kekinizi içeri getirdiğinizde en iyisi olarak tanımlamıyor musunuz?
+Kekinizi iÃ§eri getirdiÄŸinizde en iyisi olarak tanÄ±mlamÄ±yor musunuz?
 
 299
 00:27:36,359 --> 00:27:41,539
-Şimdi...Bundan paçamı nasıl kurtarırım?.. (Kahkaha) İmdat!
+Åimdi...Bundan paÃ§amÄ± nasÄ±l kurtarÄ±rÄ±m?.. (Kahkaha) Ä°mdat!
 
 300
 00:27:41,539 --> 00:27:46,139
-Zannediyorum ki ondan "Tamam, söz sende Lori." diyerek yakamı kurtarırım.
+Zannediyorum ki ondan "Tamam, sÃ¶z sende Lori." diyerek yakamÄ± kurtarÄ±rÄ±m.
 
 301
 00:27:49,259 --> 00:27:52,140
-Lori: O gerçekten de benim için bir testti. Çünkü ben, yalnızca bilmek istedim...
+Lori: O gerÃ§ekten de benim iÃ§in bir testti. Ã‡Ã¼nkÃ¼ ben, yalnÄ±zca bilmek istedim...
 
 302
 00:27:52,720 --> 00:27:56,720
-...ve ben hiçbir zaman cinleri anlamadım. O adeta şöyleydi: bilirsiniz, onu okuyorum...
+...ve ben hiÃ§bir zaman cinleri anlamadÄ±m. O adeta ÅŸÃ¶yleydi: bilirsiniz, onu okuyorum...
 
 303
 00:27:56,859 --> 00:27:59,139
-...ve benim düşünmem lazım. Ama teşekkür ederim...
+...ve benim dÃ¼ÅŸÃ¼nmem lazÄ±m. Ama teÅŸekkÃ¼r ederim...
 
 304
 00:27:59,140 --> 00:28:01,900
-Ve onu biliyordum çünkü o Kuran'daydı. Ona iman etmek zorundaydım.
+Ve onu biliyordum Ã§Ã¼nkÃ¼ o Kuran'daydÄ±. Ona iman etmek zorundaydÄ±m.
 
 305
 00:28:01,900 --> 00:28:06,559
-Ama ben onların ne olduklarını bilmiyordum ve hiç kimse onu bana anlatamadı.
+Ama ben onlarÄ±n ne olduklarÄ±nÄ± bilmiyordum ve hiÃ§ kimse onu bana anlatamadÄ±.
 
 306
 00:28:06,559 --> 00:28:11,220
-Ve ben cinlerin işleri ile ilgili çok rastgele açıklamalar aldım.
+Ve ben cinlerin iÅŸleri ile ilgili Ã§ok rastgele aÃ§Ä±klamalar aldÄ±m.
 
 307
 00:28:11,339 --> 00:28:16,259
-Ve o her zaman bana dert oldu ama ben kendimi teslim olmaya zorladım.
+Ve o her zaman bana dert oldu ama ben kendimi teslim olmaya zorladÄ±m.
 
 308
 00:28:16,319 --> 00:28:25,779
-Ve Kuran'ın ikinci suresinde, "Onlar görünmeyene iman ederler." dediği yerde...Ve o, görünmeyenin bir parçası.
+Ve Kuran'Ä±n ikinci suresinde, "Onlar gÃ¶rÃ¼nmeyene iman ederler." dediÄŸi yerde...Ve o, gÃ¶rÃ¼nmeyenin bir parÃ§asÄ±.
 
 309
 00:28:25,779 --> 00:28:31,899
-Ve İnşallah, zamanı gelince Tanrı'nın onu bana açıklayacağını biliyordum.
+Ve Ä°nÅŸallah, zamanÄ± gelince TanrÄ±'nÄ±n onu bana aÃ§Ä±klayacaÄŸÄ±nÄ± biliyordum.
 
 310
 00:28:32,099 --> 00:28:37,519
-Ve bu camide olmanın lütuflarından biri de, şeylerin bize açıklanmasıdır.
+Ve bu camide olmanÄ±n lÃ¼tuflarÄ±ndan biri de, ÅŸeylerin bize aÃ§Ä±klanmasÄ±dÄ±r.
 
 311
 00:28:37,579 --> 00:28:48,000
-Ve Reşad'ın bugün Hutbe'de dediği gibi, açıklamak için aramızdan bir elçi göndermesi Tanrı'dan bir rahmettir. Bilgi, burada Kuran'dadır.
+Ve ReÅŸad'Ä±n bugÃ¼n Hutbe'de dediÄŸi gibi, aÃ§Ä±klamak iÃ§in aramÄ±zdan bir elÃ§i gÃ¶ndermesi TanrÄ±'dan bir rahmettir. Bilgi, burada Kuran'dadÄ±r.
 
 312
 00:28:48,000 --> 00:28:53,339
-Ve hepimiz Kuran'ı okuduk. Ve biliyorsunuz ben, onu ayda bir kere baştan sona okuyorum.
+Ve hepimiz Kuran'Ä± okuduk. Ve biliyorsunuz ben, onu ayda bir kere baÅŸtan sona okuyorum.
 
 313
 00:28:53,359 --> 00:28:55,240
-Ve her seferinde, orada yeni bir şey var...
+Ve her seferinde, orada yeni bir ÅŸey var...
 
 314
 00:28:55,240 --> 00:29:00,359
-Ve biz ihtiyaç duyduğumuzu ona ihtiyaç duyduğumuz zamanda alıyoruz.
+Ve biz ihtiyaÃ§ duyduÄŸumuzu ona ihtiyaÃ§ duyduÄŸumuz zamanda alÄ±yoruz.
 
 315
 00:29:00,480 --> 00:29:04,599
-Ve biz bu Cami'de şuana kadar gelişiyoruz. Bu muazzam bir şey.
+Ve biz bu Cami'de ÅŸuana kadar geliÅŸiyoruz. Bu muazzam bir ÅŸey.
 
 316
 00:29:04,599 --> 00:29:07,819
-Biliyorsunuz, Reşad ve Lisa, Hasan  Kanada'ya gittiler...
+Biliyorsunuz, ReÅŸad ve Lisa, Hasan  Kanada'ya gittiler...
 
 317
 00:29:08,000 --> 00:29:12,460
-...ve orada, bizim inandığımız gibi inanan insanların (olduğu bir) yerde, onlar hala bizden gerideler.
+...ve orada, bizim inandÄ±ÄŸÄ±mÄ±z gibi inanan insanlarÄ±n (olduÄŸu bir) yerde, onlar hala bizden gerideler.
 
 318
 00:29:12,460 --> 00:29:14,869
-Ve burada, her Cuma gecesi yoluyla elde ettiğimiz bilgi...
+Ve burada, her Cuma gecesi yoluyla elde ettiÄŸimiz bilgi...
 
 319
 00:29:14,869 --> 00:29:19,679
-Öğreniyoruz ve araştırıyoruz...Buradaki tüm bu imanlıların katkılarına da sahibiz ve...
+Ã–ÄŸreniyoruz ve araÅŸtÄ±rÄ±yoruz...Buradaki tÃ¼m bu imanlÄ±larÄ±n katkÄ±larÄ±na da sahibiz ve...
 
 320
 00:29:19,680 --> 00:29:24,319
-Öğreniyoruz ve araştırıyoruz...Buradaki tüm bu imanlıların katkılarına da sahibiz.
+Ã–ÄŸreniyoruz ve araÅŸtÄ±rÄ±yoruz...Buradaki tÃ¼m bu imanlÄ±larÄ±n katkÄ±larÄ±na da sahibiz.
 
 321
 00:29:24,319 --> 00:29:29,519
-Ve bize aktarmak üzere kendisine bilgi verilmiş olan bir elçiye sahibiz.
+Ve bize aktarmak Ã¼zere kendisine bilgi verilmiÅŸ olan bir elÃ§iye sahibiz.
 
 322
 00:29:29,579 --> 00:29:32,899
@@ -1293,324 +1293,324 @@ Lori: Ve biz de bu Cami'deki bilgiden sorumluyuz.
 
 323
 00:29:32,900 --> 00:29:36,060
-Reşad: Bu, insanlara ve cinlere yönelikti.
+ReÅŸad: Bu, insanlara ve cinlere yÃ¶nelikti.
 
 324
 00:29:36,220 --> 00:29:42,500
-...Ki yalnızca iki tür yaratık vardır: Şeytan'ın tamamen tarafını tutmuş olan yaratıklar...
+...Ki yalnÄ±zca iki tÃ¼r yaratÄ±k vardÄ±r: Åeytan'Ä±n tamamen tarafÄ±nÄ± tutmuÅŸ olan yaratÄ±klar...
 
 325
 00:29:42,920 --> 00:29:49,700
-...yani cinler. Ve (?) yapmamış olan yaratıklar. Eh... Tarafsız olmuş olan, Tanrı'nın tarafını tutmamış olanlar.
+...yani cinler. Ve (?) yapmamÄ±ÅŸ olan yaratÄ±klar. Eh... TarafsÄ±z olmuÅŸ olan, TanrÄ±'nÄ±n tarafÄ±nÄ± tutmamÄ±ÅŸ olanlar.
 
 326
 00:29:49,700 --> 00:29:55,319
-Bu siz ve beniz. (Tam olarak anlaşılmıyor) Tanrı, bize kilden bir vücut vermeye karar verdi.
+Bu siz ve beniz. (Tam olarak anlaÅŸÄ±lmÄ±yor) TanrÄ±, bize kilden bir vÃ¼cut vermeye karar verdi.
 
 327
 00:29:55,640 --> 00:30:00,960
-İlk olarak...Yeryüzü ile aynı materyal. Yani bizler yeryüzüne bağımlıyız.
+Ä°lk olarak...YeryÃ¼zÃ¼ ile aynÄ± materyal. Yani bizler yeryÃ¼zÃ¼ne baÄŸÄ±mlÄ±yÄ±z.
 
 328
 00:30:01,039 --> 00:30:05,619
-Ama cinler, ateşten bir bedene sahipler. Fark bu.
+Ama cinler, ateÅŸten bir bedene sahipler. Fark bu.
 
 329
 00:30:06,000 --> 00:30:10,279
-Biz bir boyuttayız ve onlar da başka bir boyuttalar...
+Biz bir boyuttayÄ±z ve onlar da baÅŸka bir boyuttalar...
 
 330
 00:30:10,279 --> 00:30:13,720
-Çünkü, antlaşma Şeytan'ın görünmez kalmasını gerektiriyordu. Tıpkı Tanrı'nın görünmez olması gibi, 
+Ã‡Ã¼nkÃ¼, antlaÅŸma Åeytan'Ä±n gÃ¶rÃ¼nmez kalmasÄ±nÄ± gerektiriyordu. TÄ±pkÄ± TanrÄ±'nÄ±n gÃ¶rÃ¼nmez olmasÄ± gibi, 
 
 331
 00:30:13,720 --> 00:30:21,279
-Şeytan görünmez iken bize fısıldamak istedi.
+Åeytan gÃ¶rÃ¼nmez iken bize fÄ±sÄ±ldamak istedi.
 
 332
 00:30:21,799 --> 00:30:27,079
-Bu yüzden onların başka bir materyalden ve başka bir boyuttan yapılmaları gerekiyordu.
+Bu yÃ¼zden onlarÄ±n baÅŸka bir materyalden ve baÅŸka bir boyuttan yapÄ±lmalarÄ± gerekiyordu.
 
 333
 00:30:27,079 --> 00:30:31,159
-Ayrıca cinlerin enerjiden yapılmış olmaları da...
+AyrÄ±ca cinlerin enerjiden yapÄ±lmÄ±ÅŸ olmalarÄ± da...
 
 334
 00:30:31,160 --> 00:30:37,039
-...onlara ışık hızından çok daha hızlı seyahat etme yeteneği veriyor.
+...onlara Ä±ÅŸÄ±k hÄ±zÄ±ndan Ã§ok daha hÄ±zlÄ± seyahat etme yeteneÄŸi veriyor.
 
 335
 00:30:37,039 --> 00:30:38,740
-Işık hızının milyonlarca katı (hızda)...
+IÅŸÄ±k hÄ±zÄ±nÄ±n milyonlarca katÄ± (hÄ±zda)...
 
 336
 00:30:38,740 --> 00:30:44,160
-Onlar evrenimizin dış sınırlarına gidiyorlar, 26 milyar ışık yılı...
+Onlar evrenimizin dÄ±ÅŸ sÄ±nÄ±rlarÄ±na gidiyorlar, 26 milyar Ä±ÅŸÄ±k yÄ±lÄ±...
 
 337
 00:30:44,160 --> 00:30:48,000
-Dolayısıyla o, onlara görülecek daha çok şey veriyor.
+DolayÄ±sÄ±yla o, onlara gÃ¶rÃ¼lecek daha Ã§ok ÅŸey veriyor.
 
 338
 00:30:48,279 --> 00:30:55,279
-Daha çok delil. Tanrı, onlara daha çok delil veriyor çünkü onlar Tanrı'ya karşı sert bir duruş sergilediler.
+Daha Ã§ok delil. TanrÄ±, onlara daha Ã§ok delil veriyor Ã§Ã¼nkÃ¼ onlar TanrÄ±'ya karÅŸÄ± sert bir duruÅŸ sergilediler.
 
 339
 00:30:55,680 --> 00:30:59,060
-Dolayısıyla Ahiret'te cehenneme gittikleri zaman...
+DolayÄ±sÄ±yla Ahiret'te cehenneme gittikleri zaman...
 
 340
 00:30:59,420 --> 00:31:00,900
-Öyle görünüyor ki,
+Ã–yle gÃ¶rÃ¼nÃ¼yor ki,
 
 341
 00:31:00,900 --> 00:31:14,680
-Tüm bu hayat gerçekten, insanların ve cinlerin, yani Tanrı'nın mutlak otoritesiyle sağlam bir duruş göstermemiş olan yaratıkların, bahanelerini boşa çıkarmak içindir.
+TÃ¼m bu hayat gerÃ§ekten, insanlarÄ±n ve cinlerin, yani TanrÄ±'nÄ±n mutlak otoritesiyle saÄŸlam bir duruÅŸ gÃ¶stermemiÅŸ olan yaratÄ±klarÄ±n, bahanelerini boÅŸa Ã§Ä±karmak iÃ§indir.
 
 342
 00:31:15,000 --> 00:31:16,299
-Diğer bir deyişle...
+DiÄŸer bir deyiÅŸle...
 
 343
 00:31:16,299 --> 00:31:26,988
-Tanrı, başlangıçta melekleri dinlemiş olsaydı ve "Tamam. Benim mutlak otoritemle bir duruş sergilememiş olan herkes, sürülecek, dışarı çıkacak, cehenneme gidecek." deseydi...
+TanrÄ±, baÅŸlangÄ±Ã§ta melekleri dinlemiÅŸ olsaydÄ± ve "Tamam. Benim mutlak otoritemle bir duruÅŸ sergilememiÅŸ olan herkes, sÃ¼rÃ¼lecek, dÄ±ÅŸarÄ± Ã§Ä±kacak, cehenneme gidecek." deseydi...
 
 344
 00:31:26,988 --> 00:31:29,920
-Derdik ki, "Oh! Sen bize başka bir şans vermedin."
+Derdik ki, "Oh! Sen bize baÅŸka bir ÅŸans vermedin."
 
 345
 00:31:29,920 --> 00:31:32,000
-"Biz cehennemin ne kadar kötü olduğunu bilmiyorduk!"
+"Biz cehennemin ne kadar kÃ¶tÃ¼ olduÄŸunu bilmiyorduk!"
 
 346
 00:31:32,240 --> 00:31:34,660
-"Sen bize uyarılar vermedin."
+"Sen bize uyarÄ±lar vermedin."
 
 347
 00:31:34,660 --> 00:31:41,740
-Yani bu hayat öyle bir dizayn edildi ki, insanlar ve cinler cehenneme gitmekte ısrar ettikleri zaman bunları diyemeyecekler.
+Yani bu hayat Ã¶yle bir dizayn edildi ki, insanlar ve cinler cehenneme gitmekte Ä±srar ettikleri zaman bunlarÄ± diyemeyecekler.
 
 348
 00:31:41,740 --> 00:31:50,660
-..."Sen bize bir şans vermedin." "Bize uyarıları vermedin." "Biz ne yaptığımızı bilmiyorduk." diyemeyecekler.
+..."Sen bize bir ÅŸans vermedin." "Bize uyarÄ±larÄ± vermedin." "Biz ne yaptÄ±ÄŸÄ±mÄ±zÄ± bilmiyorduk." diyemeyecekler.
 
 349
 00:31:51,119 --> 00:31:55,539
-"Eğer Sen, bize burada, cehennemde (işlerin) ne kadar kötü olduğunu söylemiş olsaydın, biz başka bir seçim yapmış olurduk."
+"EÄŸer Sen, bize burada, cehennemde (iÅŸlerin) ne kadar kÃ¶tÃ¼ olduÄŸunu sÃ¶ylemiÅŸ olsaydÄ±n, biz baÅŸka bir seÃ§im yapmÄ±ÅŸ olurduk."
 
 350
 00:31:55,539 --> 00:32:00,339
-Tanrı bize, insanlara ve cinlere her şeyi söyledi. O, bize cehennemin ne kadar kötü olduğunu anlattı...
+TanrÄ± bize, insanlara ve cinlere her ÅŸeyi sÃ¶yledi. O, bize cehennemin ne kadar kÃ¶tÃ¼ olduÄŸunu anlattÄ±...
 
 351
 00:32:00,339 --> 00:32:01,720
-Ondan nasıl çıkılacağını...
+Ondan nasÄ±l Ã§Ä±kÄ±lacaÄŸÄ±nÄ±...
 
 352
 00:32:01,740 --> 00:32:06,099
-Kendimizi nasıl günahtan kurtaracağımızı, nasıl Tanrı'nın Krallığı'na geri dönüleceğini...
+Kendimizi nasÄ±l gÃ¼nahtan kurtaracaÄŸÄ±mÄ±zÄ±, nasÄ±l TanrÄ±'nÄ±n KrallÄ±ÄŸÄ±'na geri dÃ¶nÃ¼leceÄŸini...
 
 353
 00:32:06,099 --> 00:32:14,200
-Dolayısıyla cinler, bu sağlam duruşu sergilediklerinden onlara evrenin daha fazlasını görme şansı tanınmıştır.
+DolayÄ±sÄ±yla cinler, bu saÄŸlam duruÅŸu sergilediklerinden onlara evrenin daha fazlasÄ±nÄ± gÃ¶rme ÅŸansÄ± tanÄ±nmÄ±ÅŸtÄ±r.
 
 354
 00:32:14,660 --> 00:32:18,920
-Ve (bu) onları, kendilerini günahtan kurtarmak için ikna etmek için (yapılmıştır).
+Ve (bu) onlarÄ±, kendilerini gÃ¼nahtan kurtarmak iÃ§in ikna etmek iÃ§in (yapÄ±lmÄ±ÅŸtÄ±r).
 
 355
 00:32:19,460 --> 00:32:27,079
-Biz kararsız-tutarsızdık ve bu da bizim o kararı vermek ve kendimizi günahtan kurtarmak için ihtiyaç duyduğumuz derecedir.
+Biz kararsÄ±z-tutarsÄ±zdÄ±k ve bu da bizim o kararÄ± vermek ve kendimizi gÃ¼nahtan kurtarmak iÃ§in ihtiyaÃ§ duyduÄŸumuz derecedir.
 
 356
 00:32:27,140 --> 00:32:30,440
-Biz bu farklı bedenlere sahibiz.
+Biz bu farklÄ± bedenlere sahibiz.
 
 357
 00:32:30,440 --> 00:32:32,620
-Bir Adam: Onlar da kutsal yazıyı okuyabiliyorlar mı?
+Bir Adam: Onlar da kutsal yazÄ±yÄ± okuyabiliyorlar mÄ±?
 
 358
 00:32:33,220 --> 00:32:35,000
-Hanımefendi: Aynı şeyi okuyabiliyorlar mı?
+HanÄ±mefendi: AynÄ± ÅŸeyi okuyabiliyorlar mÄ±?
 
 359
 00:32:35,000 --> 00:32:37,880
-Reşad: Tabii ki. Onların (?)'ı var...
+ReÅŸad: Tabii ki. OnlarÄ±n (?)'Ä± var...
 
 360
 00:32:38,079 --> 00:32:40,919
-Gördünüz mü, (?) vardı...
+GÃ¶rdÃ¼nÃ¼z mÃ¼, (?) vardÄ±...
 
 361
 00:32:40,920 --> 00:32:45,619
-Bir şov vardı, The Today's Show. Seçim mi ne uzmanlarını çağırdı.
+Bir ÅŸov vardÄ±, The Today's Show. SeÃ§im mi ne uzmanlarÄ±nÄ± Ã§aÄŸÄ±rdÄ±.
 
 362
 00:32:45,619 --> 00:32:53,259
-...Ve onların cinleri kullanan şu sihirbazı veya  bir adamı vardı.
+...Ve onlarÄ±n cinleri kullanan ÅŸu sihirbazÄ± veya  bir adamÄ± vardÄ±.
 
 363
 00:32:53,299 --> 00:32:56,759
-Seçimden iki hafta önce, şovda...
+SeÃ§imden iki hafta Ã¶nce, ÅŸovda...
 
 364
 00:32:56,759 --> 00:33:06,200
-O dedi ki, "Ben, kimin seçimleri kazanacağını ve ne kadar oyla (kazanacağını) bu zarfa koyacağım."
+O dedi ki, "Ben, kimin seÃ§imleri kazanacaÄŸÄ±nÄ± ve ne kadar oyla (kazanacaÄŸÄ±nÄ±) bu zarfa koyacaÄŸÄ±m."
 
 365
 00:33:06,220 --> 00:33:10,160
-Ve o, mektubu mühürledi. Bu, seçimden iki hafta önceydi.
+Ve o, mektubu mÃ¼hÃ¼rledi. Bu, seÃ§imden iki hafta Ã¶nceydi.
 
 366
 00:33:10,539 --> 00:33:19,699
-Ve o, Seçim Günü'nde, sonraki gün, mektubu açacaklarını ve onun 2 hafta önce ne yazdığını göreceklerini söyledi.
+Ve o, SeÃ§im GÃ¼nÃ¼'nde, sonraki gÃ¼n, mektubu aÃ§acaklarÄ±nÄ± ve onun 2 hafta Ã¶nce ne yazdÄ±ÄŸÄ±nÄ± gÃ¶receklerini sÃ¶yledi.
 
 367
 00:33:19,900 --> 00:33:26,240
-Seçimleri kim kazandı ve ne kadar oyla... O, onu nasıl yapabildi, tahmin edebilir misiniz?
+SeÃ§imleri kim kazandÄ± ve ne kadar oyla... O, onu nasÄ±l yapabildi, tahmin edebilir misiniz?
 
 368
 00:33:26,240 --> 00:33:28,460
-Onlar ne yaptılar?..
+Onlar ne yaptÄ±lar?..
 
 369
 00:33:28,460 --> 00:33:31,400
-Bir Adam: (Anlaşılmıyor)
+Bir Adam: (AnlaÅŸÄ±lmÄ±yor)
 
 370
 00:33:31,400 --> 00:33:32,480
-Reşad: Hayır.
+ReÅŸad: HayÄ±r.
 
 371
 00:33:32,480 --> 00:33:33,779
-Bir Adam: Peki, onlar ne yaptılar?
+Bir Adam: Peki, onlar ne yaptÄ±lar?
 
 372
 00:33:33,779 --> 00:33:36,460
-Reşad: Onlar, geleceği bilmiyorlar. Cinler geleceği bilmezler.
+ReÅŸad: Onlar, geleceÄŸi bilmiyorlar. Cinler geleceÄŸi bilmezler.
 
 373
 00:33:36,619 --> 00:33:46,519
-Onlar tıpkı bizler gibidiler. Onların yaptıkları şuydu: gazeteler çıkana kadar beklediler ve dediler ki, "Regan kazandı ve oy sayısı da işte burada." Mektubu açtılar ve onu yazdılar.
+Onlar tÄ±pkÄ± bizler gibidiler. OnlarÄ±n yaptÄ±klarÄ± ÅŸuydu: gazeteler Ã§Ä±kana kadar beklediler ve dediler ki, "Regan kazandÄ± ve oy sayÄ±sÄ± da iÅŸte burada." Mektubu aÃ§tÄ±lar ve onu yazdÄ±lar.
 
 374
 00:33:46,660 --> 00:33:49,240
-Bu doğru. İşte onu böyle yapıyorlar...
+Bu doÄŸru. Ä°ÅŸte onu bÃ¶yle yapÄ±yorlar...
 
 375
 00:33:49,240 --> 00:33:50,220
-Bayan: (?) hakkında ne düşünüyorsun?
+Bayan: (?) hakkÄ±nda ne dÃ¼ÅŸÃ¼nÃ¼yorsun?
 
 376
 00:33:50,220 --> 00:33:52,420
-Reşad: Çünkü bu oy sayısıdır.
+ReÅŸad: Ã‡Ã¼nkÃ¼ bu oy sayÄ±sÄ±dÄ±r.
 
 377
 00:33:52,599 --> 00:33:57,539
-Yani benim dediğim şu, benim dediğim şu: onlar bu kapalı (?)'a gidebiliyorlar. O kapalıyken. Ve onu okuyabiliyorlar.
+Yani benim dediÄŸim ÅŸu, benim dediÄŸim ÅŸu: onlar bu kapalÄ± (?)'a gidebiliyorlar. O kapalÄ±yken. Ve onu okuyabiliyorlar.
 
 378
 00:33:57,579 --> 00:33:58,519
-Bayan: Ama şimdi bana bunu bir söyle...
+Bayan: Ama ÅŸimdi bana bunu bir sÃ¶yle...
 
 379
 00:33:58,579 --> 00:34:00,159
-Reşad: Onların X-Ray görüşleri var.
+ReÅŸad: OnlarÄ±n X-Ray gÃ¶rÃ¼ÅŸleri var.
 
 380
 00:34:00,160 --> 00:34:05,200
-Bayan: Haberlerde, Mars'ın resimlerini gösterdi, Rusların neden...
+Bayan: Haberlerde, Mars'Ä±n resimlerini gÃ¶sterdi, RuslarÄ±n neden...
 
 381
 00:34:05,599 --> 00:34:11,139
-Mars'ta 2 surat buldular ve onun bir gölge olduğunu düşündüler.
+Mars'ta 2 surat buldular ve onun bir gÃ¶lge olduÄŸunu dÃ¼ÅŸÃ¼ndÃ¼ler.
 
 382
 00:34:11,139 --> 00:34:16,359
-Dolayısıyla bir yakın çekim yaptılar sonra bir bilgisayar yardımı aldılar ve diş gördüler.
+DolayÄ±sÄ±yla bir yakÄ±n Ã§ekim yaptÄ±lar sonra bir bilgisayar yardÄ±mÄ± aldÄ±lar ve diÅŸ gÃ¶rdÃ¼ler.
 
 383
 00:34:16,360 --> 00:34:19,680
-Gözler ve bir diş.
+GÃ¶zler ve bir diÅŸ.
 
 384
 00:34:19,800 --> 00:34:24,639
-Bunun hakkında düşünüyorum, şimdi...Bir dakika bekle. İlk düşündüğüm şu oldu: "Reşad...
+Bunun hakkÄ±nda dÃ¼ÅŸÃ¼nÃ¼yorum, ÅŸimdi...Bir dakika bekle. Ä°lk dÃ¼ÅŸÃ¼ndÃ¼ÄŸÃ¼m ÅŸu oldu: "ReÅŸad...
 
 385
 00:34:24,639 --> 00:34:29,299
-"...Reşad derdi ki, 'Cinler oraya gittiler ve erken ayrılabilirler.' "
+"...ReÅŸad derdi ki, 'Cinler oraya gittiler ve erken ayrÄ±labilirler.' "
 
 386
 00:34:29,300 --> 00:34:33,059
-Doğru! Ve onlar oraya gidebilir ve oraya bizim görmemiz için şeyler ekebilir...
+DoÄŸru! Ve onlar oraya gidebilir ve oraya bizim gÃ¶rmemiz iÃ§in ÅŸeyler ekebilir...
 
 387
 00:34:33,059 --> 00:34:41,440
-...ve insanları enayi yerine koyabilirizler, biz hala bu küçük tek Mars hakkında endişelenirken onlar sessizce yaklaşırlar...Ne dediğimi anlıyor musunuz?..
+...ve insanlarÄ± enayi yerine koyabilirizler, biz hala bu kÃ¼Ã§Ã¼k tek Mars hakkÄ±nda endiÅŸelenirken onlar sessizce yaklaÅŸÄ±rlar...Ne dediÄŸimi anlÄ±yor musunuz?..
 
 388
 00:34:41,440 --> 00:34:46,239
-Reşad: Onlar sıkı bir şekilde kontrol altındadırlar. Onlar Tanrı'nın iradesi olmadan hiçbir şey yapamazlar.
+ReÅŸad: Onlar sÄ±kÄ± bir ÅŸekilde kontrol altÄ±ndadÄ±rlar. Onlar TanrÄ±'nÄ±n iradesi olmadan hiÃ§bir ÅŸey yapamazlar.
 
 389
 00:34:46,239 --> 00:34:50,399
-Dolayısıyla eğer Tanrı bizim o yolda kandırılmamızı istiyorsa,
-O, onların onu yapmasına izin verecektir.
+DolayÄ±sÄ±yla eÄŸer TanrÄ± bizim o yolda kandÄ±rÄ±lmamÄ±zÄ± istiyorsa,
+O, onlarÄ±n onu yapmasÄ±na izin verecektir.
 
 390
 00:34:50,599 --> 00:34:53,039
-Ama onlar sizin yüzünüze bir tane yapıştaramazlar mesela...
+Ama onlar sizin yÃ¼zÃ¼nÃ¼ze bir tane yapÄ±ÅŸtaramazlar mesela...
 
 391
 00:34:53,039 --> 00:34:55,380
-Veya her şeyi yapamazlar. Onlar şu anda bizimle birlikte oturuyorlar.
+Veya her ÅŸeyi yapamazlar. Onlar ÅŸu anda bizimle birlikte oturuyorlar.
 
 392
 00:34:55,380 --> 00:35:01,139
-Her şeyden önce, her birimiz bir tanesine sahibiz. Tamam, onlar henüz serbest kalmamış olanlar...
+Her ÅŸeyden Ã¶nce, her birimiz bir tanesine sahibiz. Tamam, onlar henÃ¼z serbest kalmamÄ±ÅŸ olanlar...
 
 393
 00:35:01,139 --> 00:35:06,319
-Ve bir de ölmüş olanlardan serbest bırakılmış olanları da var. Büyüklerimizden,
+Ve bir de Ã¶lmÃ¼ÅŸ olanlardan serbest bÄ±rakÄ±lmÄ±ÅŸ olanlarÄ± da var. BÃ¼yÃ¼klerimizden,
 
 394
 00:35:06,440 --> 00:35:09,420
-Onlar buraya düzenli olarak geliyorlar. Bu Kuran çalışmasını dinliyorlar.
+Onlar buraya dÃ¼zenli olarak geliyorlar. Bu Kuran Ã§alÄ±ÅŸmasÄ±nÄ± dinliyorlar.
 
 395
 00:35:09,639 --> 00:35:20,279
-O burada kayıtlıdır, belgelenmiştir. Bazı cinlerin Kuran'ı işittiklerini, ailelerine ve gittiklerini ve onlara "Biz şahane bir Kuran işittik." dediklerini söyleyen bir ayet var.
+O burada kayÄ±tlÄ±dÄ±r, belgelenmiÅŸtir. BazÄ± cinlerin Kuran'Ä± iÅŸittiklerini, ailelerine ve gittiklerini ve onlara "Biz ÅŸahane bir Kuran iÅŸittik." dediklerini sÃ¶yleyen bir ayet var.
 
 396
 00:35:24,760 --> 00:35:31,960
-Yani işte bu yüzden biz bu türde bedene ve cinler de o türde bedene sahipler.
+Yani iÅŸte bu yÃ¼zden biz bu tÃ¼rde bedene ve cinler de o tÃ¼rde bedene sahipler.
 
 397
 00:35:34,139 --> 00:35:38,099
-Der ki, "Ey Rab! Beni işinde kullan..."
+Der ki, "Ey Rab! Beni iÅŸinde kullan..."
 
 398
 00:35:38,119 --> 00:35:44,339
-Parantez içinde: "...özellikle danışman sıfatıyla."
+Parantez iÃ§inde: "...Ã¶zellikle danÄ±ÅŸman sÄ±fatÄ±yla."
 
 399
 00:35:46,659 --> 00:35:50,420
-Tamam, başka herhangi bir şey?.. Burada ölümle ilgili bir şey vardı.
+Tamam, baÅŸka herhangi bir ÅŸey?.. Burada Ã¶lÃ¼mle ilgili bir ÅŸey vardÄ±.
 
 400
 00:35:51,579 --> 00:36:00,880
-Hepimiz ölüyoruz. Ben, sizin ölümü bu dandik bedenden kurtulmak ve hastalanmayan veya ölmeyen bir beden elde etmek olarak görmenizi istiyorum.
+Hepimiz Ã¶lÃ¼yoruz. Ben, sizin Ã¶lÃ¼mÃ¼ bu dandik bedenden kurtulmak ve hastalanmayan veya Ã¶lmeyen bir beden elde etmek olarak gÃ¶rmenizi istiyorum.
 
 401
 00:36:01,039 --> 00:36:05,400
-Ölüm dediğiniz budur. Aşamadan aşmaya geçiş.
+Ã–lÃ¼m dediÄŸiniz budur. AÅŸamadan aÅŸmaya geÃ§iÅŸ.
 
 402
 00:36:05,619 --> 00:36:09,239
-Ve o genelde siz hasta ve bu bedenden bıkmışken olur.
+Ve o genelde siz hasta ve bu bedenden bÄ±kmÄ±ÅŸken olur.
 
 403
 00:36:09,239 --> 00:36:11,939
@@ -1618,67 +1618,67 @@ Yeni bir tane istersiniz...
 
 404
 00:36:28,699 --> 00:36:34,980
-7 sayısındaki dengeyi görün... O, farklı nesiller olarak anlaşılabilir.
+7 sayÄ±sÄ±ndaki dengeyi gÃ¶rÃ¼n... O, farklÄ± nesiller olarak anlaÅŸÄ±labilir.
 
 405
 00:36:35,000 --> 00:36:39,059
-Ama biz şimdi çevresel dengeyi, örneğin, anlıyoruz.
+Ama biz ÅŸimdi Ã§evresel dengeyi, Ã¶rneÄŸin, anlÄ±yoruz.
 
 406
 00:36:39,179 --> 00:36:44,239
-"Senin ne kadar o kadar çok tavşanın var?" "Onlar neden vahşi doğada o kadar çok çoğalıyorlar?"
+"Senin ne kadar o kadar Ã§ok tavÅŸanÄ±n var?" "Onlar neden vahÅŸi doÄŸada o kadar Ã§ok Ã§oÄŸalÄ±yorlar?"
 
 407
 00:36:44,780 --> 00:36:47,980
-Görüyorsunuz ya, tilkilerin yemeğe ihtiyaçları var...
+GÃ¶rÃ¼yorsunuz ya, tilkilerin yemeÄŸe ihtiyaÃ§larÄ± var...
 
 408
 00:36:47,980 --> 00:36:54,099
-...ve bir çevresel denge var. Eğer tilkiler ve çakallar, o tavşanları yemeselerdi, biz istila edilirdik.
+...ve bir Ã§evresel denge var. EÄŸer tilkiler ve Ã§akallar, o tavÅŸanlarÄ± yemeselerdi, biz istila edilirdik.
 
 409
 00:36:54,539 --> 00:36:57,639
-Bizim tam burada tonlarca tavşanımız olurdu, fakat...
+Bizim tam burada tonlarca tavÅŸanÄ±mÄ±z olurdu, fakat...
 
 410
 00:36:57,659 --> 00:37:05,656
-Yani ben demek istiyorum ki, bu iyi bilinen bir denge çeşidi. İyi biliniyor. Okullarda, dizlerde en çok araştırılmış olanı...
+Yani ben demek istiyorum ki, bu iyi bilinen bir denge Ã§eÅŸidi. Ä°yi biliniyor. Okullarda, dizlerde en Ã§ok araÅŸtÄ±rÄ±lmÄ±ÅŸ olanÄ±...
 
 411
 00:37:05,691 --> 00:37:11,759
-Ortada biraz biyolojik denge var. Bu denge her şeyi kapsıyor.
+Ortada biraz biyolojik denge var. Bu denge her ÅŸeyi kapsÄ±yor.
 
 412
 00:37:16,739 --> 00:37:28,240
-Endişelenmenin aldatmakla ilgisiolmalı. Çok önemli buyruk... Dolayısıyla, Peygamber Şuayb sırf o belirli buyruk için gönderildi: ticarette aldatmamak.
+EndiÅŸelenmenin aldatmakla ilgisiolmalÄ±. Ã‡ok Ã¶nemli buyruk... DolayÄ±sÄ±yla, Peygamber Åuayb sÄ±rf o belirli buyruk iÃ§in gÃ¶nderildi: ticarette aldatmamak.
 
 413
 00:37:29,739 --> 00:37:35,479
-Biz bu buyruğu ihlal ettiğimizde, o bize çok (pahalıya) mal olur.
+Biz bu buyruÄŸu ihlal ettiÄŸimizde, o bize Ã§ok (pahalÄ±ya) mal olur.
 
 414
 00:37:35,480 --> 00:37:39,860
-Sen kiranı öderken, kiranı toplarken aldatırsın...
+Sen kiranÄ± Ã¶derken, kiranÄ± toplarken aldatÄ±rsÄ±n...
 
 415
 00:37:39,860 --> 00:37:43,220
-İşini veya her ne olursa, yaparken...
+Ä°ÅŸini veya her ne olursa, yaparken...
 
 416
 00:37:43,519 --> 00:37:48,219
-Size çok (pahalıya) mal olur.
+Size Ã§ok (pahalÄ±ya) mal olur.
 
 417
 00:37:48,619 --> 00:37:52,440
-Aldattığınızdan çok daha fazlasına (mal olur). Yani bu, Tanrı'nın buyruğudur.
+AldattÄ±ÄŸÄ±nÄ±zdan Ã§ok daha fazlasÄ±na (mal olur). Yani bu, TanrÄ±'nÄ±n buyruÄŸudur.
 
 418
 00:37:52,440 --> 00:38:00,480
-Oldukça önemli buyruklardan bir tanesi. Bir imanlı, dürüstlükte ve doğrulukta ideal bir kişidir.
+OldukÃ§a Ã¶nemli buyruklardan bir tanesi. Bir imanlÄ±, dÃ¼rÃ¼stlÃ¼kte ve doÄŸrulukta ideal bir kiÅŸidir.
 
 419
 00:38:08,039 --> 00:38:13,380
-Tamam, hiçbir soru yok. 37'e geçiyoruz.
+Tamam, hiÃ§bir soru yok. 37'e geÃ§iyoruz.
 
 420
 00:38:13,380 --> 00:38:16,099
@@ -1686,23 +1686,23 @@ Lori: Bu ne demek oluyor
 
 421
 00:38:16,099 --> 00:38:18,360
-Reşad Halife: Gökyüzünün rengi mavi şimdi, değil mi?
+ReÅŸad Halife: GÃ¶kyÃ¼zÃ¼nÃ¼n rengi mavi ÅŸimdi, deÄŸil mi?
 
 422
 00:38:18,519 --> 00:38:24,880
-Ama o, Ahiret'te pembe olacak. O, gül renginde olacak. O, neredeyse Sherry'nin bluzu gibi olacak.
+Ama o, Ahiret'te pembe olacak. O, gÃ¼l renginde olacak. O, neredeyse Sherry'nin bluzu gibi olacak.
 
 423
 00:38:25,079 --> 00:38:26,400
-Biraz daha açığı.
+Biraz daha aÃ§Ä±ÄŸÄ±.
 
 424
 00:38:27,400 --> 00:38:30,440
-Günbatımında veya gündoğumunda şahane bir gökyüzüne sahibiz.
+GÃ¼nbatÄ±mÄ±nda veya gÃ¼ndoÄŸumunda ÅŸahane bir gÃ¶kyÃ¼zÃ¼ne sahibiz.
 
 425
 00:38:30,659 --> 00:38:51,039
-Bu şekilde, ... araştırdılar. Psikolog, psikiyatrist en huzurlu rengin bu renk olduğunu söyledi. Aslında onlar gergin olan insanların bu renge bir kaç dakka..(anlaşımıyor). Yargı Günü'nde gökyüzü onun gibi olacak.
+Bu ÅŸekilde, ... araÅŸtÄ±rdÄ±lar. Psikolog, psikiyatrist en huzurlu rengin bu renk olduÄŸunu sÃ¶yledi. AslÄ±nda onlar gergin olan insanlarÄ±n bu renge bir kaÃ§ dakka..(anlaÅŸÄ±mÄ±yor). YargÄ± GÃ¼nÃ¼'nde gÃ¶kyÃ¼zÃ¼ onun gibi olacak.
 
 426
 00:38:53,900 --> 00:38:55,639
@@ -1710,191 +1710,191 @@ Bu şekilde, ... araştırdılar. Psikolog, psikiyatrist en huzurlu rengin bu renk o
 
 427
 00:38:56,679 --> 00:39:06,739
-Bu arada Lori, Yeryüzü'nün yeni Yeryüzü ile ve göklerin yeni gökle yer değiştirmesinden bahsetti. Ve biz bunu Eski Ahit'de görüyoruz.
+Bu arada Lori, YeryÃ¼zÃ¼'nÃ¼n yeni YeryÃ¼zÃ¼ ile ve gÃ¶klerin yeni gÃ¶kle yer deÄŸiÅŸtirmesinden bahsetti. Ve biz bunu Eski Ahit'de gÃ¶rÃ¼yoruz.
 
 428
 00:39:06,739 --> 00:39:08,759
-Ve ayrıca Yeni Ahit'te de...
+Ve ayrÄ±ca Yeni Ahit'te de...
 
 429
 00:39:09,000 --> 00:39:12,539
-Eski Ahit'deki kehanetlerin çoğu, İşaya Kitabı'ndadır.
+Eski Ahit'deki kehanetlerin Ã§oÄŸu, Ä°ÅŸaya KitabÄ±'ndadÄ±r.
 
 430
 00:39:12,860 --> 00:39:17,760
-Ve eğer buna Kuran'dan bakmak isterseniz... İşaya 65:22'ye bakın mesela...
+Ve eÄŸer buna Kuran'dan bakmak isterseniz... Ä°ÅŸaya 65:22'ye bakÄ±n mesela...
 
 431
 00:39:17,840 --> 00:39:22,659
-Yeni göğün, yeni yeryüzünün yer değiştirmesi hakkında konuşur...
+Yeni gÃ¶ÄŸÃ¼n, yeni yeryÃ¼zÃ¼nÃ¼n yer deÄŸiÅŸtirmesi hakkÄ±nda konuÅŸur...
 
 432
 00:39:22,659 --> 00:39:29,359
-65:22 İşaya, ayrıca 66:7'de de...
+65:22 Ä°ÅŸaya, ayrÄ±ca 66:7'de de...
 
 433
 00:39:31,099 --> 00:39:36,099
-O, İşaya Kitabı'nın ta sonu. Onu ayrıca Yeni Ahit'de de bulursunuz.
+O, Ä°ÅŸaya KitabÄ±'nÄ±n ta sonu. Onu ayrÄ±ca Yeni Ahit'de de bulursunuz.
 
 434
 00:39:36,099 --> 00:39:42,980
-Petrus'un ikinci kitabı, 3:13. 3, ayet numarası 13'dür.
+Petrus'un ikinci kitabÄ±, 3:13. 3, ayet numarasÄ± 13'dÃ¼r.
 
 435
 00:39:44,340 --> 00:39:49,280
-İkisi de yeni gökyüzünün, yeni yeryüzünün (eskisiyle) yer değiştirilişi hakkında konuşurlar.
+Ä°kisi de yeni gÃ¶kyÃ¼zÃ¼nÃ¼n, yeni yeryÃ¼zÃ¼nÃ¼n (eskisiyle) yer deÄŸiÅŸtiriliÅŸi hakkÄ±nda konuÅŸurlar.
 
 436
 00:39:49,519 --> 00:39:57,199
-Kuran ve Eski Ahit.... Eski Ahit, Yeni Ahit, Son Ahit o konuda aynıdırlar.
+Kuran ve Eski Ahit.... Eski Ahit, Yeni Ahit, Son Ahit o konuda aynÄ±dÄ±rlar.
 
 437
 00:39:58,440 --> 00:40:01,579
-Bu, Tanrı'nın bilmenizi istediği bir gerçektir.
+Bu, TanrÄ±'nÄ±n bilmenizi istediÄŸi bir gerÃ§ektir.
 
 438
 00:40:01,579 --> 00:40:03,179
-Yargı Günü'nde...
+YargÄ± GÃ¼nÃ¼'nde...
 
 439
 00:40:03,179 --> 00:40:09,419
-...gökyüzünün rengi, gül rengi olacak.
+...gÃ¶kyÃ¼zÃ¼nÃ¼n rengi, gÃ¼l rengi olacak.
 
 440
 00:40:16,800 --> 00:40:19,519
-Bu Mars hakkında bir şey mi?
+Bu Mars hakkÄ±nda bir ÅŸey mi?
 
 441
 00:40:23,920 --> 00:40:30,920
-Ben, Mars'a gitmiş olan kameralardan birini hatırlıyorum. Oradaki gökyüzü kırmızımsı...
+Ben, Mars'a gitmiÅŸ olan kameralardan birini hatÄ±rlÄ±yorum. Oradaki gÃ¶kyÃ¼zÃ¼ kÄ±rmÄ±zÄ±msÄ±...
 
 442
 00:40:33,099 --> 00:40:38,039
-Bilirsiniz...Bizim gökyüzümüzün mavi olmasının nedeni, ışığın kırılmasıdır.
+Bilirsiniz...Bizim gÃ¶kyÃ¼zÃ¼mÃ¼zÃ¼n mavi olmasÄ±nÄ±n nedeni, Ä±ÅŸÄ±ÄŸÄ±n kÄ±rÄ±lmasÄ±dÄ±r.
 
 443
 00:40:38,039 --> 00:40:42,239
-Bilirsiniz, Güneş ışığının içinde 7 renk vardır. Her halükarda aralığın ortası (zaten).
+Bilirsiniz, GÃ¼neÅŸ Ä±ÅŸÄ±ÄŸÄ±nÄ±n iÃ§inde 7 renk vardÄ±r. Her halÃ¼karda aralÄ±ÄŸÄ±n ortasÄ± (zaten).
 
 444
 00:40:42,239 --> 00:40:45,000
-Ve Yeryüzü'nün atmosferine mavi çarpıyormuş gibi gözüküyor.
+Ve YeryÃ¼zÃ¼'nÃ¼n atmosferine mavi Ã§arpÄ±yormuÅŸ gibi gÃ¶zÃ¼kÃ¼yor.
 
 445
 00:40:45,000 --> 00:40:48,579
-O şekildeki bir derecede, o yön değiştirmiştir.
+O ÅŸekildeki bir derecede, o yÃ¶n deÄŸiÅŸtirmiÅŸtir.
 
 446
 00:40:48,579 --> 00:40:53,259
-Yani o, oraya yayılır. O, Yeryüzü'nün atmosferidir. Bu, Tanrı'nın dizaynıdır.
+Yani o, oraya yayÄ±lÄ±r. O, YeryÃ¼zÃ¼'nÃ¼n atmosferidir. Bu, TanrÄ±'nÄ±n dizaynÄ±dÄ±r.
 
 447
 00:40:53,260 --> 00:41:01,960
-Dolayısıyla o mavidir. Şimdi, eğer, eğer Güneş ışığı, atmosfere çarparken sadece birazcık açıyı değiştirse...
+DolayÄ±sÄ±yla o mavidir. Åimdi, eÄŸer, eÄŸer GÃ¼neÅŸ Ä±ÅŸÄ±ÄŸÄ±, atmosfere Ã§arparken sadece birazcÄ±k aÃ§Ä±yÄ± deÄŸiÅŸtirse...
 
 448
 00:41:01,960 --> 00:41:03,760
-Başka bir renk yön değiştirecektir.
+BaÅŸka bir renk yÃ¶n deÄŸiÅŸtirecektir.
 
 449
 00:41:03,860 --> 00:41:06,039
-Çok basit bir mevzu...
+Ã‡ok basit bir mevzu...
 
 450
 00:41:06,039 --> 00:41:17,440
-Bir Adam: Güneş'in engellendiğini söylemelerinin sebebi...
-(Gerisi tam olarak anlaşılmıyor).
+Bir Adam: GÃ¼neÅŸ'in engellendiÄŸini sÃ¶ylemelerinin sebebi...
+(Gerisi tam olarak anlaÅŸÄ±lmÄ±yor).
 
 451
 00:41:17,440 --> 00:41:28,099
-Ve toza çarpan Güneş'in yansıması ve tozu (gerisi tam olarak anlaşılmıyor)...
+Ve toza Ã§arpan GÃ¼neÅŸ'in yansÄ±masÄ± ve tozu (gerisi tam olarak anlaÅŸÄ±lmÄ±yor)...
 
 452
 00:41:28,099 --> 00:41:34,440
-Reşad: Ayrıca, yansıma gündoğumundan günbatımına farklıdır. Bunu gündeme getirdiğin için memnun oldum.
+ReÅŸad: AyrÄ±ca, yansÄ±ma gÃ¼ndoÄŸumundan gÃ¼nbatÄ±mÄ±na farklÄ±dÄ±r. Bunu gÃ¼ndeme getirdiÄŸin iÃ§in memnun oldum.
 
 453
 00:41:34,440 --> 00:41:42,099
-Günbatımı olur olmaz, bir yansıma olur ve yansıma ve kırılma...
+GÃ¼nbatÄ±mÄ± olur olmaz, bir yansÄ±ma olur ve yansÄ±ma ve kÄ±rÄ±lma...
 
 454
 00:41:42,380 --> 00:41:46,039
-Bilirsiniz, balık tutmaya gittiğinizde suya bir çubuk koyarsınız...
+Bilirsiniz, balÄ±k tutmaya gittiÄŸinizde suya bir Ã§ubuk koyarsÄ±nÄ±z...
 
 455
 00:41:46,039 --> 00:41:53,619
-...çubuğun bu şekilde gittiğini görürsünüz ama onun (bükülmediğini) görebilirsiniz. Ona (?) denir...
+...Ã§ubuÄŸun bu ÅŸekilde gittiÄŸini gÃ¶rÃ¼rsÃ¼nÃ¼z ama onun (bÃ¼kÃ¼lmediÄŸini) gÃ¶rebilirsiniz. Ona (?) denir...
 
 456
 00:41:54,000 --> 00:42:00,880
-Şimdi unuttum. Yansıma veya kırılma... Tüm o terimler işte...
+Åimdi unuttum. YansÄ±ma veya kÄ±rÄ±lma... TÃ¼m o terimler iÅŸte...
 
 457
 00:42:00,880 --> 00:42:04,719
-Ama Güneş ışığı, Yeryüzü'nün atmosferine çarpar ve ona bu olur...
+Ama GÃ¼neÅŸ Ä±ÅŸÄ±ÄŸÄ±, YeryÃ¼zÃ¼'nÃ¼n atmosferine Ã§arpar ve ona bu olur...
 
 458
 00:42:04,719 --> 00:42:09,079
-...ve spektrumdan hangi ışığın yayılacağı hangi açıdan (çarptığına) bağlıdır.
+...ve spektrumdan hangi Ä±ÅŸÄ±ÄŸÄ±n yayÄ±lacaÄŸÄ± hangi aÃ§Ä±dan (Ã§arptÄ±ÄŸÄ±na) baÄŸlÄ±dÄ±r.
 
 459
 00:42:09,079 --> 00:42:11,559
-Renkleri değiştiren budur.
+Renkleri deÄŸiÅŸtiren budur.
 
 460
 00:42:11,559 --> 00:42:19,219
-Yani her neyse. Tanrı'nın bilmemizi istediği şeylerden biriydi... Gül rengi.
-(Gerisi tam olarak anlaşılmıyor).
+Yani her neyse. TanrÄ±'nÄ±n bilmemizi istediÄŸi ÅŸeylerden biriydi... GÃ¼l rengi.
+(Gerisi tam olarak anlaÅŸÄ±lmÄ±yor).
 
 461
 00:42:19,219 --> 00:42:26,719
-Yalnızca imanlılara... İmanlılara hediye...
+YalnÄ±zca imanlÄ±lara... Ä°manlÄ±lara hediye...
 
 462
 00:42:26,719 --> 00:42:36,640
-Lori: Diriliş Günü'nde ne cinlerin ya da insanların günahları hakkında, gerekli olmayacağından ötürü, sorulmayacağını söyleyen Ayet 39'da...
+Lori: DiriliÅŸ GÃ¼nÃ¼'nde ne cinlerin ya da insanlarÄ±n gÃ¼nahlarÄ± hakkÄ±nda, gerekli olmayacaÄŸÄ±ndan Ã¶tÃ¼rÃ¼, sorulmayacaÄŸÄ±nÄ± sÃ¶yleyen Ayet 39'da...
 
 463
 00:42:36,680 --> 00:42:39,755
-Kuran'daki diğer ayetlerden biliyoruz ki...
+Kuran'daki diÄŸer ayetlerden biliyoruz ki...
 
 464
 00:42:39,790 --> 00:42:44,820
-...ömrümüz boyunca yapmış olduğumuz her şeyin kaydediciler tarafından kaydedilmiştir.
+...Ã¶mrÃ¼mÃ¼z boyunca yapmÄ±ÅŸ olduÄŸumuz her ÅŸeyin kaydediciler tarafÄ±ndan kaydedilmiÅŸtir.
 
 465
 00:42:44,840 --> 00:43:05,760
-Onlar dürüstler ve hiçbir şekilde hiçbir şeyi ıskalamıyorlar. Ve o kaydedilmektedir ve biz şimdi, videokasetin gelişimiyle onun ne gibi bir şey olacağını biliyoruz. Çünkü her şey olduğu gibi... söylediğimiz her şey, sahip olduğumuz tüm düşünceler, yaptığımız her şey kaydedilecek.
+Onlar dÃ¼rÃ¼stler ve hiÃ§bir ÅŸekilde hiÃ§bir ÅŸeyi Ä±skalamÄ±yorlar. Ve o kaydedilmektedir ve biz ÅŸimdi, videokasetin geliÅŸimiyle onun ne gibi bir ÅŸey olacaÄŸÄ±nÄ± biliyoruz. Ã‡Ã¼nkÃ¼ her ÅŸey olduÄŸu gibi... sÃ¶ylediÄŸimiz her ÅŸey, sahip olduÄŸumuz tÃ¼m dÃ¼ÅŸÃ¼nceler, yaptÄ±ÄŸÄ±mÄ±z her ÅŸey kaydedilecek.
 
 466
 00:43:05,760 --> 00:43:15,400
-Aramızdan günahlarımızın silinmesini sağlayacak dereceye kadar ruhlarını geliştirmiş şanslı kişiler, kasetlerini düzenleme şansına sahip olacaklar.
+AramÄ±zdan gÃ¼nahlarÄ±mÄ±zÄ±n silinmesini saÄŸlayacak dereceye kadar ruhlarÄ±nÄ± geliÅŸtirmiÅŸ ÅŸanslÄ± kiÅŸiler, kasetlerini dÃ¼zenleme ÅŸansÄ±na sahip olacaklar.
 
 467
 00:43:18,440 --> 00:43:24,525
-...ve diğer herkes (düzenleyemeyecek). Ve biz Kuran'da
-bir çok ayette bizim (sorgulanmamız) bile gerekmediği bize söyleniyor.
+...ve diÄŸer herkes (dÃ¼zenleyemeyecek). Ve biz Kuran'da
+bir Ã§ok ayette bizim (sorgulanmamÄ±z) bile gerekmediÄŸi bize sÃ¶yleniyor.
 
 468
 00:43:24,525 --> 00:43:26,239
-Hatta günahlarımız hakkında sorulmayacağız.
+Hatta gÃ¼nahlarÄ±mÄ±z hakkÄ±nda sorulmayacaÄŸÄ±z.
 
 469
 00:43:26,239 --> 00:43:29,659
-...her şey, cildimiz...bizim aleyhimize tanıklık edecek...
+...her ÅŸey, cildimiz...bizim aleyhimize tanÄ±klÄ±k edecek...
 
 470
 00:43:29,659 --> 00:43:34,699
-Biliyorsunuz.. her şey (aleyhimize tanıklık edecek).Tüm bu zaman yapmış olduğumuz her şey kaydedilmiştir.
+Biliyorsunuz.. her ÅŸey (aleyhimize tanÄ±klÄ±k edecek).TÃ¼m bu zaman yapmÄ±ÅŸ olduÄŸumuz her ÅŸey kaydedilmiÅŸtir.
 
 471
 00:43:34,699 --> 00:43:42,879
-Reşad: Buraya hepimizin bilmesi gereken bir şeyi ekle.
-Bilip bilmediğini bilmiyorum..
+ReÅŸad: Buraya hepimizin bilmesi gereken bir ÅŸeyi ekle.
+Bilip bilmediÄŸini bilmiyorum..
 
 472
 00:43:42,880 --> 00:43:49,820
-elde ettiklerimiz görünüşler ile alakalı... Bakın, Ayet 40 diyor ki, "Rabbiniz'in hangi..."
+elde ettiklerimiz gÃ¶rÃ¼nÃ¼ÅŸler ile alakalÄ±... BakÄ±n, Ayet 40 diyor ki, "Rabbiniz'in hangi..."
 
 473
 00:43:49,820 --> 00:44:00,159
@@ -1902,584 +1902,584 @@ elde ettiklerimiz görünüşler ile alakalı... Bakın, Ayet 40 diyor ki, "Rabbiniz'i
 
 474
 00:44:00,159 --> 00:44:05,119
-"İnsanlar ve cinler, günahları hakkında sorulmayacak."
+"Ä°nsanlar ve cinler, gÃ¼nahlarÄ± hakkÄ±nda sorulmayacak."
 
 475
 00:44:05,119 --> 00:44:09,319
-Hiç kimsenin hiç kimseye hiçbir şey hakkında sorulmasına gerek kalmayacak, çünkü...
+HiÃ§ kimsenin hiÃ§ kimseye hiÃ§bir ÅŸey hakkÄ±nda sorulmasÄ±na gerek kalmayacak, Ã§Ã¼nkÃ¼...
 
 476
 00:44:09,320 --> 00:44:14,480
-...imanlılar ruhlarını geliştirirler ve inkarcılar da ruhlarını geliştirmekte başarısız oldular.
+...imanlÄ±lar ruhlarÄ±nÄ± geliÅŸtirirler ve inkarcÄ±lar da ruhlarÄ±nÄ± geliÅŸtirmekte baÅŸarÄ±sÄ±z oldular.
 
 477
 00:44:14,659 --> 00:44:19,619
-Ve Sure 17'de bize Ahiret'teki farklılıkların...
+Ve Sure 17'de bize Ahiret'teki farklÄ±lÄ±klarÄ±n...
 
 478
 00:44:20,039 --> 00:44:24,179
-Bu odada büyüklüklerimizdeki farklılık, birkaç inç kadardır.
+Bu odada bÃ¼yÃ¼klÃ¼klerimizdeki farklÄ±lÄ±k, birkaÃ§ inÃ§ kadardÄ±r.
 
 479
 00:44:24,360 --> 00:44:31,659
-Ama Ahirette farklılıklar, bir fare ile New York şehri, Tucson şehri gibi olacak.
+Ama Ahirette farklÄ±lÄ±klar, bir fare ile New York ÅŸehri, Tucson ÅŸehri gibi olacak.
 
 480
 00:44:31,659 --> 00:44:35,920
-Yani eğer siz, Tucson şehri büyüklüğünde birini görürseniz...
+Yani eÄŸer siz, Tucson ÅŸehri bÃ¼yÃ¼klÃ¼ÄŸÃ¼nde birini gÃ¶rÃ¼rseniz...
 
 481
 00:44:35,920 --> 00:44:39,700
-...o erkek veya o kız ruhunu yeterince büyütmüştür.
+...o erkek veya o kÄ±z ruhunu yeterince bÃ¼yÃ¼tmÃ¼ÅŸtÃ¼r.
 
 482
 00:44:39,960 --> 00:44:42,960
-İşte bu yüzden Tanrı'ya yaklaşabilmeye gücü yetebilecek.
+Ä°ÅŸte bu yÃ¼zden TanrÄ±'ya yaklaÅŸabilmeye gÃ¼cÃ¼ yetebilecek.
 
 483
 00:44:43,139 --> 00:44:48,559
-Bir fare büyüklüğünde birini gördüğünüzde, ona neyi yanlış yaptığını sormaya gerek duymazsınız.
+Bir fare bÃ¼yÃ¼klÃ¼ÄŸÃ¼nde birini gÃ¶rdÃ¼ÄŸÃ¼nÃ¼zde, ona neyi yanlÄ±ÅŸ yaptÄ±ÄŸÄ±nÄ± sormaya gerek duymazsÄ±nÄ±z.
 
 484
 00:44:48,619 --> 00:44:54,199
-Yani...İşte bu yüzden hiç kimsenin hiç kimseye günahları hakkında soru sormaya ihtiyacı olmayacak.
+Yani...Ä°ÅŸte bu yÃ¼zden hiÃ§ kimsenin hiÃ§ kimseye gÃ¼nahlarÄ± hakkÄ±nda soru sormaya ihtiyacÄ± olmayacak.
 
 485
 00:44:54,199 --> 00:44:56,779
-Çok bellidir.
+Ã‡ok bellidir.
 
 486
 00:44:57,079 --> 00:45:04,539
-Hiçbir soru olmayacak. Ayrıca Sure 17'de bizlere, herkesin, o kız veya o erkek olsun, kendisinin yargıcı olacağı söylenir.
+HiÃ§bir soru olmayacak. AyrÄ±ca Sure 17'de bizlere, herkesin, o kÄ±z veya o erkek olsun, kendisinin yargÄ±cÄ± olacaÄŸÄ± sÃ¶ylenir.
 
 487
 00:45:04,659 --> 00:45:05,819
-Çünkü...
+Ã‡Ã¼nkÃ¼...
 
 488
 00:45:05,820 --> 00:45:17,260
-...o boyutta biz, gerçekten nasıl gördüğümüzü, gerçekten ne kadar geliştiğimizi veya ne kadar gelişmeden mahrum olduğumuzu göreceğiz. Dolayısıyla...
+...o boyutta biz, gerÃ§ekten nasÄ±l gÃ¶rdÃ¼ÄŸÃ¼mÃ¼zÃ¼, gerÃ§ekten ne kadar geliÅŸtiÄŸimizi veya ne kadar geliÅŸmeden mahrum olduÄŸumuzu gÃ¶receÄŸiz. DolayÄ±sÄ±yla...
 
 489
 00:45:17,480 --> 00:45:23,920
-41, "Suçlu, görünüşlerinden tanınacak.." Onlar gelişmemiş olacaklar, çökmüş olacaklar.
+41, "SuÃ§lu, gÃ¶rÃ¼nÃ¼ÅŸlerinden tanÄ±nacak.." Onlar geliÅŸmemiÅŸ olacaklar, Ã§Ã¶kmÃ¼ÅŸ olacaklar.
 
 490
 00:45:24,000 --> 00:45:32,079
-Tıpkı kollar ve bacaklar olmadan doğmak gibi. Deforme...Ahiret'e deforme halde doğacaklar.
+TÄ±pkÄ± kollar ve bacaklar olmadan doÄŸmak gibi. Deforme...Ahiret'e deforme halde doÄŸacaklar.
 
 491
 00:45:32,079 --> 00:45:39,519
-Gelişmemiş, düşük... Ama onlar hayatta olacaklar, gayet iyi...
+GeliÅŸmemiÅŸ, dÃ¼ÅŸÃ¼k... Ama onlar hayatta olacaklar, gayet iyi...
 
 492
 00:45:39,519 --> 00:45:42,579
-Gayet canlı; iyi değil.
+Gayet canlÄ±; iyi deÄŸil.
 
 493
 00:45:46,780 --> 00:45:57,579
-Ayrıca Tanrı, Lori'nin 44 hakkında açıkladığı gibi, onların nasıl cennete sinsice sızmaya çalıştıklarını ve onu (cenneti) cehennemden beter bulduklarını anlamamızı sağlıyor.
+AyrÄ±ca TanrÄ±, Lori'nin 44 hakkÄ±nda aÃ§Ä±kladÄ±ÄŸÄ± gibi, onlarÄ±n nasÄ±l cennete sinsice sÄ±zmaya Ã§alÄ±ÅŸtÄ±klarÄ±nÄ± ve onu (cenneti) cehennemden beter bulduklarÄ±nÄ± anlamamÄ±zÄ± saÄŸlÄ±yor.
 
 494
 00:45:57,840 --> 00:46:04,980
-Onlar sinsice Alt Cennet'e girecekler, onu cehennemden beter bulacaklar çünkü...
+Onlar sinsice Alt Cennet'e girecekler, onu cehennemden beter bulacaklar Ã§Ã¼nkÃ¼...
 
 495
 00:46:04,980 --> 00:46:11,840
-...onlar Tanrı'ya herhangi bir şekilde yakınlaşmaya dayanamıyorlar. Görüyorsunuz ya, Tanrı onu tamamen bize bıraktı, tamamen...
+...onlar TanrÄ±'ya herhangi bir ÅŸekilde yakÄ±nlaÅŸmaya dayanamÄ±yorlar. GÃ¶rÃ¼yorsunuz ya, TanrÄ± onu tamamen bize bÄ±raktÄ±, tamamen...
 
 496
 00:46:11,840 --> 00:46:16,059
-İşte bu yüzden Tanrı, bir atomun ağırlığı kadar haksızlığa uğratmıyor.
+Ä°ÅŸte bu yÃ¼zden TanrÄ±, bir atomun aÄŸÄ±rlÄ±ÄŸÄ± kadar haksÄ±zlÄ±ÄŸa uÄŸratmÄ±yor.
 
 497
 00:46:16,059 --> 00:46:17,400
-Tamamen size kalmış...
+Tamamen size kalmÄ±ÅŸ...
 
 498
 00:46:17,400 --> 00:46:21,460
-Tanrı'ya Yüksek Cennet'te istediğiniz kadar yakın olabilirsiniz...
+TanrÄ±'ya YÃ¼ksek Cennet'te istediÄŸiniz kadar yakÄ±n olabilirsiniz...
 
 499
 00:46:21,460 --> 00:46:28,260
-...veya Tanrı'dan istediğiniz kadar uzak olabilirsiniz. Tamamen bize kalmış.
+...veya TanrÄ±'dan istediÄŸiniz kadar uzak olabilirsiniz. Tamamen bize kalmÄ±ÅŸ.
 
 500
 00:46:28,260 --> 00:46:33,039
-Dolayısıyla (vardığımız) sonuç, Tanrı'nın tek bir kişiyi cehenneme koymadığıdır.
+DolayÄ±sÄ±yla (vardÄ±ÄŸÄ±mÄ±z) sonuÃ§, TanrÄ±'nÄ±n tek bir kiÅŸiyi cehenneme koymadÄ±ÄŸÄ±dÄ±r.
 
 501
 00:46:33,039 --> 00:46:39,000
-Cehenneme gitmekte ve (ona) gitmeyi seçmekte ısrar edenler, insanlardırlar.
+Cehenneme gitmekte ve (ona) gitmeyi seÃ§mekte Ä±srar edenler, insanlardÄ±rlar.
 
 502
 00:46:39,039 --> 00:46:43,099
-Bu...Ahiret'te her şey otomatik olacaktır.
+Bu...Ahiret'te her ÅŸey otomatik olacaktÄ±r.
 
 503
 00:46:43,139 --> 00:46:47,940
-İşte bu yüzden, örneğin, günde beş vakit namaz kılmak önemlidir.
+Ä°ÅŸte bu yÃ¼zden, Ã¶rneÄŸin, gÃ¼nde beÅŸ vakit namaz kÄ±lmak Ã¶nemlidir.
 
 504
 00:46:47,940 --> 00:46:51,980
-Eğer günde beş vakit namaz kılmıyorsanız, başınız belada.
+EÄŸer gÃ¼nde beÅŸ vakit namaz kÄ±lmÄ±yorsanÄ±z, baÅŸÄ±nÄ±z belada.
 
 505
 00:46:51,980 --> 00:46:58,179
-Minimum budur. Onlar, gerçek kişi için öğünlerdirler.
+Minimum budur. Onlar, gerÃ§ek kiÅŸi iÃ§in Ã¶ÄŸÃ¼nlerdirler.
 
 506
 00:47:00,000 --> 00:47:05,079
-(Bedeninizi) beslemediğinizi hayal edin. Bedeniniz kuruyor ve siz onu, bedeninizi, 2 aylığına beslemiyorsunuz...
+(Bedeninizi) beslemediÄŸinizi hayal edin. Bedeniniz kuruyor ve siz onu, bedeninizi, 2 aylÄ±ÄŸÄ±na beslemiyorsunuz...
 
 507
 00:47:05,380 --> 00:47:11,940
-...bedeniniz nasıl gözükecektir?.. Ahiret'te hiçbir ölüm yoktur.
+...bedeniniz nasÄ±l gÃ¶zÃ¼kecektir?.. Ahiret'te hiÃ§bir Ã¶lÃ¼m yoktur.
 
 508
 00:47:11,940 --> 00:47:15,820
-2 aylığına yememeyi hayal edin sadece.
+2 aylÄ±ÄŸÄ±na yememeyi hayal edin sadece.
 
 509
 00:47:16,280 --> 00:47:21,860
-Ve dışarda, sokaktaki insanlar...Onlar, ruhlarını yıllar, yıllar ve yıllar boyunca beslemiyorlar.
+Ve dÄ±ÅŸarda, sokaktaki insanlar...Onlar, ruhlarÄ±nÄ± yÄ±llar, yÄ±llar ve yÄ±llar boyunca beslemiyorlar.
 
 510
 00:47:22,159 --> 00:47:25,739
-Onların nasıl gözükeceklerini hayal edebilirsiniz. Onların nasıl gözükeceklerini hayal edebilir misiniz?
+OnlarÄ±n nasÄ±l gÃ¶zÃ¼keceklerini hayal edebilirsiniz. OnlarÄ±n nasÄ±l gÃ¶zÃ¼keceklerini hayal edebilir misiniz?
 
 511
 00:47:25,920 --> 00:47:32,320
-Sadece buradaki boyutumuza getirin onu ve bedenlerimizin bir yıllığına yemediklerini düşünün.
+Sadece buradaki boyutumuza getirin onu ve bedenlerimizin bir yÄ±llÄ±ÄŸÄ±na yemediklerini dÃ¼ÅŸÃ¼nÃ¼n.
 
 512
 00:47:32,559 --> 00:47:38,079
-Merkez Afrika'da açlık çeken insanların iskelet resimlerini görüyorsunuz...
+Merkez Afrika'da aÃ§lÄ±k Ã§eken insanlarÄ±n iskelet resimlerini gÃ¶rÃ¼yorsunuz...
 
 513
 00:47:38,619 --> 00:47:42,839
-Etiyopya, Sudan...Onlar nasıl görünüyorlar? Siz onların kaburgalarını görebiliyorsunuz.
+Etiyopya, Sudan...Onlar nasÄ±l gÃ¶rÃ¼nÃ¼yorlar? Siz onlarÄ±n kaburgalarÄ±nÄ± gÃ¶rebiliyorsunuz.
 
 514
 00:47:42,840 --> 00:47:47,059
-Çökmüş bir yapı...Deri ve kemikler.
+Ã‡Ã¶kmÃ¼ÅŸ bir yapÄ±...Deri ve kemikler.
 
 515
 00:47:47,059 --> 00:47:50,759
-Ve eğer ruh beslenmediyse bu, bizim ruhumuza oluyor.
+Ve eÄŸer ruh beslenmediyse bu, bizim ruhumuza oluyor.
 
 516
 00:47:51,039 --> 00:47:59,679
-Her gün beş öğün. "Suçlu, görünüşlerinden tanınacak."
+Her gÃ¼n beÅŸ Ã¶ÄŸÃ¼n. "SuÃ§lu, gÃ¶rÃ¼nÃ¼ÅŸlerinden tanÄ±nacak."
 
 517
 00:48:02,880 --> 00:48:08,960
-Afrika'da kimin açlık çekiyor olduğunu ve kimin olmadığını onlara bakarak söyleyebilirsiniz.
+Afrika'da kimin aÃ§lÄ±k Ã§ekiyor olduÄŸunu ve kimin olmadÄ±ÄŸÄ±nÄ± onlara bakarak sÃ¶yleyebilirsiniz.
 
 518
 00:48:08,960 --> 00:48:14,360
-Ve Ahiret'te kimin açlık çektiğini ve kimin çekmediğini görebileceksiniz.
+Ve Ahiret'te kimin aÃ§lÄ±k Ã§ektiÄŸini ve kimin Ã§ekmediÄŸini gÃ¶rebileceksiniz.
 
 519
 00:48:14,360 --> 00:48:17,079
-Bu sadece (Kendi) seçimleriyle olacak
+Bu sadece (Kendi) seÃ§imleriyle olacak
 
 520
 00:48:18,760 --> 00:48:22,199
-Dolayısıyla biz şimdi Lori'ye ve 46 Numara'ya geri dönüyoruz. Yüksek Cennet...
+DolayÄ±sÄ±yla biz ÅŸimdi Lori'ye ve 46 Numara'ya geri dÃ¶nÃ¼yoruz. YÃ¼ksek Cennet...
 
 521
 00:48:22,199 --> 00:48:29,380
-Lori: Evet. "Rablerinin haşmetine derin saygı duyanlar için iki cennet."
+Lori: Evet. "Rablerinin haÅŸmetine derin saygÄ± duyanlar iÃ§in iki cennet."
 
 522
 00:48:29,380 --> 00:48:32,079
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 523
 00:48:32,119 --> 00:48:33,960
-"Yaygın yeşillikle."
+"YaygÄ±n yeÅŸillikle."
 
 524
 00:48:33,960 --> 00:48:36,480
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 525
 00:48:36,480 --> 00:48:39,000
-"Onların içinde serbestçe akmakta olan iki pınar vardır."
+"OnlarÄ±n iÃ§inde serbestÃ§e akmakta olan iki pÄ±nar vardÄ±r."
 
 526
 00:48:39,000 --> 00:48:41,780
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 527
 00:48:41,780 --> 00:48:44,079
-"Orada her meyvenin iki çeşidine sahip olacaklar."
+"Orada her meyvenin iki Ã§eÅŸidine sahip olacaklar."
 
 528
 00:48:44,079 --> 00:48:47,019
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 529
 00:48:47,019 --> 00:48:52,320
-"Atlasla kaplanmış mobilyalara yaslanırlarken, meyveler ulaşılabilirdir."
+"Atlasla kaplanmÄ±ÅŸ mobilyalara yaslanÄ±rlarken, meyveler ulaÅŸÄ±labilirdir."
 
 530
 00:48:52,320 --> 00:48:55,059
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 531
 00:48:55,059 --> 00:48:59,980
-"Orada muhteşem eşlere sahip olacaklar, önceden asla hiçbir insan veya bir cin tarafından dokunulmamış."
+"Orada muhteÅŸem eÅŸlere sahip olacaklar, Ã¶nceden asla hiÃ§bir insan veya bir cin tarafÄ±ndan dokunulmamÄ±ÅŸ."
 
 532
 00:49:00,139 --> 00:49:03,000
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 533
 00:49:03,000 --> 00:49:05,639
-"Onlar yakut ve mercan gibi gözükecekler."
+"Onlar yakut ve mercan gibi gÃ¶zÃ¼kecekler."
 
 534
 00:49:05,639 --> 00:49:08,099
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 535
 00:49:08,099 --> 00:49:11,839
-"Doğruluğun ödülü, en iyi lütuftan başka herhangi bir şey mi?.."
+"DoÄŸruluÄŸun Ã¶dÃ¼lÃ¼, en iyi lÃ¼tuftan baÅŸka herhangi bir ÅŸey mi?.."
 
 536
 00:49:11,840 --> 00:49:15,500
-"Rabbinizin harikalarından hangisini yalanlayabilirsiniz?"
+"Rabbinizin harikalarÄ±ndan hangisini yalanlayabilirsiniz?"
 
 537
 00:49:19,820 --> 00:49:24,800
-Reşad Halife: Ayet 15... Sizin için birtakım çok güzel haberlerim var.
+ReÅŸad Halife: Ayet 15... Sizin iÃ§in birtakÄ±m Ã§ok gÃ¼zel haberlerim var.
 
 538
 00:49:26,480 --> 00:49:36,739
-Pohpohlamak gibi olmasın, sizler çok, çok özel insanlarsınız. Sizin yükseğin en yükseğine, en yüksek cennete gitmeniz gerek. Size nedenini açıklayayım.
+Pohpohlamak gibi olmasÄ±n, sizler Ã§ok, Ã§ok Ã¶zel insanlarsÄ±nÄ±z. Sizin yÃ¼kseÄŸin en yÃ¼kseÄŸine, en yÃ¼ksek cennete gitmeniz gerek. Size nedenini aÃ§Ä±klayayÄ±m.
 
 539
 00:49:36,940 --> 00:49:43,840
-İbrahim, Tanrı'nın komutlarına göre İslam dinini başlattığı zaman...
+Ä°brahim, TanrÄ±'nÄ±n komutlarÄ±na gÃ¶re Ä°slam dinini baÅŸlattÄ±ÄŸÄ± zaman...
 
 540
 00:49:44,260 --> 00:49:50,360
-...o ve etrafındaki insanlar yalnızca Tanrı'ya tapıyorlardı ve zaman geçtikçe...
+...o ve etrafÄ±ndaki insanlar yalnÄ±zca TanrÄ±'ya tapÄ±yorlardÄ± ve zaman geÃ§tikÃ§e...
 
 541
 00:49:50,360 --> 00:49:55,619
-...Şeytan sinsice ve adım adım puta tapmayı ekledi.
+...Åeytan sinsice ve adÄ±m adÄ±m puta tapmayÄ± ekledi.
 
 542
 00:49:55,619 --> 00:50:00,259
-Ta ki Muhammed'in zamanı gelinceye dek. Bazı asır sonra...
+Ta ki Muhammed'in zamanÄ± gelinceye dek. BazÄ± asÄ±r sonra...
 
 543
 00:50:00,400 --> 00:50:05,360
-Muhammed'in geldiği zaman onlar, bir sürü putlara tapıyorlardı.
+Muhammed'in geldiÄŸi zaman onlar, bir sÃ¼rÃ¼ putlara tapÄ±yorlardÄ±.
 
 544
 00:50:06,639 --> 00:50:12,460
-El-Lat, Menat, El-Uzza ve tüm o (putlar)... İbrahim'in inşa ettiği Kabe'deydiler.
+El-Lat, Menat, El-Uzza ve tÃ¼m o (putlar)... Ä°brahim'in inÅŸa ettiÄŸi Kabe'deydiler.
 
 545
 00:50:12,460 --> 00:50:16,420
-Ve Kuran'da o kadar ayette İbrahim'in hiçbir zaman bir puta tapan olmadığını okuruz...
+Ve Kuran'da o kadar ayette Ä°brahim'in hiÃ§bir zaman bir puta tapan olmadÄ±ÄŸÄ±nÄ± okuruz...
 
 546
 00:50:16,420 --> 00:50:22,500
-Ve yine de, ortada onun inşa ettiği putlarla dolu olan bir Kabe var. Ve sonrasında...
+Ve yine de, ortada onun inÅŸa ettiÄŸi putlarla dolu olan bir Kabe var. Ve sonrasÄ±nda...
 
 547
 00:50:22,800 --> 00:50:26,179
-...Tanrı, mesajı yeniledi. Muhammed'e Kuran'ı gönderdi ve...
+...TanrÄ±, mesajÄ± yeniledi. Muhammed'e Kuran'Ä± gÃ¶nderdi ve...
 
 548
 00:50:26,179 --> 00:50:29,839
-...ve Muhammed'e insanlara putların kötü olduğunu, "Yalnızca Tanrı'ya tapın" demesini söyledi.
+...ve Muhammed'e insanlara putlarÄ±n kÃ¶tÃ¼ olduÄŸunu, "YalnÄ±zca TanrÄ±'ya tapÄ±n" demesini sÃ¶yledi.
 
 549
 00:50:29,840 --> 00:50:36,100
-"Yalnızca Tanrı'ya tapın," Ya ne oldu?!. Muhammed ve onun arkadaşları şiddetli bir şekilde zulme uğratıldılar.
+"YalnÄ±zca TanrÄ±'ya tapÄ±n," Ya ne oldu?!. Muhammed ve onun arkadaÅŸlarÄ± ÅŸiddetli bir ÅŸekilde zulme uÄŸratÄ±ldÄ±lar.
 
 550
 00:50:36,119 --> 00:50:41,960
-Onların üzerine her türden pislik ve taşlar fırlattılar.
+OnlarÄ±n Ã¼zerine her tÃ¼rden pislik ve taÅŸlar fÄ±rlattÄ±lar.
 
 551
 00:50:42,119 --> 00:50:45,739
-Ardından da onları, büyüdükleri zaman sürdüler.
+ArdÄ±ndan da onlarÄ±, bÃ¼yÃ¼dÃ¼kleri zaman sÃ¼rdÃ¼ler.
 
 552
 00:50:45,739 --> 00:50:49,179
-Onlar, yaklaşık üç yıllığına yaklaşık 10 veya 15 kişiydiler.
+Onlar, yaklaÅŸÄ±k Ã¼Ã§ yÄ±llÄ±ÄŸÄ±na yaklaÅŸÄ±k 10 veya 15 kiÅŸiydiler.
 
 553
 00:50:49,400 --> 00:50:53,660
-Ardından onlar, yaklaşık...Belki 25 veya 30 insana kadar büyüdüler.
+ArdÄ±ndan onlar, yaklaÅŸÄ±k...Belki 25 veya 30 insana kadar bÃ¼yÃ¼dÃ¼ler.
 
 554
 00:50:53,699 --> 00:50:57,599
-Ardından da onlar, onların çok güçlendiğini düşündüler. Dolayısıyla onları Mekke'nin dışına sürdüler.
+ArdÄ±ndan da onlar, onlarÄ±n Ã§ok gÃ¼Ã§lendiÄŸini dÃ¼ÅŸÃ¼ndÃ¼ler. DolayÄ±sÄ±yla onlarÄ± Mekke'nin dÄ±ÅŸÄ±na sÃ¼rdÃ¼ler.
 
 555
 00:50:57,599 --> 00:51:00,019
-Onları boykot ettiler. Şimdi...
+OnlarÄ± boykot ettiler. Åimdi...
 
 556
 00:51:00,019 --> 00:51:03,239
-O insanlar taciz edilmiştiler.
+O insanlar taciz edilmiÅŸtiler.
 
 557
 00:51:03,239 --> 00:51:07,839
-Dolayısıyla onların cennette özel bir yere sahip olmaları gerekli.
+DolayÄ±sÄ±yla onlarÄ±n cennette Ã¶zel bir yere sahip olmalarÄ± gerekli.
 
 558
 00:51:08,179 --> 00:51:09,899
-Mevcut olana karşı gittiler.
+Mevcut olana karÅŸÄ± gittiler.
 
 559
 00:51:09,900 --> 00:51:14,699
-Bir putperestlik okyanusunda yalnızca Tanrı'ya tapıyorlardı...
+Bir putperestlik okyanusunda yalnÄ±zca TanrÄ±'ya tapÄ±yorlardÄ±...
 
 560
 00:51:14,699 --> 00:51:18,219
-Onların çok özel insanlar olduklarını kolayca görebilirsiniz.
+OnlarÄ±n Ã§ok Ã¶zel insanlar olduklarÄ±nÄ± kolayca gÃ¶rebilirsiniz.
 
 561
 00:51:18,219 --> 00:51:21,559
-Onlar Yüksek Cennet'tin en yüksek mevkisinde olacaklar.
+Onlar YÃ¼ksek Cennet'tin en yÃ¼ksek mevkisinde olacaklar.
 
 562
 00:51:21,559 --> 00:51:26,079
-Çünkü Üst Cennet'in ve Alt Cennet'tin içinde bile, dereceler olacaktır.
+Ã‡Ã¼nkÃ¼ Ãœst Cennet'in ve Alt Cennet'tin iÃ§inde bile, dereceler olacaktÄ±r.
 
 563
 00:51:26,400 --> 00:51:30,760
-Tamam. Şimdi...Yirmi yıl önce...
+Tamam. Åimdi...Yirmi yÄ±l Ã¶nce...
 
 564
 00:51:31,619 --> 00:51:34,679
-Burada nasıl dediğini görüyor musunuz?.. "Birazı sonraki nesillerden."
+Burada nasÄ±l dediÄŸini gÃ¶rÃ¼yor musunuz?.. "BirazÄ± sonraki nesillerden."
 
 565
 00:51:34,699 --> 00:51:40,099
-Şimdi, bunlar Muhammed'in ardından gelen sonraki nesillerdir. Muhammed'in 1400 yıl ardından gelen...
+Åimdi, bunlar Muhammed'in ardÄ±ndan gelen sonraki nesillerdir. Muhammed'in 1400 yÄ±l ardÄ±ndan gelen...
 
 566
 00:51:40,179 --> 00:51:44,980
-Müslüman dünyasında yalnızca Tanrı'ya tapan tek bir Cami yoktu.
+MÃ¼slÃ¼man dÃ¼nyasÄ±nda yalnÄ±zca TanrÄ±'ya tapan tek bir Cami yoktu.
 
 567
 00:51:44,980 --> 00:51:50,139
-Şu komutu ayakta tutan: "Cami, Tanrı'ya aittir.
+Åu komutu ayakta tutan: "Cami, TanrÄ±'ya aittir.
 
 568
 00:51:50,300 --> 00:51:54,579
-"...Tanrı ile birlikte başka adları anmamalısınız."
+"...TanrÄ± ile birlikte baÅŸka adlarÄ± anmamalÄ±sÄ±nÄ±z."
 
 569
 00:51:54,579 --> 00:51:59,500
-Ve ardından da Tanrı mesajı yeniledi, tam olarak şimdi.
+Ve ardÄ±ndan da TanrÄ± mesajÄ± yeniledi, tam olarak ÅŸimdi.
 
 570
 00:51:59,719 --> 00:52:03,419
-Ve mesaj yüksek sesle ve net bir şekilde tüm dünyaya yayıldı
+Ve mesaj yÃ¼ksek sesle ve net bir ÅŸekilde tÃ¼m dÃ¼nyaya yayÄ±ldÄ±
 
 571
 00:52:03,420 --> 00:52:04,340
-"Yalnızca Tanrı'ya tapın!"
+"YalnÄ±zca TanrÄ±'ya tapÄ±n!"
 
 572
 00:52:04,400 --> 00:52:08,599
-"La İlahe İllallah" deyin, "La İlahe İlallah Muhammed Rasulullah" değil!
+"La Ä°lahe Ä°llallah" deyin, "La Ä°lahe Ä°lallah Muhammed Rasulullah" deÄŸil!
 
 573
 00:52:08,980 --> 00:52:11,079
-"Ve kendinizi yalnızca Tanrı'ya adayın!"
+"Ve kendinizi yalnÄ±zca TanrÄ±'ya adayÄ±n!"
 
 574
 00:52:11,079 --> 00:52:14,819
-"Kuran'ın komutlarına sarılın, ibadetlerinizi arındırın."
+"Kuran'Ä±n komutlarÄ±na sarÄ±lÄ±n, ibadetlerinizi arÄ±ndÄ±rÄ±n."
 
 575
 00:52:14,880 --> 00:52:18,980
-"Namazınız yanlış, orucunuz yanlış, Zekat'ınız yanlış."
+"NamazÄ±nÄ±z yanlÄ±ÅŸ, orucunuz yanlÄ±ÅŸ, Zekat'Ä±nÄ±z yanlÄ±ÅŸ."
 
 576
 00:52:18,980 --> 00:52:24,179
-Bunların hepsi, O'nun (Tanrı'nın) bizim neslimize gönderdiği Tanrı'dan lütuflardır.
+BunlarÄ±n hepsi, O'nun (TanrÄ±'nÄ±n) bizim neslimize gÃ¶nderdiÄŸi TanrÄ±'dan lÃ¼tuflardÄ±r.
 
 577
 00:52:24,179 --> 00:52:28,599
-Ve yine de biz...Biz aynı zulme tabiyiz.
+Ve yine de biz...Biz aynÄ± zulme tabiyiz.
 
 578
 00:52:29,539 --> 00:52:34,279
-Aynı alay geçme... Ne mutlu bize..
+AynÄ± alay geÃ§me... Ne mutlu bize..
 
 579
 00:52:34,280 --> 00:52:38,000
-Bendeniz, Orta Doğu'daki herhangi bir ülkeye gidemiyorlar.
+Bendeniz, Orta DoÄŸu'daki herhangi bir Ã¼lkeye gidemiyorlar.
 
 580
 00:52:38,139 --> 00:52:43,879
-24 saat içinde vurulmuş olurum... Demek istiyorum ki...bunu sadece bir sembolleştirin.
+24 saat iÃ§inde vurulmuÅŸ olurum... Demek istiyorum ki...bunu sadece bir sembolleÅŸtirin.
 
 581
 00:52:44,059 --> 00:52:47,739
-Ve eğer siz, Orta Doğu'ya giderseniz, beni sahiplenmeseniz iyi edersiniz. Böyle yapmanızı istiyorum.
+Ve eÄŸer siz, Orta DoÄŸu'ya giderseniz, beni sahiplenmeseniz iyi edersiniz. BÃ¶yle yapmanÄ±zÄ± istiyorum.
 
 582
 00:52:47,739 --> 00:52:51,679
-Demek istiyorum ki...Tanrı diyor ki, "Eğer o şartlar altındaysanız, Tanrı'yı bile sahiplenmeyin."
+Demek istiyorum ki...TanrÄ± diyor ki, "EÄŸer o ÅŸartlar altÄ±ndaysanÄ±z, TanrÄ±'yÄ± bile sahiplenmeyin."
 
 583
 00:52:51,679 --> 00:52:55,279
-"Kalbiniz imanla dolu oldukça."
+"Kalbiniz imanla dolu oldukÃ§a."
 
 584
 00:52:55,400 --> 00:52:59,920
-Siz eğer başınızı belaya sokmak istemiyorsanız, onlara "Ben, Reşad Halife'yi tanımıyorum." deseniz iyi edersiniz.
+Siz eÄŸer baÅŸÄ±nÄ±zÄ± belaya sokmak istemiyorsanÄ±z, onlara "Ben, ReÅŸad Halife'yi tanÄ±mÄ±yorum." deseniz iyi edersiniz.
 
 585
 00:52:59,920 --> 00:53:04,820
 Ama bu bir...
-Siz çok ama çok özel insanlarsınız.
+Siz Ã§ok ama Ã§ok Ã¶zel insanlarsÄ±nÄ±z.
 
 586
 00:53:05,380 --> 00:53:11,360
-Siz, kaba alaydan ve dalga geçilmekten geçtiniz.
+Siz, kaba alaydan ve dalga geÃ§ilmekten geÃ§tiniz.
 
 587
 00:53:11,599 --> 00:53:16,839
-Bugün Talim, beni New York'dan arıyor ve o (kız), Chicago'daki birtakım akrabalarıyla konuşuyormuş...
+BugÃ¼n Talim, beni New York'dan arÄ±yor ve o (kÄ±z), Chicago'daki birtakÄ±m akrabalarÄ±yla konuÅŸuyormuÅŸ...
 
 588
 00:53:16,840 --> 00:53:21,300
-...sözümona İslamî Merkez'de oldukça etkin olan... Ve o, onlara demiş ki...
+...sÃ¶zÃ¼mona Ä°slamÃ® Merkez'de oldukÃ§a etkin olan... Ve o, onlara demiÅŸ ki...
 
 589
 00:53:21,300 --> 00:53:25,440
-"Ben kendimi yalnızca Tanrı'ya adıyorum. Ben sadece 'La İlahe İllallah' diyorum."
+"Ben kendimi yalnÄ±zca TanrÄ±'ya adÄ±yorum. Ben sadece 'La Ä°lahe Ä°llallah' diyorum."
 
 590
 00:53:25,440 --> 00:53:26,880
-Ve bilin bakalım onlar ne dediler?..
+Ve bilin bakalÄ±m onlar ne dediler?..
 
 591
 00:53:26,900 --> 00:53:31,920
-Dediler ki, "Talim, mahvolmuş! O yalnızca Tanrı'ya tapıyor!.."
+Dediler ki, "Talim, mahvolmuÅŸ! O yalnÄ±zca TanrÄ±'ya tapÄ±yor!.."
 
 592
 00:53:32,659 --> 00:53:34,219
-Ve bu alaydır, değil mi?
+Ve bu alaydÄ±r, deÄŸil mi?
 
 593
 00:53:34,219 --> 00:53:38,359
-Onlar onunla alay ettiler, bilirsiniz... "Sen 'La İlahe İllallah' diyorsun."
+Onlar onunla alay ettiler, bilirsiniz... "Sen 'La Ä°lahe Ä°llallah' diyorsun."
 
 594
 00:53:38,360 --> 00:53:40,300
-"Sen 'yalnızca Tanrı'ya tapın' diyorsun."
+"Sen 'yalnÄ±zca TanrÄ±'ya tapÄ±n' diyorsun."
 
 595
 00:53:40,300 --> 00:53:43,840
-"YALNIZCA Tanrı mı demek istedin? Sadece bu mu, Tanrı mı?.."
+"YALNIZCA TanrÄ± mÄ± demek istedin? Sadece bu mu, TanrÄ± mÄ±?.."
 
 596
 00:53:44,000 --> 00:53:47,880
-Mantığı görüyor musunuz? Onlar gerçekten de onunla alay ediyorlar.
+MantÄ±ÄŸÄ± gÃ¶rÃ¼yor musunuz? Onlar gerÃ§ekten de onunla alay ediyorlar.
 
 597
 00:53:47,880 --> 00:53:50,340
-Başka bir gece de Mahmud çalışıyordu...
+BaÅŸka bir gece de Mahmud Ã§alÄ±ÅŸÄ±yordu...
 
 598
 00:53:50,460 --> 00:53:55,240
-...ve bazı sözümona müslümanlar dükkandan içeri girdiler. Ve "Muhammed" yazan etiketi gördüler.
+...ve bazÄ± sÃ¶zÃ¼mona mÃ¼slÃ¼manlar dÃ¼kkandan iÃ§eri girdiler. Ve "Muhammed" yazan etiketi gÃ¶rdÃ¼ler.
 
 599
 00:53:55,380 --> 00:53:59,179
-...veya etiketteki "Mahmud"'u...Ve onlar demişler ki, "Sen bir Müslüman mısın?" O da,  "Evet." demiş.
+...veya etiketteki "Mahmud"'u...Ve onlar demiÅŸler ki, "Sen bir MÃ¼slÃ¼man mÄ±sÄ±n?" O da,  "Evet." demiÅŸ.
 
 600
 00:53:59,179 --> 00:54:02,319
-Onlar da,  "Nasıl oluyor da seni Cami'de görmüyoruz?" demişler.
+Onlar da,  "NasÄ±l oluyor da seni Cami'de gÃ¶rmÃ¼yoruz?" demiÅŸler.
 
 601
 00:54:02,460 --> 00:54:08,420
-O da, "Nasıl oluyor da ben de sizi Cami'de görmüyorum?" demiş.
+O da, "NasÄ±l oluyor da ben de sizi Cami'de gÃ¶rmÃ¼yorum?" demiÅŸ.
 
 602
 00:54:08,420 --> 00:54:12,360
-"Oh, sen o Cami'ye gidiyorsun demek istiyorsun'' (demişler)
+"Oh, sen o Cami'ye gidiyorsun demek istiyorsun'' (demiÅŸler)
 
 603
 00:54:12,360 --> 00:54:15,039
-"O yalnızca Tanrı'ya tapan Cami, öyle değil mi?!"
+"O yalnÄ±zca TanrÄ±'ya tapan Cami, Ã¶yle deÄŸil mi?!"
 
 604
 00:54:15,039 --> 00:54:18,679
-Şimdi Nuh...Eğer Kuran'daki (bölümü) hatırlarsanız Nuh dedi ki...
+Åimdi Nuh...EÄŸer Kuran'daki (bÃ¶lÃ¼mÃ¼) hatÄ±rlarsanÄ±z Nuh dedi ki...
 
 605
 00:54:18,679 --> 00:54:25,759
-Nuh gemiyi inşa ediyordu veya tufan yüzerini veya onu her ne diye adlandırırsanız...
+Nuh gemiyi inÅŸa ediyordu veya tufan yÃ¼zerini veya onu her ne diye adlandÄ±rÄ±rsanÄ±z...
 
 606
 00:54:26,079 --> 00:54:27,539
-Su taşıtı...
+Su taÅŸÄ±tÄ±...
 
 607
 00:54:28,059 --> 00:54:30,880
-Ve onlar, ona gülüyorlardı ve ayrıca o da dedi ki, "Siz bana gülüyorsunuz...
+Ve onlar, ona gÃ¼lÃ¼yorlardÄ± ve ayrÄ±ca o da dedi ki, "Siz bana gÃ¼lÃ¼yorsunuz...
 
 608
 00:54:30,920 --> 00:54:35,812
-"...ama ben gerçekten de size gülüyorum." Ve Mahmud'un dükkanda yapıyor olduğu da aslında buydu.
+"...ama ben gerÃ§ekten de size gÃ¼lÃ¼yorum." Ve Mahmud'un dÃ¼kkanda yapÄ±yor olduÄŸu da aslÄ±nda buydu.
 
 609
 00:54:35,812 --> 00:54:40,079
-Çünkü onlar dediler ki, "Oh, biz asla...Biz asla Matematiğe inanmayız."
+Ã‡Ã¼nkÃ¼ onlar dediler ki, "Oh, biz asla...Biz asla MatematiÄŸe inanmayÄ±z."
 
 610
 00:54:40,079 --> 00:54:41,860
-Şimdi bu...
+Åimdi bu...
 
 611
 00:54:42,659 --> 00:54:47,799
-Şimdi o günde, onların muhtemelen kalkülüs sınavları vardı, değil mi? Üniversite'de...
+Åimdi o gÃ¼nde, onlarÄ±n muhtemelen kalkÃ¼lÃ¼s sÄ±navlarÄ± vardÄ±, deÄŸil mi? Ãœniversite'de...
 
 612
 00:54:48,280 --> 00:54:55,220
-Ve onların formülleri ve denklemleri ve...izlemeleri gerekiyordu. Aksi takdirde sınıfta kalırlar.
+Ve onlarÄ±n formÃ¼lleri ve denklemleri ve...izlemeleri gerekiyordu. Aksi takdirde sÄ±nÄ±fta kalÄ±rlar.
 
 613
 00:54:55,780 --> 00:54:59,900
-Yani onlar Matematiğe inanıyorlar ama eğer Tanrı'ya ve Kuran'a gelirse (iş)...
+Yani onlar MatematiÄŸe inanÄ±yorlar ama eÄŸer TanrÄ±'ya ve Kuran'a gelirse (iÅŸ)...
 
 614
 00:55:00,019 --> 00:55:04,259
-Ve yalnızca Tanrı'ya tapmaya... (o zaman) Matematiğe inanmıyorlar. Dolayısıyla, onlar Mahmud'a bakıyorlardı...
+Ve yalnÄ±zca TanrÄ±'ya tapmaya... (o zaman) MatematiÄŸe inanmÄ±yorlar. DolayÄ±sÄ±yla, onlar Mahmud'a bakÄ±yorlardÄ±...
 
 615
 00:55:04,300 --> 00:55:08,640
-Bilirsiniz, onunla alay ediyorlar ve tabii ki de o, kalbinde zavallı olan ruhları biliyor.
+Bilirsiniz, onunla alay ediyorlar ve tabii ki de o, kalbinde zavallÄ± olan ruhlarÄ± biliyor.
 
 616
 00:55:08,900 --> 00:55:13,760
-Tıpkı Nuh gibi. O, onlarla alay ediyordu tıpkı... Demek istiyorum ki o, onlara gülüyordu..
+TÄ±pkÄ± Nuh gibi. O, onlarla alay ediyordu tÄ±pkÄ±... Demek istiyorum ki o, onlara gÃ¼lÃ¼yordu..
 
 617
 00:55:13,860 --> 00:55:19,180
-...tıpkı onların ona güldükleri gibi. Ama bu, Mahmud'u çok özel bir kişi yapar.
+...tÄ±pkÄ± onlarÄ±n ona gÃ¼ldÃ¼kleri gibi. Ama bu, Mahmud'u Ã§ok Ã¶zel bir kiÅŸi yapar.
 
 618
 00:55:19,880 --> 00:55:24,159
-"Çoğunluğu, önceki nesillerden." işte bu anlama gelir.
+"Ã‡oÄŸunluÄŸu, Ã¶nceki nesillerden." iÅŸte bu anlama gelir.
 
 619
 00:55:24,159 --> 00:55:26,899
@@ -2487,180 +2487,180 @@ Biz ilk nesiliz.
 
 620
 00:55:26,900 --> 00:55:31,760
-Mesajın yenilenmesinin (ilk nesli)...Ve biz oldukça berrak bir şekilde görüyoruz ki, her birimiz ışıktayız.
+MesajÄ±n yenilenmesinin (ilk nesli)...Ve biz oldukÃ§a berrak bir ÅŸekilde gÃ¶rÃ¼yoruz ki, her birimiz Ä±ÅŸÄ±ktayÄ±z.
 
 621
 00:55:31,780 --> 00:55:38,420
-Ve bunu görebiliyoruz.  Sadece dünyadaki herhangi bir camiye gidin ve deyin ki, "La İlahe İllallah"...
+Ve bunu gÃ¶rebiliyoruz.  Sadece dÃ¼nyadaki herhangi bir camiye gidin ve deyin ki, "La Ä°lahe Ä°llallah"...
 
 622
 00:55:38,420 --> 00:55:45,079
-...ve sizi tekme tokat döveceklerdir. "Sen, 'Yalnızca Tanrı'ya tapın,' diyorsun!"
+...ve sizi tekme tokat dÃ¶veceklerdir. "Sen, 'YalnÄ±zca TanrÄ±'ya tapÄ±n,' diyorsun!"
 
 623
 00:55:45,079 --> 00:55:50,980
-Dolayısıyla ilk nesillerden yüzyıllar sonra neler olduğunu görebilirsiniz.
+DolayÄ±sÄ±yla ilk nesillerden yÃ¼zyÄ±llar sonra neler olduÄŸunu gÃ¶rebilirsiniz.
 
 624
 00:55:51,079 --> 00:55:55,719
-İbrahim, ilk nesildi ve o insanlar...
+Ä°brahim, ilk nesildi ve o insanlar...
 
 625
 00:55:56,360 --> 00:55:59,559
-Demek istiyorum ki onlar, İbrahim'i ateşe attılar, değil mi?
+Demek istiyorum ki onlar, Ä°brahim'i ateÅŸe attÄ±lar, deÄŸil mi?
 
 626
 00:56:00,679 --> 00:56:05,159
-O günlerde İbrahim'in kaçabileceği hiçbir Amerika yoktu.
+O gÃ¼nlerde Ä°brahim'in kaÃ§abileceÄŸi hiÃ§bir Amerika yoktu.
 
 627
 00:56:05,619 --> 00:56:11,940
-Onlar onu ateşe attılar, peki ya Tanrı ne yaptı? O, ateşi sakin ve güvenli bir yere çevirdi.
+Onlar onu ateÅŸe attÄ±lar, peki ya TanrÄ± ne yaptÄ±? O, ateÅŸi sakin ve gÃ¼venli bir yere Ã§evirdi.
 
 628
 00:56:12,099 --> 00:56:17,779
-Çünkü Tanrı, Tanrı dedi ki, "Benim, elçilerimi terk edeceğimi düşünme."
+Ã‡Ã¼nkÃ¼ TanrÄ±, TanrÄ± dedi ki, "Benim, elÃ§ilerimi terk edeceÄŸimi dÃ¼ÅŸÃ¼nme."
 
 629
 00:56:17,780 --> 00:56:23,060
-Tanrı, onlar için bir çıkış yaratır. Yani İbrahim için çıkış, sakin, güvenli ateşti.
+TanrÄ±, onlar iÃ§in bir Ã§Ä±kÄ±ÅŸ yaratÄ±r. Yani Ä°brahim iÃ§in Ã§Ä±kÄ±ÅŸ, sakin, gÃ¼venli ateÅŸti.
 
 630
 00:56:23,780 --> 00:56:27,620
-Ve onunla beraber olan insanlar, zülme uğradılar.
+Ve onunla beraber olan insanlar, zÃ¼lme uÄŸradÄ±lar.
 
 631
 00:56:27,760 --> 00:56:34,340
-Onların özel insanlar olmaları lazım. Çünkü, en kolay şey, kitlelerle, kalabalıklarla birlikte yürümektir.
+OnlarÄ±n Ã¶zel insanlar olmalarÄ± lazÄ±m. Ã‡Ã¼nkÃ¼, en kolay ÅŸey, kitlelerle, kalabalÄ±klarla birlikte yÃ¼rÃ¼mektir.
 
 632
 00:56:34,340 --> 00:56:40,639
-Bunun Mahmud'u salladığını zannediyor musunuz? Bir kılını bile değil ve işte bu yüzden o, oldukça özel.
+Bunun Mahmud'u salladÄ±ÄŸÄ±nÄ± zannediyor musunuz? Bir kÄ±lÄ±nÄ± bile deÄŸil ve iÅŸte bu yÃ¼zden o, oldukÃ§a Ã¶zel.
 
 633
 00:56:40,639 --> 00:56:43,259
-Ben Mahmud'u yalnızca bir örnek olarak kullanıyorum.
+Ben Mahmud'u yalnÄ±zca bir Ã¶rnek olarak kullanÄ±yorum.
 
 634
 00:56:43,260 --> 00:56:47,460
-Muhteşem, birtakım Orta Doğulu şeyleri satın almak için bir dükkana gitti.
+MuhteÅŸem, birtakÄ±m Orta DoÄŸulu ÅŸeyleri satÄ±n almak iÃ§in bir dÃ¼kkana gitti.
 
 635
 00:56:47,460 --> 00:56:54,380
-Ve o, orada birtakım Araplara rastladı. Resmen tamamen cahiller.
+Ve o, orada birtakÄ±m Araplara rastladÄ±. Resmen tamamen cahiller.
 
 636
 00:56:54,380 --> 00:56:55,699
-Hiçbir şey bilmiyorlar.
+HiÃ§bir ÅŸey bilmiyorlar.
 
 637
 00:56:55,699 --> 00:57:00,759
-Ama o diyor ki, "Evet biz, Mescid Tucson'a gidiyoruz. Biz, yalnızca Tanrı'ya tapıyoruz."
+Ama o diyor ki, "Evet biz, Mescid Tucson'a gidiyoruz. Biz, yalnÄ±zca TanrÄ±'ya tapÄ±yoruz."
 
 638
 00:57:00,760 --> 00:57:08,496
-Ve onlar neredeyse onu tekme tokat döveceklerdi. Ve o, yeterince büyük, yeterince güçlü ve bir Türk olmasaydı.
+Ve onlar neredeyse onu tekme tokat dÃ¶veceklerdi. Ve o, yeterince bÃ¼yÃ¼k, yeterince gÃ¼Ã§lÃ¼ ve bir TÃ¼rk olmasaydÄ±.
 
 639
 00:57:08,496 --> 00:57:10,259
-Onu tekme tokat dövmüşlerdi.
+Onu tekme tokat dÃ¶vmÃ¼ÅŸlerdi.
 
 640
 00:57:10,260 --> 00:57:14,380
-Yani siz neden tüm bu tacizi ve tüm bu alayı almak zorundasınız ki?..
+Yani siz neden tÃ¼m bu tacizi ve tÃ¼m bu alayÄ± almak zorundasÄ±nÄ±z ki?..
 
 641
 00:57:14,380 --> 00:57:18,260
-Onun, onu sarstığını zannediyor musunuz? O, onun imanını etkiledi mi?
+Onun, onu sarstÄ±ÄŸÄ±nÄ± zannediyor musunuz? O, onun imanÄ±nÄ± etkiledi mi?
 
 642
 00:57:18,260 --> 00:57:21,099
-Eğer herhangi bir şey olduysa bile, o, onun imanını güçlendirmiştir.
+EÄŸer herhangi bir ÅŸey olduysa bile, o, onun imanÄ±nÄ± gÃ¼Ã§lendirmiÅŸtir.
 
 643
 00:57:21,099 --> 00:57:24,119
-O, o insanların kof olduklarını biliyor. Onların cahil olduğunu biliyor.
+O, o insanlarÄ±n kof olduklarÄ±nÄ± biliyor. OnlarÄ±n cahil olduÄŸunu biliyor.
 
 644
 00:57:24,119 --> 00:57:26,139
-O, onların yalnızca Tanrı'ya tapmadıklarını biliyor.
+O, onlarÄ±n yalnÄ±zca TanrÄ±'ya tapmadÄ±klarÄ±nÄ± biliyor.
 
 645
 00:57:26,239 --> 00:57:30,279
-O, onların namazı kaybettiklerini biliyor. Muhtemelen hiçbir zaman namaz kılmıyorlar. O insanlar...
+O, onlarÄ±n namazÄ± kaybettiklerini biliyor. Muhtemelen hiÃ§bir zaman namaz kÄ±lmÄ±yorlar. O insanlar...
 
 646
 00:57:30,280 --> 00:57:31,920
-Onların namaz kıldığını düşünüyor musun?
+OnlarÄ±n namaz kÄ±ldÄ±ÄŸÄ±nÄ± dÃ¼ÅŸÃ¼nÃ¼yor musun?
 
 647
 00:57:32,420 --> 00:57:36,900
-Muhteşem: Ben, Kuran'da kaç tane sure olduğunu sordum...
+MuhteÅŸem: Ben, Kuran'da kaÃ§ tane sure olduÄŸunu sordum...
 
 648
 00:57:36,900 --> 00:57:38,900
-Reşad Halife: Doğru. Bilmiyorlar mı?
+ReÅŸad Halife: DoÄŸru. Bilmiyorlar mÄ±?
 
 649
 00:57:39,880 --> 00:57:47,739
-Muhteşem: Nasıl dersiniz...(Gerisi tam olarak anlaşılmıyor).
+MuhteÅŸem: NasÄ±l dersiniz...(Gerisi tam olarak anlaÅŸÄ±lmÄ±yor).
 
 650
 00:57:47,739 --> 00:57:53,199
-(Tam olarak anlaşılmıyor).
+(Tam olarak anlaÅŸÄ±lmÄ±yor).
 
 651
 00:57:53,320 --> 00:57:56,980
-Reşad Halife: Ve Kuran'da kaç tane sure olduğunu bilmiyor. Onların hepsi...
+ReÅŸad Halife: Ve Kuran'da kaÃ§ tane sure olduÄŸunu bilmiyor. OnlarÄ±n hepsi...
 
 652
 00:57:56,980 --> 00:58:03,260
 Her bir cami.
-Beşar çifti...
+BeÅŸar Ã§ifti...
 
 653
 00:58:03,260 --> 00:58:08,760
-Beşar, onunla o kadar çok kez alay ettiler ki... "Yani sen o Cami'ye mi gidiyorsun?"
+BeÅŸar, onunla o kadar Ã§ok kez alay ettiler ki... "Yani sen o Cami'ye mi gidiyorsun?"
 
 654
 00:58:09,119 --> 00:58:13,960
-Ve cevap şu: "Bana yalnızca Tanrı'ya tapktıkları bir yer göster, ben de oraya giderim."
+Ve cevap ÅŸu: "Bana yalnÄ±zca TanrÄ±'ya tapktÄ±klarÄ± bir yer gÃ¶ster, ben de oraya giderim."
 
 655
 00:58:14,519 --> 00:58:20,539
-Biz oraya gideriz. Ben oraya giderim. Yalnızca Tanrı'ya taptıkları herhangi bir yere gideceğiz.
+Biz oraya gideriz. Ben oraya giderim. YalnÄ±zca TanrÄ±'ya taptÄ±klarÄ± herhangi bir yere gideceÄŸiz.
 
 656
 00:58:20,900 --> 00:58:24,079
-Yargılayan Kişi, Tanrı'dır Sizi yaratmış olan Kişi, Tanrı'dır.
+YargÄ±layan KiÅŸi, TanrÄ±'dÄ±r Sizi yaratmÄ±ÅŸ olan KiÅŸi, TanrÄ±'dÄ±r.
 
 657
 00:58:24,360 --> 00:58:26,360
-Sizin için sağlayan Kişi, Tanrı'dır.
+Sizin iÃ§in saÄŸlayan KiÅŸi, TanrÄ±'dÄ±r.
 
 658
 00:58:26,360 --> 00:58:31,300
-Sağlınızı, refahınızı kontrol eden Kişi, Tanrı'dır.
+SaÄŸlÄ±nÄ±zÄ±, refahÄ±nÄ±zÄ± kontrol eden KiÅŸi, TanrÄ±'dÄ±r.
 
 659
 00:58:31,519 --> 00:58:34,019
-Mutluluğunuzu kontrol eden Kişi, Tanrı'dır.
+MutluluÄŸunuzu kontrol eden KiÅŸi, TanrÄ±'dÄ±r.
 
 660
 00:58:34,019 --> 00:58:37,360
-Başarınızı kontrol eden tek Kişi, Tanrı'dır.
+BaÅŸarÄ±nÄ±zÄ± kontrol eden tek KiÅŸi, TanrÄ±'dÄ±r.
 
 661
 00:58:37,960 --> 00:58:41,860
-Muhammed, ölüdür. Evliyalar, ölüdür. İsa, ölüdür.
+Muhammed, Ã¶lÃ¼dÃ¼r. Evliyalar, Ã¶lÃ¼dÃ¼r. Ä°sa, Ã¶lÃ¼dÃ¼r.
 
 662
 00:58:41,860 --> 00:58:44,900
-Güçsüzdüler, yaşarlarken bile...
+GÃ¼Ã§sÃ¼zdÃ¼ler, yaÅŸarlarken bile...
 
 663
 00:58:44,909 --> 00:58:49,239
-Onların kesinlikle hiçbir güçleri yoktu.
+OnlarÄ±n kesinlikle hiÃ§bir gÃ¼Ã§leri yoktu.
 
 664
 00:58:49,239 --> 00:58:53,459
@@ -2672,55 +2672,55 @@ Bu ilk nesildir.
 
 666
 00:58:55,510 --> 00:58:58,539
-Ve biz, biz çok şanslıyız.
+Ve biz, biz Ã§ok ÅŸanslÄ±yÄ±z.
 
 667
 00:58:58,539 --> 00:59:02,139
-Biz bir ilk nesiliz. Tıpkı İbrahim'in nesli gibi.
+Biz bir ilk nesiliz. TÄ±pkÄ± Ä°brahim'in nesli gibi.
 
 668
 00:59:02,199 --> 00:59:07,159
-Muhammed'in nesli... Muhammed'in nesli alaya uğradı.
+Muhammed'in nesli... Muhammed'in nesli alaya uÄŸradÄ±.
 
 669
 00:59:07,480 --> 00:59:13,139
-Ve zulme... Onların şehirlerini, Mekke'yi terk etmek ve Medine'ye gitmek zorunda kaldılar.
+Ve zulme... OnlarÄ±n ÅŸehirlerini, Mekke'yi terk etmek ve Medine'ye gitmek zorunda kaldÄ±lar.
 
 670
 00:59:13,199 --> 00:59:18,439
-Uğramış oldukları zulüm...Bu yüzden Tanrı, onlar için özel bir yer rezerve ediyor.
+UÄŸramÄ±ÅŸ olduklarÄ± zulÃ¼m...Bu yÃ¼zden TanrÄ±, onlar iÃ§in Ã¶zel bir yer rezerve ediyor.
 
 671
 00:59:18,440 --> 00:59:23,480
-Ve Tanrı, bizim için özel bir yer hazırlıyor. Bunu, Tanrı'nın lütfuyla söylüyorum.
+Ve TanrÄ±, bizim iÃ§in Ã¶zel bir yer hazÄ±rlÄ±yor. Bunu, TanrÄ±'nÄ±n lÃ¼tfuyla sÃ¶ylÃ¼yorum.
 
 672
 00:59:23,480 --> 00:59:27,119
-Ve o, sizler için çok güzel bir haber.
+Ve o, sizler iÃ§in Ã§ok gÃ¼zel bir haber.
 
 673
 00:59:27,300 --> 00:59:32,159
-Sizler...Sizler Ayet 15'e uyuyorsunuz. "Çoğunluk, ilk nesillerden."
+Sizler...Sizler Ayet 15'e uyuyorsunuz. "Ã‡oÄŸunluk, ilk nesillerden."
 
 674
 00:59:32,159 --> 00:59:36,839
-50 yıl içinde...Sizi temin ederim, 50 yıl içinde... Yalnızca Tanrı'ya tapan milyonlarca insan olacak.
+50 yÄ±l iÃ§inde...Sizi temin ederim, 50 yÄ±l iÃ§inde... YalnÄ±zca TanrÄ±'ya tapan milyonlarca insan olacak.
 
 675
 00:59:36,840 --> 00:59:41,179
-Ve yalnızca Kuran'ı tutan ve doğru şekilde namaz kılan...
+Ve yalnÄ±zca Kuran'Ä± tutan ve doÄŸru ÅŸekilde namaz kÄ±lan...
 
 676
 00:59:41,179 --> 00:59:43,759
-Milyonlarca...Sadece 50 yıl içinde.
+Milyonlarca...Sadece 50 yÄ±l iÃ§inde.
 
 677
 00:59:44,059 --> 00:59:49,659
-Ama onlar kalabalığı izliyor olacaklar, onlar sizin gibi olamazlar.
+Ama onlar kalabalÄ±ÄŸÄ± izliyor olacaklar, onlar sizin gibi olamazlar.
 
 678
 00:59:49,659 --> 00:59:53,279
-Onlar sayılarıyla korunuyor olacaklar.
+Onlar sayÄ±larÄ±yla korunuyor olacaklar.
 
 679
 00:59:53,519 --> 00:59:57,840
@@ -2732,76 +2732,76 @@ Bu Cami'de...
 
 681
 00:59:59,039 --> 01:00:03,279
-Ve onlar güçlü olacaklar. Vagona atlamış olan insanlar...
+Ve onlar gÃ¼Ã§lÃ¼ olacaklar. Vagona atlamÄ±ÅŸ olan insanlar...
 
 682
 01:00:03,280 --> 01:00:09,780
-Ama onlar, sizinle aynı pozisyonu veya sizinle aynı krediyi hak etmiyorlar.
+Ama onlar, sizinle aynÄ± pozisyonu veya sizinle aynÄ± krediyi hak etmiyorlar.
 
 683
 01:00:12,559 --> 01:00:16,159
-Yani, işte onun geldiği anlam budur. "Çoğunluğu, ilk nesillerden."
+Yani, iÅŸte onun geldiÄŸi anlam budur. "Ã‡oÄŸunluÄŸu, ilk nesillerden."
 
 684
 01:00:16,159 --> 01:00:19,279
-Ama yalnızca birkaçı sonraki nesillerden.
+Ama yalnÄ±zca birkaÃ§Ä± sonraki nesillerden.
 
 685
 01:00:19,280 --> 01:00:23,620
-Ama bunlar çok öndeler, Arapçasında: "essebikunes sebikun"
+Ama bunlar Ã§ok Ã¶ndeler, ArapÃ§asÄ±nda: "essebikunes sebikun"
 
 686
 01:00:23,719 --> 01:00:29,939
-Bunlar Tanrı'ya en yakın olacaklar. Onlar çok özeller ve işte onlar sizsiniz.
+Bunlar TanrÄ±'ya en yakÄ±n olacaklar. Onlar Ã§ok Ã¶zeller ve iÅŸte onlar sizsiniz.
 
 687
 01:00:29,940 --> 01:00:34,619
-Ve siz faydalarını toplamaya şimdiden başlıyorsunuz.
+Ve siz faydalarÄ±nÄ± toplamaya ÅŸimdiden baÅŸlÄ±yorsunuz.
 
 688
 01:00:34,619 --> 01:00:39,839
-Ve biz onu gördük. Bizim çoktan bir tarihimiz var. Bizim bu Cami'de bir sicilimiz var, 10 yıllık...
+Ve biz onu gÃ¶rdÃ¼k. Bizim Ã§oktan bir tarihimiz var. Bizim bu Cami'de bir sicilimiz var, 10 yÄ±llÄ±k...
 
 689
 01:00:39,840 --> 01:00:47,900
-Sicil...Mükemmel bir sicil, bu hayatta, Tanrı tarafından garanti edilmiş...
+Sicil...MÃ¼kemmel bir sicil, bu hayatta, TanrÄ± tarafÄ±ndan garanti edilmiÅŸ...
 
 690
 01:00:49,400 --> 01:00:55,059
-Burada ve şurada bir çimdik alabilirsiniz, çünkü biz hatalar yaparız...
+Burada ve ÅŸurada bir Ã§imdik alabilirsiniz, Ã§Ã¼nkÃ¼ biz hatalar yaparÄ±z...
 
 691
 01:00:55,059 --> 01:01:00,900
-Testlerin sizin için kısa ama eğer yoldan çıkarsanız, bir çimdik alacağınızı bilirsiniz.
+Testlerin sizin iÃ§in kÄ±sa ama eÄŸer yoldan Ã§Ä±karsanÄ±z, bir Ã§imdik alacaÄŸÄ±nÄ±zÄ± bilirsiniz.
 
 692
 01:01:01,280 --> 01:01:05,540
-Ve çimdiği alırsınız ve dersiniz ki, "Sana şükürler olsun Tanrı..."
-ve yola geri dönersiniz.
+Ve Ã§imdiÄŸi alÄ±rsÄ±nÄ±z ve dersiniz ki, "Sana ÅŸÃ¼kÃ¼rler olsun TanrÄ±..."
+ve yola geri dÃ¶nersiniz.
 
 693
 01:01:06,239 --> 01:01:10,839
-Siz çok özel insanlarsınız.
+Siz Ã§ok Ã¶zel insanlarsÄ±nÄ±z.
 
 694
 01:01:10,840 --> 01:01:14,039
-Siz bir sürü tebriği hak ediyorsunuz.
+Siz bir sÃ¼rÃ¼ tebriÄŸi hak ediyorsunuz.
 
 695
 01:01:15,000 --> 01:01:20,880
-Tanrı, Sure 35'de meleklerin 2, 3 ve 4 kanatlarının olduğunu söylüyor.
+TanrÄ±, Sure 35'de meleklerin 2, 3 ve 4 kanatlarÄ±nÄ±n olduÄŸunu sÃ¶ylÃ¼yor.
 
 696
 01:01:21,059 --> 01:01:22,659
-2, 3 ve 4 çünkü...
+2, 3 ve 4 Ã§Ã¼nkÃ¼...
 
 697
 01:01:25,760 --> 01:01:28,820
-Tanrı'ya en yakın olan melekler en güçlü, derecede en yüksek olacaklardır.
+TanrÄ±'ya en yakÄ±n olan melekler en gÃ¼Ã§lÃ¼, derecede en yÃ¼ksek olacaklardÄ±r.
 
 698
 01:01:29,300 --> 01:01:34,639
-Onların daha çok kanatları olacaktır. Burada mecazen konuşuluyor.
+OnlarÄ±n daha Ã§ok kanatlarÄ± olacaktÄ±r. Burada mecazen konuÅŸuluyor.
 
 699
 01:01:34,639 --> 01:01:36,239
@@ -2809,171 +2809,171 @@ Ve bu "essebikunes sebikun"...
 
 700
 01:01:36,239 --> 01:01:40,239
-Bunlar çok ileride olan insanlar, sizin gibi. Siz oldukça...
+Bunlar Ã§ok ileride olan insanlar, sizin gibi. Siz oldukÃ§a...
 
 701
 01:01:40,239 --> 01:01:46,059
-Siz orada olacaksınız. Demek istiyorum ki, bunlar melekler ama onların yine de dereceleri var.
+Siz orada olacaksÄ±nÄ±z. Demek istiyorum ki, bunlar melekler ama onlarÄ±n yine de dereceleri var.
 
 702
 01:01:46,360 --> 01:01:51,500
-Ve şu andan 50 yıl sonra, binlerce insan bu bölgede olacak. İnşaAllah.
+Ve ÅŸu andan 50 yÄ±l sonra, binlerce insan bu bÃ¶lgede olacak. Ä°nÅŸaAllah.
 
 703
 01:01:51,679 --> 01:01:52,980
-Onlar, Yüksek Cennet'e gidecekler.
+Onlar, YÃ¼ksek Cennet'e gidecekler.
 
 704
 01:01:52,980 --> 01:01:56,820
-Çünkü yalnızca Tanrı'ya tapacaklar ve doğru şekilde namaz kılacaklar.
+Ã‡Ã¼nkÃ¼ yalnÄ±zca TanrÄ±'ya tapacaklar ve doÄŸru ÅŸekilde namaz kÄ±lacaklar.
 
 705
 01:01:56,820 --> 01:02:00,019
-Ve onlar Yüksek Cennet'e gidecekler ama onlar sizin derecelerinizi elde edemezler...
+Ve onlar YÃ¼ksek Cennet'e gidecekler ama onlar sizin derecelerinizi elde edemezler...
 
 706
 01:02:00,019 --> 01:02:03,039
-...çünkü tacize uğrayanlar sizlersiniz.
+...Ã§Ã¼nkÃ¼ tacize uÄŸrayanlar sizlersiniz.
 
 707
 01:02:03,039 --> 01:02:09,159
-Tacize uğrayan ve alaya alınan insanlar, onların Kitâb-ı Mukaddes'te ve Kuran'da çok özel bir yeri vardır.
+Tacize uÄŸrayan ve alaya alÄ±nan insanlar, onlarÄ±n KitÃ¢b-Ä± Mukaddes'te ve Kuran'da Ã§ok Ã¶zel bir yeri vardÄ±r.
 
 708
 01:02:09,159 --> 01:02:10,159
-Benim küçük bir şeyim vardı.
+Benim kÃ¼Ã§Ã¼k bir ÅŸeyim vardÄ±.
 
 709
 01:02:10,159 --> 01:02:15,639
-Onu bir süreliğine bana uzatmışlardı. (...) diyen: "Zulme uğratılmış olanlara tebrikler!
+Onu bir sÃ¼reliÄŸine bana uzatmÄ±ÅŸlardÄ±. (...) diyen: "Zulme uÄŸratÄ±lmÄ±ÅŸ olanlara tebrikler!
 
 710
 01:02:15,639 --> 01:02:21,739
-"Çünkü peygamberler de zulme uğratılmışlardır." O ayeti hatırladınız mı? Onu oraya astırdık.
+"Ã‡Ã¼nkÃ¼ peygamberler de zulme uÄŸratÄ±lmÄ±ÅŸlardÄ±r." O ayeti hatÄ±rladÄ±nÄ±z mÄ±? Onu oraya astÄ±rdÄ±k.
 
 711
 01:02:21,739 --> 01:02:26,939
-Ve Tanrı, Kitâb-ı Mukaddes'te size "Tebrikler!" diyor.
+Ve TanrÄ±, KitÃ¢b-Ä± Mukaddes'te size "Tebrikler!" diyor.
 
 712
 01:02:27,360 --> 01:02:32,500
-Yani biz çok ama çok şanslıyız. Ve ben, (bunu) vurguluyorum ve bunu vurgulamaya devam ediyorum.
+Yani biz Ã§ok ama Ã§ok ÅŸanslÄ±yÄ±z. Ve ben, (bunu) vurguluyorum ve bunu vurgulamaya devam ediyorum.
 
 713
 01:02:32,500 --> 01:02:36,239
-Onu yeterince vurgulayamayacağımdan ötürü...
+Onu yeterince vurgulayamayacaÄŸÄ±mdan Ã¶tÃ¼rÃ¼...
 
 714
 01:02:37,000 --> 01:02:42,320
-Sadece Tanrı'ya şükredelim, minnettar olabilelim, siz kim olduğunuzu bilesiniz diye.
+Sadece TanrÄ±'ya ÅŸÃ¼kredelim, minnettar olabilelim, siz kim olduÄŸunuzu bilesiniz diye.
 
 715
 01:02:42,659 --> 01:02:47,519
-Şeytan, zihninize her zaman şüpheler koyacaktır. Size her zaman sizin hiç kimse olmadığınızı söyleyecektir.
+Åeytan, zihninize her zaman ÅŸÃ¼pheler koyacaktÄ±r. Size her zaman sizin hiÃ§ kimse olmadÄ±ÄŸÄ±nÄ±zÄ± sÃ¶yleyecektir.
 
 716
 01:02:47,519 --> 01:02:49,980
-O, sizden ölesiye nefret ediyor.
+O, sizden Ã¶lesiye nefret ediyor.
 
 717
 01:02:51,400 --> 01:02:55,440
-Çünkü o, Cehennemde derinlerin derinine gidecek. Bunu duydun mu İman?
+Ã‡Ã¼nkÃ¼ o, Cehennemde derinlerin derinine gidecek. Bunu duydun mu Ä°man?
 
 718
 01:02:55,579 --> 01:02:59,340
-Ahiret'te Şeytan'ın (hali) hakkında soru soruyordun... O, cennette olmayacak, hayır.
+Ahiret'te Åeytan'Ä±n (hali) hakkÄ±nda soru soruyordun... O, cennette olmayacak, hayÄ±r.
 
 719
 01:02:59,340 --> 01:03:03,099
-O, yakınına bile gelmeyecek.
+O, yakÄ±nÄ±na bile gelmeyecek.
 
 720
 01:03:03,099 --> 01:03:07,799
-O ve onun bölükleri, ta derinde, Cehennemin en alt çukurunda olacaklar.
+O ve onun bÃ¶lÃ¼kleri, ta derinde, Cehennemin en alt Ã§ukurunda olacaklar.
 
 721
 01:03:09,039 --> 01:03:12,380
-Ve o, onları dövüyor ve onlar da onu dövüyor olacaklar.
+Ve o, onlarÄ± dÃ¶vÃ¼yor ve onlar da onu dÃ¶vÃ¼yor olacaklar.
 
 722
 01:03:12,380 --> 01:03:16,579
-Sonsuzluğunu bunu yaparak geçirecekler.
+SonsuzluÄŸunu bunu yaparak geÃ§irecekler.
 
 723
 01:03:16,920 --> 01:03:21,599
-Dolayısıyla o size hiç kimse olmadığınızı söylemeyi deneyecek, ama siz onunla atışacaksınız.
+DolayÄ±sÄ±yla o size hiÃ§ kimse olmadÄ±ÄŸÄ±nÄ±zÄ± sÃ¶ylemeyi deneyecek, ama siz onunla atÄ±ÅŸacaksÄ±nÄ±z.
 
 724
 01:03:21,599 --> 01:03:23,880
-Ona "Ben Tanrı'ya iman ediyorum.
+Ona "Ben TanrÄ±'ya iman ediyorum.
 
 725
 01:03:23,880 --> 01:03:27,579
-"Ve ben o grupta olduğuma iman ediyorum: 'Çoğunluğu, ilk nesillerden.' " deyin.
+"Ve ben o grupta olduÄŸuma iman ediyorum: 'Ã‡oÄŸunluÄŸu, ilk nesillerden.' " deyin.
 
 726
 01:03:27,639 --> 01:03:32,799
-Bu bir ilk nesil olduğundan ötürü...
+Bu bir ilk nesil olduÄŸundan Ã¶tÃ¼rÃ¼...
 
 727
 01:03:32,980 --> 01:03:35,650
-Yani ben, kendim ona inanamadım.
+Yani ben, kendim ona inanamadÄ±m.
 
 728
 01:03:35,650 --> 01:03:39,300
-Uzun bir zamanlığına dedim ki, "Burada yalnızca Tanrı'ya tapınan yalnızca biz olamayız!
+Uzun bir zamanlÄ±ÄŸÄ±na dedim ki, "Burada yalnÄ±zca TanrÄ±'ya tapÄ±nan yalnÄ±zca biz olamayÄ±z!
 
 729
 01:03:39,300 --> 01:03:41,460
-"Dünyada milyonlar olmalı!.."
+"DÃ¼nyada milyonlar olmalÄ±!.."
 
 730
 01:03:41,460 --> 01:03:46,460
-Ama ben, saf olduğumu keşfettim. İnsanoğlu gerçekten kötüdür.
+Ama ben, saf olduÄŸumu keÅŸfettim. Ä°nsanoÄŸlu gerÃ§ekten kÃ¶tÃ¼dÃ¼r.
 
 731
 01:03:47,079 --> 01:03:53,559
-Yeğenimle konuşuyordum, Mısır'daki Şerif ile... O diyor ki, "Mısır'daki tek kişi benim."
+YeÄŸenimle konuÅŸuyordum, MÄ±sÄ±r'daki Åerif ile... O diyor ki, "MÄ±sÄ±r'daki tek kiÅŸi benim."
 
 732
 01:03:53,679 --> 01:04:02,719
-O gerçekten de bir imanlı. İman eden insanlara söyleyebilirsiniz. Çünkü onlar ışıktalar, anlarlar.
+O gerÃ§ekten de bir imanlÄ±. Ä°man eden insanlara sÃ¶yleyebilirsiniz. Ã‡Ã¼nkÃ¼ onlar Ä±ÅŸÄ±ktalar, anlarlar.
 
 733
 01:04:02,719 --> 01:04:07,799
-Ve o, benim Mısır'da bildiğim gerçekten de imanlı olan tek kişi.
+Ve o, benim MÄ±sÄ±r'da bildiÄŸim gerÃ§ekten de imanlÄ± olan tek kiÅŸi.
 
 734
 01:04:07,960 --> 01:04:16,019
-İnşaAllah o, konferans için gelecek. Yalnızca 20 yaşında.
+Ä°nÅŸaAllah o, konferans iÃ§in gelecek. YalnÄ±zca 20 yaÅŸÄ±nda.
 
 735
 01:04:17,119 --> 01:04:21,500
-O, Beth'den iki hafta önce doğmuştu.
+O, Beth'den iki hafta Ã¶nce doÄŸmuÅŸtu.
 
 736
 01:04:21,500 --> 01:04:25,880
-Ve tüm Mısır'daki tek imanlı o.
+Ve tÃ¼m MÄ±sÄ±r'daki tek imanlÄ± o.
 
 737
 01:04:26,000 --> 01:04:31,059
-Demek istiyorum ki ben...Ben gerçekten saftım. "Mısır'da, yalnızca Tanrı'ya tapan milyonlar olmalı!" diyordum.
+Demek istiyorum ki ben...Ben gerÃ§ekten saftÄ±m. "MÄ±sÄ±r'da, yalnÄ±zca TanrÄ±'ya tapan milyonlar olmalÄ±!" diyordum.
 
 738
 01:04:31,059 --> 01:04:36,099
-Yok, yanlış. İşte bu yüzden çok güçlü bir şekilde konuşuyorum.
+Yok, yanlÄ±ÅŸ. Ä°ÅŸte bu yÃ¼zden Ã§ok gÃ¼Ã§lÃ¼ bir ÅŸekilde konuÅŸuyorum.
 
 739
 01:04:36,099 --> 01:04:39,900
-Size, çok özel olduğunuzu söylüyorum. Ve Şeytan size olmadığınızı söylerse...
+Size, Ã§ok Ã¶zel olduÄŸunuzu sÃ¶ylÃ¼yorum. Ve Åeytan size olmadÄ±ÄŸÄ±nÄ±zÄ± sÃ¶ylerse...
 
 740
 01:04:39,900 --> 01:04:45,400
-Siz de ona çenesini kapatmasını söyleyin. Siz, çok özelsiniz.
+Siz de ona Ã§enesini kapatmasÄ±nÄ± sÃ¶yleyin. Siz, Ã§ok Ã¶zelsiniz.
 
 741
 01:04:45,400 --> 01:04:50,159
-Bu, sizin hakkınızda konuşan ayettir.
+Bu, sizin hakkÄ±nÄ±zda konuÅŸan ayettir.
 
 742
 01:04:50,159 --> 01:04:51,379
@@ -2985,11 +2985,11 @@ M. Sabahi: Dr. Halife...
 
 744
 01:04:52,280 --> 01:04:53,019
-Reşad Halife: Evet.
+ReÅŸad Halife: Evet.
 
 745
 01:04:53,059 --> 01:04:55,059
-M. Sabahi: (Anlaşılmıyor).
+M. Sabahi: (AnlaÅŸÄ±lmÄ±yor).
 
 746
 01:04:55,360 --> 01:04:56,700
@@ -2997,27 +2997,27 @@ Rashad:  Ve bu sefer...
 
 747
 01:04:56,900 --> 01:04:58,400
-Ve bu sefer, tam olarak şu anda.
+Ve bu sefer, tam olarak ÅŸu anda.
 
 748
 01:04:58,800 --> 01:05:02,480
-Muhammed'in zamanına, İbrahim'in zamanına, şu andaysa bizim zamanımıza işaret ediyor.
+Muhammed'in zamanÄ±na, Ä°brahim'in zamanÄ±na, ÅŸu andaysa bizim zamanÄ±mÄ±za iÅŸaret ediyor.
 
 749
 01:05:02,679 --> 01:05:06,839
-Biz, şu anda bir ilk nesiliz.
+Biz, ÅŸu anda bir ilk nesiliz.
 
 750
 01:05:06,840 --> 01:05:11,760
-Çünkü biz Tanrı'nın mesajını yenileyen talihli bir nesiliz.
+Ã‡Ã¼nkÃ¼ biz TanrÄ±'nÄ±n mesajÄ±nÄ± yenileyen talihli bir nesiliz.
 
 751
 01:05:11,760 --> 01:05:16,180
-Onu restore eden, tüm çöpleri ve bidatleri eleyen.
+Onu restore eden, tÃ¼m Ã§Ã¶pleri ve bidatleri eleyen.
 
 752
 01:05:17,000 --> 01:05:23,320
-İran'a ziyaret için geri gittiğin zaman hangi kasabada olacaksın?
+Ä°ran'a ziyaret iÃ§in geri gittiÄŸin zaman hangi kasabada olacaksÄ±n?
 
 753
 01:05:23,320 --> 01:05:24,860
@@ -3025,23 +3025,23 @@ Tehran?..
 
 754
 01:05:25,659 --> 01:05:31,899
-Zannediyorum ki Tahran'da, namazı doğru şekilde kılan tek kişi sen olacaksın; sen ve Nedim.
+Zannediyorum ki Tahran'da, namazÄ± doÄŸru ÅŸekilde kÄ±lan tek kiÅŸi sen olacaksÄ±n; sen ve Nedim.
 
 755
 01:05:32,579 --> 01:05:38,119
-Yalnızca siz olacaksınız ve onlar, onlara, "Ben, Teşehhüd'de yalnızca Tanrı'nın adını anıyorum." dediğiniz zaman, size gülecekler.
+YalnÄ±zca siz olacaksÄ±nÄ±z ve onlar, onlara, "Ben, TeÅŸehhÃ¼d'de yalnÄ±zca TanrÄ±'nÄ±n adÄ±nÄ± anÄ±yorum." dediÄŸiniz zaman, size gÃ¼lecekler.
 
 756
 01:05:38,119 --> 01:05:43,000
-Diyecekler ki, "Yani sen Muhammed'i veya Ehlibeyti veya Ali'yi anmıyor musun?"
+Diyecekler ki, "Yani sen Muhammed'i veya Ehlibeyti veya Ali'yi anmÄ±yor musun?"
 
 757
 01:05:43,000 --> 01:05:46,099
-"Yok." diyeceksiniz. Ayıkladığımız şey işte budur.
+"Yok." diyeceksiniz. AyÄ±kladÄ±ÄŸÄ±mÄ±z ÅŸey iÅŸte budur.
 
 758
 01:05:46,460 --> 01:05:50,139
-(İbadetteki) tüm yaratıkları ayıkladık. Biz, sırf Yaratıcı'yı anarız.
+(Ä°badetteki) tÃ¼m yaratÄ±klarÄ± ayÄ±kladÄ±k. Biz, sÄ±rf YaratÄ±cÄ±'yÄ± anarÄ±z.
 
 759
 01:05:50,139 --> 01:05:53,879
@@ -3049,75 +3049,75 @@ Bu dini restore etmektir. Sizler, bir ilk nesilsiniz.
 
 760
 01:05:54,539 --> 01:05:56,079
-Bu sizi özel yapar mı, yapmaz mı?..
+Bu sizi Ã¶zel yapar mÄ±, yapmaz mÄ±?..
 
 761
 01:05:56,079 --> 01:05:59,380
-Tahran'da doğru şekilde namaz kılan tek kişi olduğunuz zaman...
+Tahran'da doÄŸru ÅŸekilde namaz kÄ±lan tek kiÅŸi olduÄŸunuz zaman...
 
 762
 01:05:59,539 --> 01:06:01,579
-Lisa Spray: En yüksek cennet ne kadar da güzel!..
+Lisa Spray: En yÃ¼ksek cennet ne kadar da gÃ¼zel!..
 
 763
 01:06:01,579 --> 01:06:06,659
-Biz, elbette ki tüm bunların alegorik betimlemeler olduğunu, Tanrı'nın alegoriler kullandığını biliyoruz.
+Biz, elbette ki tÃ¼m bunlarÄ±n alegorik betimlemeler olduÄŸunu, TanrÄ±'nÄ±n alegoriler kullandÄ±ÄŸÄ±nÄ± biliyoruz.
 
 764
 01:06:06,659 --> 01:06:12,259
-Bizim, şu anki halimizde anlamaya başlamamızın bile hiçbir yolu olmadığından ötürü...
+Bizim, ÅŸu anki halimizde anlamaya baÅŸlamamÄ±zÄ±n bile hiÃ§bir yolu olmadÄ±ÄŸÄ±ndan Ã¶tÃ¼rÃ¼...
 
 765
 01:06:12,260 --> 01:06:21,780
-...gerçekten (bizi) neyi beklediğini anlayabiliriz...Ama biz, en yüksek cennetin alegorisinden, hakikaten lütuf olduğunu...
+...gerÃ§ekten (bizi) neyi beklediÄŸini anlayabiliriz...Ama biz, en yÃ¼ksek cennetin alegorisinden, hakikaten lÃ¼tuf olduÄŸunu...
 
 766
 01:06:21,780 --> 01:06:24,920
-...ve onun şahane olduğunu, hayallerimizin ötesinde (olduğunu) biliyoruz.
+...ve onun ÅŸahane olduÄŸunu, hayallerimizin Ã¶tesinde (olduÄŸunu) biliyoruz.
 
 767
 01:06:24,920 --> 01:06:27,360
-Tanrı, arzuladığımız herhangi bir şeyin...
+TanrÄ±, arzuladÄ±ÄŸÄ±mÄ±z herhangi bir ÅŸeyin...
 
 768
 01:06:27,360 --> 01:06:29,659
-...en yüksek cennette olacağını söylüyor.
+...en yÃ¼ksek cennette olacaÄŸÄ±nÄ± sÃ¶ylÃ¼yor.
 
 769
 01:06:29,659 --> 01:06:31,659
-İnşaAllah, biz orada olacağız.
+Ä°nÅŸaAllah, biz orada olacaÄŸÄ±z.
 
 770
 01:06:31,900 --> 01:06:35,160
-Arzuladıkları herhangi bir şey ve hatta daha fazlası bile...
+ArzuladÄ±klarÄ± herhangi bir ÅŸey ve hatta daha fazlasÄ± bile...
 
 771
 01:06:35,619 --> 01:06:42,559
-Dolayısıyla Tanrı'nın lütfu, bizim kavrayabileceğimiz veya istek duyabileceğimiz her şeyden daha büyüktür.
+DolayÄ±sÄ±yla TanrÄ±'nÄ±n lÃ¼tfu, bizim kavrayabileceÄŸimiz veya istek duyabileceÄŸimiz her ÅŸeyden daha bÃ¼yÃ¼ktÃ¼r.
 
 772
 01:06:42,559 --> 01:06:44,739
-Veya arzulayabileceğimiz...
+Veya arzulayabileceÄŸimiz...
 
 773
 01:06:45,820 --> 01:06:50,900
-Ve sonrasında sağda olanlar... Alt Cennet'te olanlar...
+Ve sonrasÄ±nda saÄŸda olanlar... Alt Cennet'te olanlar...
 
 774
 01:06:50,900 --> 01:06:54,680
-Onlar için de ayrıca... İnanılmaz şekilde güzel...
+Onlar iÃ§in de ayrÄ±ca... Ä°nanÄ±lmaz ÅŸekilde gÃ¼zel...
 
 775
 01:06:55,019 --> 01:07:01,079
-"Ve o esenliktir. Esenlik sizedir, sağda olanlar."
+"Ve o esenliktir. Esenlik sizedir, saÄŸda olanlar."
 
 776
 01:07:01,079 --> 01:07:05,819
-Sağda olanların arasında olmak, inanılmaz, inanılmaz bir zafer.
+SaÄŸda olanlarÄ±n arasÄ±nda olmak, inanÄ±lmaz, inanÄ±lmaz bir zafer.
 
 777
 01:07:06,219 --> 01:07:09,899
-Ama eğer o, reddedicilerden, sapanlardan biriyse...
+Ama eÄŸer o, reddedicilerden, sapanlardan biriyse...
 
 778
 01:07:10,340 --> 01:07:14,600
@@ -3125,11 +3125,11 @@ Ama eğer o, reddedicilerden, sapanlardan biriyse...
 
 779
 01:07:16,519 --> 01:07:23,440
-Tekrardan, biz biliyoruz ki biz, Cehennemin berbatlığını gerçekten idrak edemeyiz.
+Tekrardan, biz biliyoruz ki biz, Cehennemin berbatlÄ±ÄŸÄ±nÄ± gerÃ§ekten idrak edemeyiz.
 
 780
 01:07:25,219 --> 01:07:31,599
-Bizim ufacık bir fikrimiz var çünkü kainattaki her şeyden (daha fazla) Tanrı'dan uzağız.
+Bizim ufacÄ±k bir fikrimiz var Ã§Ã¼nkÃ¼ kainattaki her ÅŸeyden (daha fazla) TanrÄ±'dan uzaÄŸÄ±z.
 
 781
 01:07:31,639 --> 01:07:32,519
@@ -3137,159 +3137,159 @@ Bu noktada...
 
 782
 01:07:32,920 --> 01:07:36,300
-Ve biz bu dünyanın ne kadar cehennemvari olduğunu ve ne kadar berbat (olduğunu) biliyoruz.
+Ve biz bu dÃ¼nyanÄ±n ne kadar cehennemvari olduÄŸunu ve ne kadar berbat (olduÄŸunu) biliyoruz.
 
 783
 01:07:36,340 --> 01:07:39,260
-Özellikle, Tanrı'nın Krallığı'ndan dışarı adım attığınız zaman...
+Ã–zellikle, TanrÄ±'nÄ±n KrallÄ±ÄŸÄ±'ndan dÄ±ÅŸarÄ± adÄ±m attÄ±ÄŸÄ±nÄ±z zaman...
 
 784
 01:07:39,260 --> 01:07:43,179
-Biz, Tanrı'nın Krallığı'nda olmakla inanılmaz derecede lütuflandırıldık, İnşaAllah.
+Biz, TanrÄ±'nÄ±n KrallÄ±ÄŸÄ±'nda olmakla inanÄ±lmaz derecede lÃ¼tuflandÄ±rÄ±ldÄ±k, Ä°nÅŸaAllah.
 
 785
 01:07:43,179 --> 01:07:48,819
-Ama siz dışarı çıkar çıkmaz, onun ne kadar inanılmaz bir cehennem olduğunu biliyorsunuz.
+Ama siz dÄ±ÅŸarÄ± Ã§Ä±kar Ã§Ä±kmaz, onun ne kadar inanÄ±lmaz bir cehennem olduÄŸunu biliyorsunuz.
 
 786
 01:07:48,820 --> 01:07:55,380
-Ve o, nihai Cehennemle kıyaslandığında, bir hiçtir.
+Ve o, nihai Cehennemle kÄ±yaslandÄ±ÄŸÄ±nda, bir hiÃ§tir.
 
 787
 01:07:56,179 --> 01:08:03,480
-"Bu, kaçınılmaz hakikattir. Büyük Olan Rabbinin adını yüceltmelisin."
+"Bu, kaÃ§Ä±nÄ±lmaz hakikattir. BÃ¼yÃ¼k Olan Rabbinin adÄ±nÄ± yÃ¼celtmelisin."
 
 788
 01:08:04,380 --> 01:08:05,380
-MaşaAllah.
+MaÅŸaAllah.
 
 789
 01:08:07,920 --> 01:08:12,780
-Bu son ayetler üzerine herhangi bir yorum veya soru var mı?
+Bu son ayetler Ã¼zerine herhangi bir yorum veya soru var mÄ±?
 
 790
 01:08:12,780 --> 01:08:17,319
-Reşad Halife: 88 ve 89 sizlere işaret ediyor.
+ReÅŸad Halife: 88 ve 89 sizlere iÅŸaret ediyor.
 
 791
 01:08:17,319 --> 01:08:19,059
-Siz özel insanlara...
+Siz Ã¶zel insanlara...
 
 792
 01:08:19,060 --> 01:08:21,739
-Ben bunu, Tanrı'ya şükrederek söylerken ve...
+Ben bunu, TanrÄ±'ya ÅŸÃ¼krederek sÃ¶ylerken ve...
 
 793
 01:08:21,739 --> 01:08:24,179
-...Tanrı diyor ki, "Tanrı'nın senin üzerindeki nimetlerini konuş."
+...TanrÄ± diyor ki, "TanrÄ±'nÄ±n senin Ã¼zerindeki nimetlerini konuÅŸ."
 
 794
 01:08:24,180 --> 01:08:29,439
-Siz oldukça ama oldukça nadir, talihli ve lütuflandırılmış bir insan grubusunuz.
+Siz oldukÃ§a ama oldukÃ§a nadir, talihli ve lÃ¼tuflandÄ±rÄ±lmÄ±ÅŸ bir insan grubusunuz.
 
 795
 01:08:29,439 --> 01:08:35,279
-Ve 90. (ayet), 40 yaşından önce ölmüş olan insanlara işaret etmektedir.
+Ve 90. (ayet), 40 yaÅŸÄ±ndan Ã¶nce Ã¶lmÃ¼ÅŸ olan insanlara iÅŸaret etmektedir.
 
 796
 01:08:38,000 --> 01:08:43,220
-Diyor ki, "Ve eğer o, sağda olanlara aitse...''
+Diyor ki, "Ve eÄŸer o, saÄŸda olanlara aitse...''
 
 797
 01:08:44,539 --> 01:08:47,720
-O insanlar çok mutlu olacaklardır.
+O insanlar Ã§ok mutlu olacaklardÄ±r.
 
 798
 01:08:48,619 --> 01:08:51,880
-Alt Cennet'e gideceklerinden ötürü...
+Alt Cennet'e gideceklerinden Ã¶tÃ¼rÃ¼...
 
 799
 01:08:51,880 --> 01:08:53,980
-Tanrı, onların hak ettiklerini biliyordu.
+TanrÄ±, onlarÄ±n hak ettiklerini biliyordu.
 
 800
 01:08:54,279 --> 01:08:58,019
-Onların Cehenneme gitmeyi hak etmediklerini, Alt Cennet'e gitmeyi hak ettiklerini (biliyordu).
+OnlarÄ±n Cehenneme gitmeyi hak etmediklerini, Alt Cennet'e gitmeyi hak ettiklerini (biliyordu).
 
 801
 01:08:58,020 --> 01:09:01,859
-Yalnızca O'nun bildiği koşullardan ötürü.
+YalnÄ±zca O'nun bildiÄŸi koÅŸullardan Ã¶tÃ¼rÃ¼.
 
 802
 01:09:01,859 --> 01:09:04,000
-O, işte bu yüzden onları ona aldı.
+O, iÅŸte bu yÃ¼zden onlarÄ± ona aldÄ±.
 
 803
 01:09:04,000 --> 01:09:07,920
-Onlar buraya bir fonksiyon göstermek için gelmiş çocuklardır.
+Onlar buraya bir fonksiyon gÃ¶stermek iÃ§in gelmiÅŸ Ã§ocuklardÄ±r.
 
 804
 01:09:07,920 --> 01:09:11,859
-Onlar, Tanrı'nın Alt Cennet'e gitmeyi hak ettiklerini bildiği iyi ruhlardırlar.
+Onlar, TanrÄ±'nÄ±n Alt Cennet'e gitmeyi hak ettiklerini bildiÄŸi iyi ruhlardÄ±rlar.
 
 805
 01:09:12,720 --> 01:09:15,760
-Onlar 39 yaşına kadar yaşadılar ve tam 40 yaşından önce...
+Onlar 39 yaÅŸÄ±na kadar yaÅŸadÄ±lar ve tam 40 yaÅŸÄ±ndan Ã¶nce...
 
 806
 01:09:15,760 --> 01:09:18,460
-Ve Tanrı, onları o zamanda alıyor.
+Ve TanrÄ±, onlarÄ± o zamanda alÄ±yor.
 
 807
 01:09:18,619 --> 01:09:25,500
-Çünkü onlar...Onlar, yaşamış olsaydılar, şartlarından ötürü (kalabalığa) karışmış olurlardı.
+Ã‡Ã¼nkÃ¼ onlar...Onlar, yaÅŸamÄ±ÅŸ olsaydÄ±lar, ÅŸartlarÄ±ndan Ã¶tÃ¼rÃ¼ (kalabalÄ±ÄŸa) karÄ±ÅŸmÄ±ÅŸ olurlardÄ±.
 
 808
 01:09:27,739 --> 01:09:35,399
-Ki beni, İnşaAllah bugünden iki hafta sonra hutbede konuşacağım bir konuya getiriyor.
+Ki beni, Ä°nÅŸaAllah bugÃ¼nden iki hafta sonra hutbede konuÅŸacaÄŸÄ±m bir konuya getiriyor.
 
 809
 01:09:35,819 --> 01:09:37,199
-İnşaAllah.
+Ä°nÅŸaAllah.
 
 810
 01:09:37,699 --> 01:09:40,079
-Orada çok kısaca... İbrahim...
+Orada Ã§ok kÄ±saca... Ä°brahim...
 
 811
 01:09:40,079 --> 01:09:46,840
-Tanrı diyor ki, "Biz, İbrahim'e anlayışını bahşettik çünkü biz onun tamamen farkındaydık."
+TanrÄ± diyor ki, "Biz, Ä°brahim'e anlayÄ±ÅŸÄ±nÄ± bahÅŸettik Ã§Ã¼nkÃ¼ biz onun tamamen farkÄ±ndaydÄ±k."
 
 812
 01:09:47,560 --> 01:09:52,539
-Bu ayet size, Tanrı'yı keşfetmeye onu iletenin İbrahim'in zekası olmadığını söylüyor.
+Bu ayet size, TanrÄ±'yÄ± keÅŸfetmeye onu iletenin Ä°brahim'in zekasÄ± olmadÄ±ÄŸÄ±nÄ± sÃ¶ylÃ¼yor.
 
 813
 01:09:52,739 --> 01:10:00,819
-Tanrı, ona anlayışı sağladı çünkü Tanrı, İbrahim'in Yüksek Cennet'e gitmeyi hak ettiğini biliyordu.
+TanrÄ±, ona anlayÄ±ÅŸÄ± saÄŸladÄ± Ã§Ã¼nkÃ¼ TanrÄ±, Ä°brahim'in YÃ¼ksek Cennet'e gitmeyi hak ettiÄŸini biliyordu.
 
 814
 01:10:01,199 --> 01:10:04,119
-Ve sizinle paylaşmak istediğim diğer ayetse...
+Ve sizinle paylaÅŸmak istediÄŸim diÄŸer ayetse...
 
 815
 01:10:04,119 --> 01:10:08,399
-...Yusuf'tur. Yusuf neredeyse, valinin karısı tarafından ayartılacağı zaman...
+...Yusuf'tur. Yusuf neredeyse, valinin karÄ±sÄ± tarafÄ±ndan ayartÄ±lacaÄŸÄ± zaman...
 
 816
 01:10:08,399 --> 01:10:12,639
-...ve ardından Tanrı, diyor ki, "Rabbinden gördüğü bir işaret olmasaydı..."
+...ve ardÄ±ndan TanrÄ±, diyor ki, "Rabbinden gÃ¶rdÃ¼ÄŸÃ¼ bir iÅŸaret olmasaydÄ±..."
 
 817
 01:10:12,640 --> 01:10:15,860
-Ardından da Tanrı diyor ki, "Biz, böylece günahı ondan çevirdik."
+ArdÄ±ndan da TanrÄ± diyor ki, "Biz, bÃ¶ylece gÃ¼nahÄ± ondan Ã§evirdik."
 
 818
 01:10:15,979 --> 01:10:19,519
-Yani, Yusuf çok mu harikaydı ki günaha düşmedi veya...
+Yani, Yusuf Ã§ok mu harikaydÄ± ki gÃ¼naha dÃ¼ÅŸmedi veya...
 
 819
 01:10:19,520 --> 01:10:22,000
-...onu günahtan koruyan Tanrı mıydı?..
+...onu gÃ¼nahtan koruyan TanrÄ± mÄ±ydÄ±?..
 
 820
 01:10:22,000 --> 01:10:23,819
-Onu günahtan koruyan, Tanrı'ydı.
+Onu gÃ¼nahtan koruyan, TanrÄ±'ydÄ±.
 
 821
 01:10:23,920 --> 01:10:25,180
@@ -3301,43 +3301,43 @@ Bu arada ayet, devam ediyor ve diyor ki...
 
 823
 01:10:26,979 --> 01:10:30,379
-Ki o, bizim adanmış kullarımızdan bir tanesiydi.
+Ki o, bizim adanmÄ±ÅŸ kullarÄ±mÄ±zdan bir tanesiydi.
 
 824
 01:10:30,380 --> 01:10:33,680
-O, Tanrı'nın adanmış kullarından biri olduğu için...
+O, TanrÄ±'nÄ±n adanmÄ±ÅŸ kullarÄ±ndan biri olduÄŸu iÃ§in...
 
 825
 01:10:33,960 --> 01:10:37,420
-Tanrı onu çevirdi, onu günahtan korudu.
+TanrÄ± onu Ã§evirdi, onu gÃ¼nahtan korudu.
 
 826
 01:10:37,560 --> 01:10:39,960
-Dolayısıyla, benim söylediğim şudur...
+DolayÄ±sÄ±yla, benim sÃ¶ylediÄŸim ÅŸudur...
 
 827
 01:10:40,399 --> 01:10:41,000
-...dığımızda...
+...dÄ±ÄŸÄ±mÄ±zda...
 
 828
 01:10:41,560 --> 01:10:42,320
-...dığımızda...
+...dÄ±ÄŸÄ±mÄ±zda...
 
 829
 01:10:42,359 --> 01:10:46,420
-Biz,  milyarlarca yıl önce Şeytan'la aynı fikirde olduğumuz zaman...
+Biz,  milyarlarca yÄ±l Ã¶nce Åeytan'la aynÄ± fikirde olduÄŸumuz zaman...
 
 830
 01:10:46,840 --> 01:10:49,760
-...aramızdan bazıları kalabalığa karışmıştı.
+...aramÄ±zdan bazÄ±larÄ± kalabalÄ±ÄŸa karÄ±ÅŸmÄ±ÅŸtÄ±.
 
 831
 01:10:50,140 --> 01:10:52,159
-Ve Tanrı, bunu biliyordu.
+Ve TanrÄ±, bunu biliyordu.
 
 832
 01:10:52,159 --> 01:10:54,659
-Tanrı'nın meleklere (şöyle) dediği zaman, demek istediği şey buydu.
+TanrÄ±'nÄ±n meleklere (ÅŸÃ¶yle) dediÄŸi zaman, demek istediÄŸi ÅŸey buydu.
 
 833
 01:10:54,739 --> 01:10:57,079
@@ -3345,11 +3345,11 @@ Melekler dediler ki, "Hepsini cehenneme koy!"
 
 834
 01:10:57,079 --> 01:10:59,479
-Ve Tanrı da dedi ki: "Ben, sizin bilmediğinizi biliyorum."
+Ve TanrÄ± da dedi ki: "Ben, sizin bilmediÄŸinizi biliyorum."
 
 835
 01:10:59,479 --> 01:11:04,000
-Yani Tanrı, sizin kalabalığa karışmış olduğunuzu biliyor. Bazılarımız kalabalığa karışmıştı...
+Yani TanrÄ±, sizin kalabalÄ±ÄŸa karÄ±ÅŸmÄ±ÅŸ olduÄŸunuzu biliyor. BazÄ±larÄ±mÄ±z kalabalÄ±ÄŸa karÄ±ÅŸmÄ±ÅŸtÄ±...
 
 836
 01:11:04,060 --> 01:11:07,039
@@ -3357,192 +3357,192 @@ Yani Tanrı, sizin kalabalığa karışmış olduğunuzu biliyor. Bazılarımız kalabalığa
 
 837
 01:11:07,979 --> 01:11:19,479
-İşte bu yüzden Tanrı, İbrahim'e anlayışını bahşetti. Tanrı, size yalnızca O'na tapmanın ve yalnızca O'nun kelamına sarılmanın hakiki mesajına rast gelme şansını bahşetti.
+Ä°ÅŸte bu yÃ¼zden TanrÄ±, Ä°brahim'e anlayÄ±ÅŸÄ±nÄ± bahÅŸetti. TanrÄ±, size yalnÄ±zca O'na tapmanÄ±n ve yalnÄ±zca O'nun kelamÄ±na sarÄ±lmanÄ±n hakiki mesajÄ±na rast gelme ÅŸansÄ±nÄ± bahÅŸetti.
 
 838
 01:11:19,920 --> 01:11:23,859
-Siz parlak zekalı veya ben zeki olduğumdan ötürü değil.
+Siz parlak zekalÄ± veya ben zeki olduÄŸumdan Ã¶tÃ¼rÃ¼ deÄŸil.
 
 839
 01:11:23,979 --> 01:11:33,899
-Çünkü görünüşe bakılırsa, görüşüne bakılırsa değil. Apaçık ki Tanrı, aramızdan bazılarının kalabalığa karışmış olduğunu ve bir şekilde Şeytan'la aynı fikirde olduğumuzu...
+Ã‡Ã¼nkÃ¼ gÃ¶rÃ¼nÃ¼ÅŸe bakÄ±lÄ±rsa, gÃ¶rÃ¼ÅŸÃ¼ne bakÄ±lÄ±rsa deÄŸil. ApaÃ§Ä±k ki TanrÄ±, aramÄ±zdan bazÄ±larÄ±nÄ±n kalabalÄ±ÄŸa karÄ±ÅŸmÄ±ÅŸ olduÄŸunu ve bir ÅŸekilde Åeytan'la aynÄ± fikirde olduÄŸumuzu...
 
 840
 01:11:34,159 --> 01:11:38,920
-...ve biz buraya günahtan kurtarılmak için gelme şansını hak ediyor (olduğumuzu) biliyordu.
+...ve biz buraya gÃ¼nahtan kurtarÄ±lmak iÃ§in gelme ÅŸansÄ±nÄ± hak ediyor (olduÄŸumuzu) biliyordu.
 
 841
 01:11:40,479 --> 01:11:44,459
-Dolayısıyla Martin Luther King gibi alınmış olan insanlar...
+DolayÄ±sÄ±yla Martin Luther King gibi alÄ±nmÄ±ÅŸ olan insanlar...
 
 842
 01:11:44,659 --> 01:11:48,039
-40'ncı doğum gününden birkaç ay önce alındı...
+40'ncÄ± doÄŸum gÃ¼nÃ¼nden birkaÃ§ ay Ã¶nce alÄ±ndÄ±...
 
 843
 01:11:48,039 --> 01:11:53,060
-Malcom X, doğum gününden iki ay önce alındı. 40'ncı (yaş) doğum gününden...
+Malcom X, doÄŸum gÃ¼nÃ¼nden iki ay Ã¶nce alÄ±ndÄ±. 40'ncÄ± (yaÅŸ) doÄŸum gÃ¼nÃ¼nden...
 
 844
 01:11:53,060 --> 01:11:56,380
-Ve gördüğümüz tüm o diğer işaretler...
+Ve gÃ¶rdÃ¼ÄŸÃ¼mÃ¼z tÃ¼m o diÄŸer iÅŸaretler...
 
 845
 01:11:56,479 --> 01:12:00,159
-Aslına bakarsanız, eğer kitabı tuttuğunuz Ayet 41'e bakarsınız...
+AslÄ±na bakarsanÄ±z, eÄŸer kitabÄ± tuttuÄŸunuz Ayet 41'e bakarsÄ±nÄ±z...
 
 846
 01:12:00,159 --> 01:12:01,340
-41'e bakınız...
+41'e bakÄ±nÄ±z...
 
 847
 01:12:01,899 --> 01:12:03,619
-O, cehennemin başlangıcıdır.
+O, cehennemin baÅŸlangÄ±cÄ±dÄ±r.
 
 848
 01:12:04,460 --> 01:12:09,359
-Seçimi yapmamış olanlar için... Bir önceki sureye bakın, Ayet 41...
+SeÃ§imi yapmamÄ±ÅŸ olanlar iÃ§in... Bir Ã¶nceki sureye bakÄ±n, Ayet 41...
 
 849
 01:12:10,479 --> 01:12:13,139
-Şimdilik, oh...Biz, buradaki bu mucizeden biliyoruz...
+Åimdilik, oh...Biz, buradaki bu mucizeden biliyoruz...
 
 850
 01:12:13,500 --> 01:12:17,199
-...ki, bu numaralar dizayn--ilahi olarak dizayn edilmiştir.
+...ki, bu numaralar dizayn--ilahi olarak dizayn edilmiÅŸtir.
 
 851
 01:12:17,199 --> 01:12:21,000
-Bir maksat için...Ve biz tüm bu matematiksel kanıtlara sahibiz.
+Bir maksat iÃ§in...Ve biz tÃ¼m bu matematiksel kanÄ±tlara sahibiz.
 
 852
 01:12:21,000 --> 01:12:28,189
-41 yaşına geldiğiniz zaman, yalnızca Tanrı'ya tapıyor olsanız iyi ederseniz.
+41 yaÅŸÄ±na geldiÄŸiniz zaman, yalnÄ±zca TanrÄ±'ya tapÄ±yor olsanÄ±z iyi ederseniz.
 
 853
 01:12:28,720 --> 01:12:32,000
 Bir saniye...
-Ne dediğimi unutmak istemiyorum.
+Ne dediÄŸimi unutmak istemiyorum.
 
 854
 01:12:32,619 --> 01:12:38,140
-Dolayısıyla eğer Tanrı, Martin Luther King'in 40 yaşından ötesine yaşamasına izin verseydi...
+DolayÄ±sÄ±yla eÄŸer TanrÄ±, Martin Luther King'in 40 yaÅŸÄ±ndan Ã¶tesine yaÅŸamasÄ±na izin verseydi...
 
 855
 01:12:38,300 --> 01:12:41,460
-...o araya karışmış olurdu. Beni hutbeme yönlendiren kelime bu.. (?)
+...o araya karÄ±ÅŸmÄ±ÅŸ olurdu. Beni hutbeme yÃ¶nlendiren kelime bu.. (?)
 
 856
 01:12:41,640 --> 01:12:42,920
-Şu andan iki hafta sonraki (hutbeme)...
+Åu andan iki hafta sonraki (hutbeme)...
 
 857
 01:12:42,920 --> 01:12:45,939
-O, çevresi ve şartları tarafından araya karıştırılmış olurdu.
+O, Ã§evresi ve ÅŸartlarÄ± tarafÄ±ndan araya karÄ±ÅŸtÄ±rÄ±lmÄ±ÅŸ olurdu.
 
 858
 01:12:45,939 --> 01:12:49,101
-Belki İsa'yı anmaya ve onun gibi şeylere, iyi geçinmek için...
+Belki Ä°sa'yÄ± anmaya ve onun gibi ÅŸeylere, iyi geÃ§inmek iÃ§in...
 
 859
 01:12:49,101 --> 01:12:52,180
-O, kilisede bir papazdı. Kilise zannediyorum...
+O, kilisede bir papazdÄ±. Kilise zannediyorum...
 
 860
 01:12:52,319 --> 01:12:57,119
-Ama o kalbinde ve hatta sesli olarak bile, o asla İsa hakkında hiçbir şey demedi.
+Ama o kalbinde ve hatta sesli olarak bile, o asla Ä°sa hakkÄ±nda hiÃ§bir ÅŸey demedi.
 
 861
 01:12:57,119 --> 01:12:58,640
-Benim duymuş olduğum (hiçbir şey)...
+Benim duymuÅŸ olduÄŸum (hiÃ§bir ÅŸey)...
 
 862
 01:12:58,640 --> 01:13:02,480
-O, muazzam büyüklükteki kayıtlarında o hep Tanrı hakkında konuştu.
+O, muazzam bÃ¼yÃ¼klÃ¼kteki kayÄ±tlarÄ±nda o hep TanrÄ± hakkÄ±nda konuÅŸtu.
 
 863
 01:13:02,939 --> 01:13:08,719
-Yani işte bu yüzden Tanrı, onu korumak için o zamanda almayı seçti.
+Yani iÅŸte bu yÃ¼zden TanrÄ±, onu korumak iÃ§in o zamanda almayÄ± seÃ§ti.
 
 864
 01:13:08,840 --> 01:13:18,280
-Bu rakamdan, 41'den, ileri gitmekten ve çevresi ve şartları tarafından Hristiyanlık'a girip araya karışmaktan...
+Bu rakamdan, 41'den, ileri gitmekten ve Ã§evresi ve ÅŸartlarÄ± tarafÄ±ndan HristiyanlÄ±k'a girip araya karÄ±ÅŸmaktan...
 
 865
 01:13:18,500 --> 01:13:21,760
-Yani o, bizim burada, Ayet 90'da gördüğümüz gibi olacaktır.
+Yani o, bizim burada, Ayet 90'da gÃ¶rdÃ¼ÄŸÃ¼mÃ¼z gibi olacaktÄ±r.
 
 866
 01:13:22,100 --> 01:13:26,900
-"Eğer o, sağda olanlara aitse, o zaman size esenlik olsun." Sağda olanlar için...
+"EÄŸer o, saÄŸda olanlara aitse, o zaman size esenlik olsun." SaÄŸda olanlar iÃ§in...
 
 867
 01:13:26,979 --> 01:13:32,819
-Tanrı'nın adaletinin bu insanları tam olarak doğru konuma koyduğundan emin olabilirsiniz.
+TanrÄ±'nÄ±n adaletinin bu insanlarÄ± tam olarak doÄŸru konuma koyduÄŸundan emin olabilirsiniz.
 
 868
 01:13:32,819 --> 01:13:36,579
-O, Alt Cennet'e olmayı hak ediyor.
+O, Alt Cennet'e olmayÄ± hak ediyor.
 
 869
 01:13:36,579 --> 01:13:40,000
-Şeytan, o küfrü işlediği zaman, milyarlarca yıl önce...
+Åeytan, o kÃ¼frÃ¼ iÅŸlediÄŸi zaman, milyarlarca yÄ±l Ã¶nce...
 
 870
 01:13:40,000 --> 01:13:43,739
-Aramızda ikna olma dereceleri vardı.
+AramÄ±zda ikna olma dereceleri vardÄ±.
 
 871
 01:13:43,739 --> 01:13:47,359
-Cinlerden, Şeytan ile tamamen mutabık olan...
+Cinlerden, Åeytan ile tamamen mutabÄ±k olan...
 
 872
 01:13:47,560 --> 01:13:51,479
-...kararsız olan insanların çoğunluğu.... Onlar yapmadılar...
+...kararsÄ±z olan insanlarÄ±n Ã§oÄŸunluÄŸu.... Onlar yapmadÄ±lar...
 
 873
 01:13:51,479 --> 01:13:56,479
-Kalabalığa karışmış olanlara (giden) ve umuyoruz ki, bu biziz.
+KalabalÄ±ÄŸa karÄ±ÅŸmÄ±ÅŸ olanlara (giden) ve umuyoruz ki, bu biziz.
 
 874
 01:13:57,920 --> 01:14:00,520
-Yani şimdi...Kathy'nin bir sorusu var.
+Yani ÅŸimdi...Kathy'nin bir sorusu var.
 
 875
 01:14:00,520 --> 01:14:05,880
-Kathy: Ayette....(?) seninle onun hakkında konuşmuştu önceden...
+Kathy: Ayette....(?) seninle onun hakkÄ±nda konuÅŸmuÅŸtu Ã¶nceden...
 
 876
 01:14:06,060 --> 01:14:09,699
-Reşad Halife: Sen, oldukça özel bir insan grubu hakkında konuşuyorsun.
+ReÅŸad Halife: Sen, oldukÃ§a Ã¶zel bir insan grubu hakkÄ±nda konuÅŸuyorsun.
 
 877
 01:14:09,699 --> 01:14:13,779
-...Tanrı'ya, Yargı Günü'nde en yakın olacak olan... Onlar, çok özel insanlar.
+...TanrÄ±'ya, YargÄ± GÃ¼nÃ¼'nde en yakÄ±n olacak olan... Onlar, Ã§ok Ã¶zel insanlar.
 
 878
 01:14:13,899 --> 01:14:19,380
-Ve bu şunun gibi olacak: Muhammed Peygamber, vaaz etmeye başladığı zaman...
+Ve bu ÅŸunun gibi olacak: Muhammed Peygamber, vaaz etmeye baÅŸladÄ±ÄŸÄ± zaman...
 
 879
 01:14:19,380 --> 01:14:23,779
-Haydi gelin İbrahim'e bakalım: İbrahim, İslam'ı başlattı...
+Haydi gelin Ä°brahim'e bakalÄ±m: Ä°brahim, Ä°slam'Ä± baÅŸlattÄ±...
 
 880
 01:14:24,579 --> 01:14:29,869
-...ve ardından da diğerleri onu ateşe atarken onunla birlikte olan insanlar vardı.
+...ve ardÄ±ndan da diÄŸerleri onu ateÅŸe atarken onunla birlikte olan insanlar vardÄ±.
 
 881
 01:14:29,869 --> 01:14:34,099
-Ve Muhammed Peygamber'in zamanı geldiğinde, onlar puta tapanlar oldular.
+Ve Muhammed Peygamber'in zamanÄ± geldiÄŸinde, onlar puta tapanlar oldular.
 
 882
 01:14:34,100 --> 01:14:38,200
-Ardından da mesaj,  Kuran'ın Muhammed yoluyla vahyedilmesiyle yenilendi.
+ArdÄ±ndan da mesaj,  Kuran'Ä±n Muhammed yoluyla vahyedilmesiyle yenilendi.
 
 883
 01:14:38,500 --> 01:14:43,739
-Ve o, gizlice vaaz ediyordu ve onunla beraber olan insanlar vardı. Bunlar çok özel insanlardırlar.
+Ve o, gizlice vaaz ediyordu ve onunla beraber olan insanlar vardÄ±. Bunlar Ã§ok Ã¶zel insanlardÄ±rlar.
 
 884
 01:14:43,739 --> 01:14:45,579
@@ -3550,144 +3550,144 @@ Bu, ilk nesildir.
 
 885
 01:14:45,579 --> 01:14:47,079
-Ve ardından da Muhammed muzaffer oldu.
+Ve ardÄ±ndan da Muhammed muzaffer oldu.
 
 886
 01:14:47,079 --> 01:14:50,460
-Ve o, Mekkeyi açtı ve Mekke'deki tüm
-insanlar, imanlılar oldular.
+Ve o, Mekkeyi aÃ§tÄ± ve Mekke'deki tÃ¼m
+insanlar, imanlÄ±lar oldular.
 
 887
 01:14:50,500 --> 01:14:51,899
-Vagona atladılar...
+Vagona atladÄ±lar...
 
 888
 01:14:51,899 --> 01:14:55,909
-Ama onlar, onunla birlikte olan insanlarla aynı krediyi hak etmediler.
+Ama onlar, onunla birlikte olan insanlarla aynÄ± krediyi hak etmediler.
 
 889
 01:14:55,909 --> 01:14:59,639
-O, zulme uğratıldığında ve kendisine taşlar atılıyorken ve...
+O, zulme uÄŸratÄ±ldÄ±ÄŸÄ±nda ve kendisine taÅŸlar atÄ±lÄ±yorken ve...
 
 890
 01:14:59,640 --> 01:15:05,260
-...ona küfredildiğinde ve (ona) lakaplar takıldığında ve zulme uğradığında (onunla birlikte olanlar)...
+...ona kÃ¼fredildiÄŸinde ve (ona) lakaplar takÄ±ldÄ±ÄŸÄ±nda ve zulme uÄŸradÄ±ÄŸÄ±nda (onunla birlikte olanlar)...
 
 891
 01:15:05,579 --> 01:15:07,300
-Bu mantıklı geliyor mu?..
+Bu mantÄ±klÄ± geliyor mu?..
 
 892
 01:15:07,640 --> 01:15:09,921
-Dolayısıyla bu bir ilk nesildi.
+DolayÄ±sÄ±yla bu bir ilk nesildi.
 
 893
 01:15:09,921 --> 01:15:12,399
-İbrahim'in zamanında, Muhammed'in zamanında (ilk nesildi).
+Ä°brahim'in zamanÄ±nda, Muhammed'in zamanÄ±nda (ilk nesildi).
 
 894
 01:15:12,399 --> 01:15:14,739
-Ve ardından da, on yıl önce...
+Ve ardÄ±ndan da, on yÄ±l Ã¶nce...
 
 895
 01:15:14,739 --> 01:15:16,699
-...İslam tamamen yozlaşmıştı.
+...Ä°slam tamamen yozlaÅŸmÄ±ÅŸtÄ±.
 
 896
 01:15:16,699 --> 01:15:25,839
-Dünyada, 'Cami'de ve ibadet pratiklerinde vesairede sadece Tanrı'nın ismini anma buyruğunu' tutan tek bir Cami yoktu.
+DÃ¼nyada, 'Cami'de ve ibadet pratiklerinde vesairede sadece TanrÄ±'nÄ±n ismini anma buyruÄŸunu' tutan tek bir Cami yoktu.
 
 897
 01:15:25,840 --> 01:15:29,840
-Ve ardından da Tanrı, mesajı bu Mucize ile yeniledi.
+Ve ardÄ±ndan da TanrÄ±, mesajÄ± bu Mucize ile yeniledi.
 
 898
 01:15:29,840 --> 01:15:36,239
-Dolayısıyla biz şimdi, bir ilk nesiliz. Ve bu harekette yer alan insanlar...
+DolayÄ±sÄ±yla biz ÅŸimdi, bir ilk nesiliz. Ve bu harekette yer alan insanlar...
 
 899
 01:15:36,260 --> 01:15:40,399
-...zulme uğratılırken ve lakaplar ve hakaretler vesaire...
+...zulme uÄŸratÄ±lÄ±rken ve lakaplar ve hakaretler vesaire...
 
 900
 01:15:40,399 --> 01:15:42,059
-...(bu insanlar) çok özel insanlardırlar.
+...(bu insanlar) Ã§ok Ã¶zel insanlardÄ±rlar.
 
 901
 01:15:42,060 --> 01:15:44,600
-Şimdi, şu andan 10 yıl sonra, biz muhtemelen milyonlara sahip olacağız.
+Åimdi, ÅŸu andan 10 yÄ±l sonra, biz muhtemelen milyonlara sahip olacaÄŸÄ±z.
 
 902
 01:15:44,600 --> 01:15:46,279
-Belki şu andan 20, 50 yıl sonra...
+Belki ÅŸu andan 20, 50 yÄ±l sonra...
 
 903
 01:15:46,279 --> 01:15:50,739
-Ve herkes vagona atlayacaktır ama onlar sizin (hak ettiğinizle) aynı miktarda krediyi hak etmiyorlar.
+Ve herkes vagona atlayacaktÄ±r ama onlar sizin (hak ettiÄŸinizle) aynÄ± miktarda krediyi hak etmiyorlar.
 
 904
 01:15:50,920 --> 01:15:55,880
-Dolayısıyla bu çok özel insanların çoğunluğu, bu nesilden olacaktır.
+DolayÄ±sÄ±yla bu Ã§ok Ã¶zel insanlarÄ±n Ã§oÄŸunluÄŸu, bu nesilden olacaktÄ±r.
 
 905
 01:15:55,880 --> 01:16:00,279
-Ondan sonra, ünlü ve başarılı ve yapılacak şey olduğu zaman...
+Ondan sonra, Ã¼nlÃ¼ ve baÅŸarÄ±lÄ± ve yapÄ±lacak ÅŸey olduÄŸu zaman...
 
 906
 01:16:00,479 --> 01:16:04,879
-Onlar aynı krediyi hak etmezler. Aynı derecede olmayacaklardır.
+Onlar aynÄ± krediyi hak etmezler. AynÄ± derecede olmayacaklardÄ±r.
 
 907
 01:16:05,880 --> 01:16:10,579
-Bizim, geçen hafta sen yokken yaptığımız işte buydu.
+Bizim, geÃ§en hafta sen yokken yaptÄ±ÄŸÄ±mÄ±z iÅŸte buydu.
 
 908
 01:16:11,140 --> 01:16:15,240
-Onun gerçekten 40 yaşında olup olmadığını bile bilmiyoruz. O zamanlar doğum belgeleri yoktu...
+Onun gerÃ§ekten 40 yaÅŸÄ±nda olup olmadÄ±ÄŸÄ±nÄ± bile bilmiyoruz. O zamanlar doÄŸum belgeleri yoktu...
 
 909
 01:16:15,319 --> 01:16:21,039
-Onlar peygamberin, Kuran'ı aldığı zaman veya (ona Kuran) verildiği zaman 40 yaşında olduğunu tahmin ediyorlar.
+Onlar peygamberin, Kuran'Ä± aldÄ±ÄŸÄ± zaman veya (ona Kuran) verildiÄŸi zaman 40 yaÅŸÄ±nda olduÄŸunu tahmin ediyorlar.
 
 910
 01:16:21,039 --> 01:16:23,180
-Bununla hiçbir alakası yoktu.
+Bununla hiÃ§bir alakasÄ± yoktu.
 
 911
 01:16:23,220 --> 01:16:29,880
-Kuran'da Sure 46, Ayet 50'de der ki... Dediği budur..
+Kuran'da Sure 46, Ayet 15'de der ki... DediÄŸi budur..
 
 912
 01:16:29,880 --> 01:16:33,039
-Ona temellendirilmiştir. Başka herhangi bir soru?..
+Ona temellendirilmiÅŸtir. BaÅŸka herhangi bir soru?..
 
 913
 01:16:33,760 --> 01:16:38,780
-''O, siz nerede olursanız olun sizinle birliktedir. Tanrı, yaptığınız her şeyi Görendir.''
+''O, siz nerede olursanÄ±z olun sizinle birliktedir. TanrÄ±, yaptÄ±ÄŸÄ±nÄ±z her ÅŸeyi GÃ¶rendir.''
 
 914
 01:16:39,640 --> 01:16:45,539
-''O, kainatı hakiki olarak mutlak bir şekilde kontrol eder.''
+''O, kainatÄ± hakiki olarak mutlak bir ÅŸekilde kontrol eder.''
 
 915
 01:16:47,640 --> 01:16:54,160
-Bu ayet, çok ama çok berrak bir şekilde ve çok ama çok güzel bir şekilde onu ifade eder.
+Bu ayet, Ã§ok ama Ã§ok berrak bir ÅŸekilde ve Ã§ok ama Ã§ok gÃ¼zel bir ÅŸekilde onu ifade eder.
 
 916
 01:16:54,560 --> 01:16:58,420
-Ayet 5, "Göklerin ve yerin hükümdarlığı O'na aittir."
+Ayet 5, "GÃ¶klerin ve yerin hÃ¼kÃ¼mdarlÄ±ÄŸÄ± O'na aittir."
 
 917
 01:16:58,420 --> 01:17:02,480
-"Tanrı, her şeyde tamamen kontrol halindedir."
+"TanrÄ±, her ÅŸeyde tamamen kontrol halindedir."
 
 918
 01:17:02,720 --> 01:17:09,939
-Bu ayetler tekrar ve tekrar...Kesinlikle. ...bizim söylediğimizi söylüyorlar, yani her şeyi Tanrı yapar.
+Bu ayetler tekrar ve tekrar...Kesinlikle. ...bizim sÃ¶ylediÄŸimizi sÃ¶ylÃ¼yorlar, yani her ÅŸeyi TanrÄ± yapar.
 
 919
 01:17:10,399 --> 01:17:13,819
-Ve yine de onu kabul etmek bizim için çok zor.
+Ve yine de onu kabul etmek bizim iÃ§in Ã§ok zor.
 
 920
 01:17:13,819 --> 01:17:16,380
@@ -3695,92 +3695,92 @@ Demek istiyorum ki onu duyabilirsiniz ve diyebilirsiniz ki, "Evet."
 
 921
 01:17:16,539 --> 01:17:20,819
-Ama sonrasında, bilirsiniz... Dikkatiniz dağılır.
+Ama sonrasÄ±nda, bilirsiniz... Dikkatiniz daÄŸÄ±lÄ±r.
 
 922
 01:17:22,720 --> 01:17:26,460
-"Oh, eğer vitaminlerimi almazsam, hasta olacağım."
+"Oh, eÄŸer vitaminlerimi almazsam, hasta olacaÄŸÄ±m."
 
 923
 01:17:26,460 --> 01:17:30,260
-Siz, hasta olmayı hak edene kadar
-hasta olmayacaksınız.
+Siz, hasta olmayÄ± hak edene kadar
+hasta olmayacaksÄ±nÄ±z.
 
 924
 01:17:30,779 --> 01:17:34,099
-Bu, vitaminlerinizi almamalısınız demek değildir. Çünkü Tanrı...
+Bu, vitaminlerinizi almamalÄ±sÄ±nÄ±z demek deÄŸildir. Ã‡Ã¼nkÃ¼ TanrÄ±...
 
 925
 01:17:34,300 --> 01:17:37,720
-Bilirsiniz...Tanrı, bize vitaminleri verdi. O, bize ilacı verdi. O verdi...
+Bilirsiniz...TanrÄ±, bize vitaminleri verdi. O, bize ilacÄ± verdi. O verdi...
 
 926
 01:17:37,720 --> 01:17:43,799
-Ama  bizim, her şeyi yöneten, yapan Kişi'nin Tanrı olduğunu hatırlamamız gerekmektedir.
+Ama  bizim, her ÅŸeyi yÃ¶neten, yapan KiÅŸi'nin TanrÄ± olduÄŸunu hatÄ±rlamamÄ±z gerekmektedir.
 
 927
 01:17:43,800 --> 01:17:47,020
-Patronlarımızı Tanrı kontrol eder. Komşularımızı Tanrı kontrol eder.
+PatronlarÄ±mÄ±zÄ± TanrÄ± kontrol eder. KomÅŸularÄ±mÄ±zÄ± TanrÄ± kontrol eder.
 
 928
 01:17:47,020 --> 01:17:49,079
-Eşlerimizi Tanrı kontrol eder.
+EÅŸlerimizi TanrÄ± kontrol eder.
 
 929
 01:17:49,079 --> 01:17:52,350
-O, yalnızca fiziksel şeyleri kontrol etmez. O, duyguları da kontrol eder.
+O, yalnÄ±zca fiziksel ÅŸeyleri kontrol etmez. O, duygularÄ± da kontrol eder.
 
 930
 01:17:52,350 --> 01:17:56,760
-Etrafımızdakilerin, patronumuzun kalplerini ve zihinlerini (kontrol eder).
+EtrafÄ±mÄ±zdakilerin, patronumuzun kalplerini ve zihinlerini (kontrol eder).
 
 931
 01:17:56,760 --> 01:17:59,460
-Reşad çok güzel ifade etti.
+ReÅŸad Ã§ok gÃ¼zel ifade etti.
 
 932
 01:17:59,460 --> 01:18:03,539
-...Tanrı, İbrahim'e doğruluğunu, anlayışını bahşetti...
+...TanrÄ±, Ä°brahim'e doÄŸruluÄŸunu, anlayÄ±ÅŸÄ±nÄ± bahÅŸetti...
 
 933
 01:18:03,819 --> 01:18:07,899
-Tanrı, çok açık bir şekilde hepimize doğruluğumuzu bahşettiğini söylüyor.
+TanrÄ±, Ã§ok aÃ§Ä±k bir ÅŸekilde hepimize doÄŸruluÄŸumuzu bahÅŸettiÄŸini sÃ¶ylÃ¼yor.
 
 934
 01:18:07,899 --> 01:18:09,199
-Biz değiliz.
+Biz deÄŸiliz.
 
 935
 01:18:09,199 --> 01:18:10,779
-Bizimki değil.
+Bizimki deÄŸil.
 
 936
 01:18:10,779 --> 01:18:15,159
-Bilirsiniz, onu Tanrı bize verir. Kalplerimizi ve zihinlerimizi O kontrol eder.
+Bilirsiniz, onu TanrÄ± bize verir. Kalplerimizi ve zihinlerimizi O kontrol eder.
 
 937
 01:18:15,539 --> 01:18:17,359
-Biz o tek seçimi yaparsak...
+Biz o tek seÃ§imi yaparsak...
 
 938
 01:18:17,359 --> 01:18:23,180
-Bizim gerçekten kontrol ettiğimiz tek şey olan o, yalnızca Tanrı'ya tapıyor muyuz, tapmıyor muyuz seçimidir.
+Bizim gerÃ§ekten kontrol ettiÄŸimiz tek ÅŸey olan o, yalnÄ±zca TanrÄ±'ya tapÄ±yor muyuz, tapmÄ±yor muyuz seÃ§imidir.
 
 939
 01:18:23,180 --> 01:18:26,819
-O seçimi bir kere yaptığımızda... Oradan sonrasına O bakar.
+O seÃ§imi bir kere yaptÄ±ÄŸÄ±mÄ±zda... Oradan sonrasÄ±na O bakar.
 
 940
 01:18:26,819 --> 01:18:31,639
-Oradan sonrasını O alır ve Tanrı'nın saptırmasından bahseden bir sürü ayet vardır...
+Oradan sonrasÄ±nÄ± O alÄ±r ve TanrÄ±'nÄ±n saptÄ±rmasÄ±ndan bahseden bir sÃ¼rÃ¼ ayet vardÄ±r...
 
 941
 01:18:31,680 --> 01:18:37,820
-İnkar edenler...Onlar, (seçimi?)'ı yaptılar.
+Ä°nkar edenler...Onlar, (seÃ§imi?)'Ä± yaptÄ±lar.
 
 942
 01:18:38,079 --> 01:18:42,479
-Naghmeh: Evet, Alt Cennet hakkında herhangi bir soru?..
+Naghmeh: Evet, Alt Cennet hakkÄ±nda herhangi bir soru?..
 
 943
 01:18:42,479 --> 01:18:43,579
@@ -3792,47 +3792,47 @@ Cehennem, 41 hemen sonra gelir. (Kahkaha)
 
 945
 01:18:53,439 --> 01:18:55,819
-41! Aman Tanrı'ım!
+41! Aman TanrÄ±'Ä±m!
 
 946
 01:18:55,819 --> 01:18:57,199
-Reşad Halife: Aman Tanrım!
+ReÅŸad Halife: Aman TanrÄ±m!
 
 947
 01:18:57,199 --> 01:19:00,840
-Bunun bir anlamı var...
+Bunun bir anlamÄ± var...
 
 948
 01:19:00,840 --> 01:19:07,340
-Evet, 41 cehennem demek. Eğer o kararı yapmazsanız...(Şiddetli Kahkaha)
+Evet, 41 cehennem demek. EÄŸer o kararÄ± yapmazsanÄ±z...(Åiddetli Kahkaha)
 
 949
 01:19:07,340 --> 01:19:18,140
-Eğer o seçimi o yaşta, 41'de veya üstünde yapmazsanız...
+EÄŸer o seÃ§imi o yaÅŸta, 41'de veya Ã¼stÃ¼nde yapmazsanÄ±z...
 
 950
 01:19:18,140 --> 01:19:24,119
-Eğer o seçimi yapmadıysanız... O çemberi hatırlayın.
+EÄŸer o seÃ§imi yapmadÄ±ysanÄ±z... O Ã§emberi hatÄ±rlayÄ±n.
 
 951
 01:19:24,460 --> 01:19:29,779
-Buradaki bu çember, Kuran'daki her bir ayetin bir sisteme göre numaralandırıldığı anlamına gelir.
+Buradaki bu Ã§ember, Kuran'daki her bir ayetin bir sisteme gÃ¶re numaralandÄ±rÄ±ldÄ±ÄŸÄ± anlamÄ±na gelir.
 
 952
 01:19:30,760 --> 01:19:36,020
-Tanrı...
+TanrÄ±...
 
 953
 01:19:37,720 --> 01:19:39,840
-"euzu billahi mineş şeytanir racim"
+"euzu billahi mineÅŸ ÅŸeytanir racim"
 
 954
 01:19:39,840 --> 01:19:49,039
-Bizim bu dünyaya gelmemizdeki temel sebep olan Şeytan'dan Tanrı'ya sığınıyoruz.
+Bizim bu dÃ¼nyaya gelmemizdeki temel sebep olan Åeytan'dan TanrÄ±'ya sÄ±ÄŸÄ±nÄ±yoruz.
 
 955
 01:19:49,039 --> 01:19:59,859
-Umarız Tanrı, onu Şeytan'a geri püskürtür ve bize, yalnızca Tanrı'ya iman etmek yoluyla bu dünyada ve sonsuza değin mutluluk verir.
+UmarÄ±z TanrÄ±, onu Åeytan'a geri pÃ¼skÃ¼rtÃ¼r ve bize, yalnÄ±zca TanrÄ±'ya iman etmek yoluyla bu dÃ¼nyada ve sonsuza deÄŸin mutluluk verir.
 
 956
 01:19:59,859 --> 01:20:01,619
@@ -3840,36 +3840,36 @@ Umarız Tanrı, onu Şeytan'a geri püskürtür ve bize, yalnızca Tanrı'ya iman etmek 
 
 957
 01:20:01,619 --> 01:20:05,340
-En Lütufkâr, En Merhametli olan Tanrı'nın adıyla.
+En LÃ¼tufkÃ¢r, En Merhametli olan TanrÄ±'nÄ±n adÄ±yla.
 
 958
 01:20:08,500 --> 01:20:14,659
-Sure 51'den, sayfa 366'a başlayacağız.
+Sure 51'den, sayfa 366'a baÅŸlayacaÄŸÄ±z.
 
 959
 01:20:15,699 --> 01:20:18,479
-Ve, bu geceki öğretmenimiz... Adını unuttum, bilmiyorum...
+Ve, bu geceki Ã¶ÄŸretmenimiz... AdÄ±nÄ± unuttum, bilmiyorum...
 
 960
 01:20:18,659 --> 01:20:21,639
-Adınızın ne olduğunu hatırlıyor musunuz efendim?
+AdÄ±nÄ±zÄ±n ne olduÄŸunu hatÄ±rlÄ±yor musunuz efendim?
 
 961
 01:20:21,640 --> 01:20:22,579
-Douglas: Raşid
+Douglas: RaÅŸid
 
 962
 01:20:22,579 --> 01:20:23,519
-Reşad Halife: Adınız ne?
+ReÅŸad Halife: AdÄ±nÄ±z ne?
 
 963
 01:20:23,520 --> 01:20:26,380
-Douglas: Raşid.
+Douglas: RaÅŸid.
 (Kahkaha)
 
 964
 01:20:27,039 --> 01:20:32,100
-Reşad Halife: Ben ciddiyim, gerçekten de unuttu. Raşid?..
+ReÅŸad Halife: Ben ciddiyim, gerÃ§ekten de unuttu. RaÅŸid?..
 
 965
 01:20:32,279 --> 01:20:34,819
@@ -3877,15 +3877,15 @@ Douglas: Douglas, Douglas. Douglas Brown.
 
 966
 01:20:34,819 --> 01:20:37,099
-Reşad Halife: Douglas Brown?.. Eminsin?
+ReÅŸad Halife: Douglas Brown?.. Eminsin?
 
 967
 01:20:37,100 --> 01:20:42,340
-Douglas: Kalıbımı basarım. Sonra görürsün.
+Douglas: KalÄ±bÄ±mÄ± basarÄ±m. Sonra gÃ¶rÃ¼rsÃ¼n.
 
 968
 01:20:42,340 --> 01:20:46,760
-Reşad Halife: Bugün gayet gergin bir öğretmenimiz var.
+ReÅŸad Halife: BugÃ¼n gayet gergin bir Ã¶ÄŸretmenimiz var.
 
 969
 01:20:48,520 --> 01:20:50,800
@@ -3897,60 +3897,60 @@ Sure...
 
 971
 01:20:53,964 --> 01:21:02,679
-Bilirsiniz, bir imanlı, Tanrı'yı, farkında olmayan veya güçlü imanlılar olmayan insanlardan farklı şekilde takdir eder.
+Bilirsiniz, bir imanlÄ±, TanrÄ±'yÄ±, farkÄ±nda olmayan veya gÃ¼Ã§lÃ¼ imanlÄ±lar olmayan insanlardan farklÄ± ÅŸekilde takdir eder.
 
 972
 01:21:02,680 --> 01:21:06,159
-Sure'nin başlığının "Rüzgarlar" olduğunu buradan görebilirsiniz...
+Sure'nin baÅŸlÄ±ÄŸÄ±nÄ±n "RÃ¼zgarlar" olduÄŸunu buradan gÃ¶rebilirsiniz...
 
 973
 01:21:06,159 --> 01:21:09,460
-...ve biz ilk birkaç ayetten rüzgarların ana görevlerinin...
+...ve biz ilk birkaÃ§ ayetten rÃ¼zgarlarÄ±n ana gÃ¶revlerinin...
 
 974
 01:21:09,819 --> 01:21:14,000
-...bulutları taşımak ve nimetleri getirmek olduğunu görüyoruz.
+...bulutlarÄ± taÅŸÄ±mak ve nimetleri getirmek olduÄŸunu gÃ¶rÃ¼yoruz.
 
 975
 01:21:14,699 --> 01:21:16,859
-Bizim şu suya ihtiyacımız var.
+Bizim ÅŸu suya ihtiyacÄ±mÄ±z var.
 
 976
 01:21:17,039 --> 01:21:21,640
-Dolayısıyla, Tanrı'yı ve bu, bu sade kelimeleri takdir etmek için...
+DolayÄ±sÄ±yla, TanrÄ±'yÄ± ve bu, bu sade kelimeleri takdir etmek iÃ§in...
 
 977
 01:21:22,039 --> 01:21:25,920
-...kendinizi uzaya 10 astronot gönderirken bir hayal edin sadece.
+...kendinizi uzaya 10 astronot gÃ¶nderirken bir hayal edin sadece.
 
 978
 01:21:25,920 --> 01:21:30,220
-Uzaya 10 astronot gönderiyorsunuz ve onlara diyorsunuz ki...
+Uzaya 10 astronot gÃ¶nderiyorsunuz ve onlara diyorsunuz ki...
 
 979
 01:21:30,220 --> 01:21:33,900
-"Tamam. Biz orada 3 yıllığına olacağız ve
-siz ne zaman suya ihtiyaç duysanız...
+"Tamam. Biz orada 3 yÄ±llÄ±ÄŸÄ±na olacaÄŸÄ±z ve
+siz ne zaman suya ihtiyaÃ§ duysanÄ±z...
 
 980
 01:21:34,180 --> 01:21:36,079
-"...ben uzay gemisinde bir icat yapmışım...
+"...ben uzay gemisinde bir icat yapmÄ±ÅŸÄ±m...
 
 981
 01:21:36,079 --> 01:21:39,939
-"...yani bunlar üzerinizdeki şu bulutlar olacaklar ve size su verecekler."
+"...yani bunlar Ã¼zerinizdeki ÅŸu bulutlar olacaklar ve size su verecekler."
 
 982
 01:21:40,119 --> 01:21:43,140
-Onları uzaya gönderiyorsunuz...
+OnlarÄ± uzaya gÃ¶nderiyorsunuz...
 
 983
 01:21:44,300 --> 01:21:49,199
-...ve onlara su, temiz su verecek sistemi tasarlarsınız.
+...ve onlara su, temiz su verecek sistemi tasarlarsÄ±nÄ±z.
 
 984
 01:21:49,199 --> 01:21:52,659
-Ne zaman onlar suyu kirletseler, onların uzay gemisinde (sistemleri) var...
+Ne zaman onlar suyu kirletseler, onlarÄ±n uzay gemisinde (sistemleri) var...
 
 985
 01:21:53,100 --> 01:21:54,960
@@ -3958,63 +3958,63 @@ Ne zaman onlar suyu kirletseler, onların uzay gemisinde (sistemleri) var...
 
 986
 01:21:54,960 --> 01:21:59,640
-Bir numara saflaştırma işlemleri, damıtmadır.
+Bir numara saflaÅŸtÄ±rma iÅŸlemleri, damÄ±tmadÄ±r.
 
 987
 01:21:59,939 --> 01:22:02,599
-Ne zaman onlar, kendi sularını kirletseler, buharlaşacak...
+Ne zaman onlar, kendi sularÄ±nÄ± kirletseler, buharlaÅŸacak...
 
 988
 01:22:02,640 --> 01:22:11,220
-Saf su olacak ve aşağı yeniden gelecek. Dolayısıyla siz, onlara onu, 3 yıl, 5 yıl, 10 yıl, her neyse...boyunca yeterince su tedariğine sahip olacaklarını (konusunda) onları temin etmek için söylüyorsunuz.
+Saf su olacak ve aÅŸaÄŸÄ± yeniden gelecek. DolayÄ±sÄ±yla siz, onlara onu, 3 yÄ±l, 5 yÄ±l, 10 yÄ±l, her neyse...boyunca yeterince su tedariÄŸine sahip olacaklarÄ±nÄ± (konusunda) onlarÄ± temin etmek iÃ§in sÃ¶ylÃ¼yorsunuz.
 
 989
 01:22:11,439 --> 01:22:14,359
-Onları gönderiyoruz. Onu bir hayal edin sadece.
+OnlarÄ± gÃ¶nderiyoruz. Onu bir hayal edin sadece.
 
 990
 01:22:14,359 --> 01:22:17,799
-Tanrı, bu uzay gemisini beş milyar astronot ile birlikte gönderdi.
+TanrÄ±, bu uzay gemisini beÅŸ milyar astronot ile birlikte gÃ¶nderdi.
 
 991
 01:22:17,800 --> 01:22:21,079
-Siz ve ben, astronotlarız. Bu doğru!
+Siz ve ben, astronotlarÄ±z. Bu doÄŸru!
 
 992
 01:22:21,920 --> 01:22:32,159
-Ve Tanrı, bize bu sistemi verdi. Tanrı, suyun buharlaştığı ve ardından da rüzgarın bulutları buraya getirmesiyle aşağı geldiği bu sistemi tasarladı.
+Ve TanrÄ±, bize bu sistemi verdi. TanrÄ±, suyun buharlaÅŸtÄ±ÄŸÄ± ve ardÄ±ndan da rÃ¼zgarÄ±n bulutlarÄ± buraya getirmesiyle aÅŸaÄŸÄ± geldiÄŸi bu sistemi tasarladÄ±.
 
 993
 01:22:32,159 --> 01:22:34,340
-Biz okyanustan ne kadar uzağız?
+Biz okyanustan ne kadar uzaÄŸÄ±z?
 
 994
 01:22:34,739 --> 01:22:36,380
-Biz okyanustan uzağız.
+Biz okyanustan uzaÄŸÄ±z.
 
 995
 01:22:36,380 --> 01:22:40,000
-Ama bu bulutlar bize rüzgarla okyanustan geliyorlar...
+Ama bu bulutlar bize rÃ¼zgarla okyanustan geliyorlar...
 
 996
 01:22:40,399 --> 01:22:44,920
-O bir seyahet sistemidir ve o, saf su gönderir.
+O bir seyahet sistemidir ve o, saf su gÃ¶nderir.
 
 997
 01:22:45,460 --> 01:22:47,819
-Eğer şunu düşünürseniz, Tanrı'yı takdir edersiniz.
+EÄŸer ÅŸunu dÃ¼ÅŸÃ¼nÃ¼rseniz, TanrÄ±'yÄ± takdir edersiniz.
 
 998
 01:22:48,239 --> 01:22:57,239
-Uzaya 10 astronot göndermeyi ve onlara, "Size nefes almanız için tam olarak (gereken) yüzdede oksijen vereceğim." demeyi hayal edin.
+Uzaya 10 astronot gÃ¶ndermeyi ve onlara, "Size nefes almanÄ±z iÃ§in tam olarak (gereken) yÃ¼zdede oksijen vereceÄŸim." demeyi hayal edin.
 
 999
 01:22:57,819 --> 01:23:03,000
-Şimdi...Biz 1967'de teknolojik olarak gelişmiş insanlardık. 1967...
+Åimdi...Biz 1967'de teknolojik olarak geliÅŸmiÅŸ insanlardÄ±k. 1967...
 
 1000
 01:23:04,119 --> 01:23:08,039
-Ama biz kapsüle üç tane astronot koyduk.
+Ama biz kapsÃ¼le Ã¼Ã§ tane astronot koyduk.
 
 1001
 01:23:08,520 --> 01:23:11,140
@@ -4022,15 +4022,15 @@ Ama biz kapsüle üç tane astronot koyduk.
 
 1002
 01:23:11,420 --> 01:23:14,920
-Saf oksijen, değil mi?.. Nefes almak için.
+Saf oksijen, deÄŸil mi?.. Nefes almak iÃ§in.
 
 1003
 01:23:14,920 --> 01:23:16,539
-Ve tek gereken, bir kıvılcımdı...
+Ve tek gereken, bir kÄ±vÄ±lcÄ±mdÄ±...
 
 1004
 01:23:16,939 --> 01:23:19,059
-Ve 3 astronot alev aldı.
+Ve 3 astronot alev aldÄ±.
 
 1005
 01:23:19,779 --> 01:23:23,159
@@ -4038,55 +4038,55 @@ Ed White, Gus Grissom ve Roger Chaffe...
 
 1006
 01:23:23,760 --> 01:23:27,180
-Bu yüzden bugün bizimle birlikte değiller.
+Bu yÃ¼zden bugÃ¼n bizimle birlikte deÄŸiller.
 
 1007
 01:23:27,960 --> 01:23:31,180
-Biz bilimde gerçekten de gelişmiştik...
+Biz bilimde gerÃ§ekten de geliÅŸmiÅŸtik...
 
 1008
 01:23:31,739 --> 01:23:35,519
-...ama siz herhangi bir şeyi saf oksijene koyar ve bir kibrit yakarsanız...
+...ama siz herhangi bir ÅŸeyi saf oksijene koyar ve bir kibrit yakarsanÄ±z...
 
 1009
 01:23:35,579 --> 01:23:37,739
-...her şey alev alacaktır, her şey...
+...her ÅŸey alev alacaktÄ±r, her ÅŸey...
 
 1010
 01:23:37,739 --> 01:23:40,099
-Organik olan her şey, yani...
+Organik olan her ÅŸey, yani...
 
 1011
 01:23:41,720 --> 01:23:43,220
-Aslında bu...Kimyacılar için...
+AslÄ±nda bu...KimyacÄ±lar iÃ§in...
 
 1012
 01:23:43,220 --> 01:23:46,840
-Eğer herhangi bir kimyacı buradaysa... Bu, bulmak için yaptığınız en son şeydir.
+EÄŸer herhangi bir kimyacÄ± buradaysa... Bu, bulmak iÃ§in yaptÄ±ÄŸÄ±nÄ±z en son ÅŸeydir.
 
 1013
 01:23:46,840 --> 01:23:50,380
-Mesela, herhangi bir şeyin küllerinde herhangi bir aktiflik var mı (diye)...
+Mesela, herhangi bir ÅŸeyin kÃ¼llerinde herhangi bir aktiflik var mÄ± (diye)...
 
 1014
 01:23:50,539 --> 01:23:51,579
-Onu bir (?) koyarsanız...
+Onu bir (?) koyarsanÄ±z...
 
 1015
 01:23:51,579 --> 01:23:57,420
-...oradaki kapalı bir şeye... %100 oksijenle doldurursunuz ve bir kıvılcım yaratırsınız.
+...oradaki kapalÄ± bir ÅŸeye... %100 oksijenle doldurursunuz ve bir kÄ±vÄ±lcÄ±m yaratÄ±rsÄ±nÄ±z.
 
 1016
 01:23:57,880 --> 01:24:01,359
-Ve her şey küle (dönüşecek şekilde) alev alacaktır.
+Ve her ÅŸey kÃ¼le (dÃ¶nÃ¼ÅŸecek ÅŸekilde) alev alacaktÄ±r.
 
 1017
 01:24:01,939 --> 01:24:04,419
-3 astronota olan şey de buydu.
+3 astronota olan ÅŸey de buydu.
 
 1018
 01:24:04,699 --> 01:24:07,939
-Ve işte bu yüzden Tanrı bize %100 oksijen vermedi.
+Ve iÅŸte bu yÃ¼zden TanrÄ± bize %100 oksijen vermedi.
 
 1019
 01:24:07,979 --> 01:24:11,000
@@ -4094,107 +4094,107 @@ Bizim %20 oksijenimiz var, geri kalan nitrojendir.
 
 1020
 01:24:11,380 --> 01:24:17,260
-Ve şimdi astronotları uzaya gönderdikleri zaman yaptıkları da budur.
+Ve ÅŸimdi astronotlarÄ± uzaya gÃ¶nderdikleri zaman yaptÄ±klarÄ± da budur.
 
 1021
 01:24:17,979 --> 01:24:19,939
-Ama biz zor yoldan öğrendik.
+Ama biz zor yoldan Ã¶ÄŸrendik.
 
 1022
 01:24:20,380 --> 01:24:21,100
-Dolayısıyla...
+DolayÄ±sÄ±yla...
 
 1023
 01:24:22,359 --> 01:24:26,399
-Demek istiyorum ki biz, Ay'a insan gönderiyoruz...
+Demek istiyorum ki biz, Ay'a insan gÃ¶nderiyoruz...
 
 1024
 01:24:26,659 --> 01:24:31,159
-Ve biz onlara doğru atmosferi veremedik.
+Ve biz onlara doÄŸru atmosferi veremedik.
 
 1025
 01:24:31,960 --> 01:24:34,380
-Yani buradaki bu birkaç ayet...
+Yani buradaki bu birkaÃ§ ayet...
 
 1026
 01:24:34,699 --> 01:24:42,880
-Bize Tanrı'yı takdir ettirecektir. Eğer biz, kendi astronotlarımızı uzaya göndermek hakkında düşünürsek...
+Bize TanrÄ±'yÄ± takdir ettirecektir. EÄŸer biz, kendi astronotlarÄ±mÄ±zÄ± uzaya gÃ¶ndermek hakkÄ±nda dÃ¼ÅŸÃ¼nÃ¼rsek...
 
 1027
 01:24:44,520 --> 01:24:46,920
-Tabii ki, oksijeninin bizim için nasıl üretilmiş olduğunu biliyorsunuz.
+Tabii ki, oksijeninin bizim iÃ§in nasÄ±l Ã¼retilmiÅŸ olduÄŸunu biliyorsunuz.
 
 1028
 01:24:47,079 --> 01:24:51,739
-Onu soluyoruz ve dışarı, nefes almamız için iyi olmayan karbondioksiti çıkarıyoruz.
+Onu soluyoruz ve dÄ±ÅŸarÄ±, nefes almamÄ±z iÃ§in iyi olmayan karbondioksiti Ã§Ä±karÄ±yoruz.
 
 1029
 01:24:52,560 --> 01:24:57,280
-Dolayısıyla Tanrı, ağacı onlar karbondioksiti alsınlar ve onu elmalara dönüştürsünler diye dizayn etti.
+DolayÄ±sÄ±yla TanrÄ±, aÄŸacÄ± onlar karbondioksiti alsÄ±nlar ve onu elmalara dÃ¶nÃ¼ÅŸtÃ¼rsÃ¼nler diye dizayn etti.
 
 1030
 01:24:57,420 --> 01:25:01,980
-Ve bize oksijen versinler... Onlar karbonu alıyorlar ve bize oksijeni geri veriyorlar.
+Ve bize oksijen versinler... Onlar karbonu alÄ±yorlar ve bize oksijeni geri veriyorlar.
 
 1031
 01:25:03,020 --> 01:25:07,980
-Bir sistem için buna ne dersiniz?.. Bunu astronotunuz için yapabilir misiniz?
+Bir sistem iÃ§in buna ne dersiniz?.. Bunu astronotunuz iÃ§in yapabilir misiniz?
 
 1032
 01:25:08,439 --> 01:25:11,239
-10 astronotunuza diyorsunuz ki, "10 yıllığına ta orada dışarıda olacaksınız...
+10 astronotunuza diyorsunuz ki, "10 yÄ±llÄ±ÄŸÄ±na ta orada dÄ±ÅŸarÄ±da olacaksÄ±nÄ±z...
 
 1033
 01:25:11,239 --> 01:25:15,333
-"...ve karbondioksiti dışarı teneffüs edeceksiniz. Dolayısıyla ben size birkaç (?) veriyorum.
+"...ve karbondioksiti dÄ±ÅŸarÄ± teneffÃ¼s edeceksiniz. DolayÄ±sÄ±yla ben size birkaÃ§ (?) veriyorum.
 
 1034
 01:25:15,333 --> 01:25:23,680
-"Ben bu bitkileri--veya karbondioksitinizi alacak, sizin için besine çevirecek ve sizin de oksijeninizi geri alacağınız bir şeyi icat ettim."
+"Ben bu bitkileri--veya karbondioksitinizi alacak, sizin iÃ§in besine Ã§evirecek ve sizin de oksijeninizi geri alacaÄŸÄ±nÄ±z bir ÅŸeyi icat ettim."
 
 1035
 01:25:26,380 --> 01:25:29,680
-Tanrı'nın yaratımı işte böyle...
+TanrÄ±'nÄ±n yaratÄ±mÄ± iÅŸte bÃ¶yle...
 
 1036
 01:25:29,800 --> 01:25:36,140
-Ve siz hepsinin evrim olduğunu düşünüyorsunuz, değil mi?..
+Ve siz hepsinin evrim olduÄŸunu dÃ¼ÅŸÃ¼nÃ¼yorsunuz, deÄŸil mi?..
 
 1037
 01:25:37,920 --> 01:25:39,539
-Bunlar üzerine herhangi bir soru var mı?
+Bunlar Ã¼zerine herhangi bir soru var mÄ±?
 
 1038
 01:25:39,539 --> 01:25:42,300
-Rüzgarlar ve yağmurlar ve nimetler...
+RÃ¼zgarlar ve yaÄŸmurlar ve nimetler...
 
 1039
 01:25:44,960 --> 01:25:55,039
-Biz yalnızca 5 milyar insanoğlu hakkında konuşuyoruz. 10 desilyon karıncayı ve yaklaşık 200 milyar fareyi boş verdik.
+Biz yalnÄ±zca 5 milyar insanoÄŸlu hakkÄ±nda konuÅŸuyoruz. 10 desilyon karÄ±ncayÄ± ve yaklaÅŸÄ±k 200 milyar fareyi boÅŸ verdik.
 
 1040
 01:25:55,180 --> 01:25:56,300
-İhsan?..
+Ä°hsan?..
 
 1041
 01:25:56,560 --> 01:26:01,960
-(Bir Sürü Kahkaha)
+(Bir SÃ¼rÃ¼ Kahkaha)
 
 1042
 01:26:02,140 --> 01:26:06,340
-Onlardan bu Cami'de etrafta koşuşturan belki birkaç tanesi vardır.
+Onlardan bu Cami'de etrafta koÅŸuÅŸturan belki birkaÃ§ tanesi vardÄ±r.
 
 1043
 01:26:07,100 --> 01:26:09,220
-İsim onu (İhsan'ı) korkutuyor, o yüzden onu söyledim.
+Ä°sim onu (Ä°hsan'Ä±) korkutuyor, o yÃ¼zden onu sÃ¶yledim.
 
 1044
 01:26:10,119 --> 01:26:13,140
-Tamam. Douglas'a dönelim. Evet, Kathy...
+Tamam. Douglas'a dÃ¶nelim. Evet, Kathy...
 
 1045
 01:26:14,380 --> 01:26:21,279
-Kathy: ...4 yaşındaki çocuklar, 2 yaşındaki çocuklar...
+Kathy: ...4 yaÅŸÄ±ndaki Ã§ocuklar, 2 yaÅŸÄ±ndaki Ã§ocuklar...
 
 1046
 01:26:21,279 --> 01:26:27,719
@@ -4202,7 +4202,7 @@ Ve onun dili...
 
 1047
 01:26:29,779 --> 01:26:32,920
-Reşad Halife: Bu, Kuran'da büyük bir mucize olarak spesifik bir şekilde bahsedilmiştir.
+ReÅŸad Halife: Bu, Kuran'da bÃ¼yÃ¼k bir mucize olarak spesifik bir ÅŸekilde bahsedilmiÅŸtir.
 
 1048
 01:26:33,020 --> 01:26:34,220
@@ -4214,19 +4214,19 @@ Sadece Avrupa'ya gidin.
 
 1050
 01:26:37,100 --> 01:26:41,180
-Kathy: Şüphe etmiyoruz...
+Kathy: ÅÃ¼phe etmiyoruz...
 
 1051
 01:26:41,680 --> 01:26:48,179
-Reşad Halife: Avrupa'da 50 millik--50 değil, 20 millik alanın içinde 15 dile rast gelebiliyoruz.
+ReÅŸad Halife: Avrupa'da 50 millik--50 deÄŸil, 20 millik alanÄ±n iÃ§inde 15 dile rast gelebiliyoruz.
 
 1052
 01:26:48,600 --> 01:26:52,079
-Çekoslavakya, Macaristan, Avusturya...
+Ã‡ekoslavakya, Macaristan, Avusturya...
 
 1053
 01:26:53,340 --> 01:26:57,640
-Çekoslavakya'nın içinde birkaç dil var.
+Ã‡ekoslavakya'nÄ±n iÃ§inde birkaÃ§ dil var.
 
 1054
 01:26:58,500 --> 01:26:59,180
@@ -4234,7 +4234,7 @@ Ve...
 
 1055
 01:26:59,739 --> 01:27:03,300
-Bu insanların birbirlerini anlamaları ama bu insanların onları anlamayışları resmen muazzam.
+Bu insanlarÄ±n birbirlerini anlamalarÄ± ama bu insanlarÄ±n onlarÄ± anlamayÄ±ÅŸlarÄ± resmen muazzam.
 
 1056
 01:27:07,600 --> 01:27:08,520
@@ -4246,7 +4246,7 @@ Yine de harika...
 
 1058
 01:27:11,140 --> 01:27:16,780
-Kathy: Muhteşem bir mucize ve bizim için bir gizem...
+Kathy: MuhteÅŸem bir mucize ve bizim iÃ§in bir gizem...
 
 1059
 01:27:17,579 --> 01:27:21,840
@@ -4254,249 +4254,249 @@ Douglas: Herhangi bir soru veya yorum?..
 
 1060
 01:27:27,100 --> 01:27:29,699
-Reşad Halife: Söyledin işte. Onun tek oğlu...
+ReÅŸad Halife: SÃ¶yledin iÅŸte. Onun tek oÄŸlu...
 
 1061
 01:27:29,699 --> 01:27:32,500
-İshak, hiçbir zaman tek oğul değildi.
+Ä°shak, hiÃ§bir zaman tek oÄŸul deÄŸildi.
 
 1062
 01:27:32,500 --> 01:27:33,880
-Tam şu anda hakikati söyledin.
+Tam ÅŸu anda hakikati sÃ¶yledin.
 
 1063
 01:27:33,880 --> 01:27:39,680
-Marth: [ (?)'lar ] "Onun tek meşru oğlu..." diyorlar.
+Marth: [ (?)'lar ] "Onun tek meÅŸru oÄŸlu..." diyorlar.
 
 1064
 01:27:40,560 --> 01:27:42,439
-Reşad Halife: Onlar onu işte bu şekilde meşrulaştırıyorlar.
+ReÅŸad Halife: Onlar onu iÅŸte bu ÅŸekilde meÅŸrulaÅŸtÄ±rÄ±yorlar.
 
 1065
 01:27:42,439 --> 01:27:44,559
-O, "Senin tek meşru oğlun..." demedi.
+O, "Senin tek meÅŸru oÄŸlun..." demedi.
 
 1066
 01:27:44,560 --> 01:27:46,260
-Dedi ki, "Senin tek oğlunu al...
+Dedi ki, "Senin tek oÄŸlunu al...
 
 1067
 01:27:46,260 --> 01:27:48,539
-Gayrimeşru bile olsa.
+GayrimeÅŸru bile olsa.
 
 1068
 01:27:49,300 --> 01:27:52,180
-Ama o gayrımeşru değildi.
+Ama o gayrÄ±meÅŸru deÄŸildi.
 
 1069
 01:27:52,180 --> 01:27:55,859
-O, "Senin tek oğlunu al." mı dedi yoksa "Senin tek gayrimeşru oğlunu..." mu dedi.
+O, "Senin tek oÄŸlunu al." mÄ± dedi yoksa "Senin tek gayrimeÅŸru oÄŸlunu..." mu dedi.
 
 1070
 01:27:55,859 --> 01:27:58,939
-Martha: Kitâb-ı Mukaddes' göre... (?) değil mi...
+Martha: KitÃ¢b-Ä± Mukaddes' gÃ¶re... (?) deÄŸil mi...
 
 1071
 01:27:58,939 --> 01:27:59,839
-Reşad Halife: Hayır.
+ReÅŸad Halife: HayÄ±r.
 
 1072
 01:27:59,840 --> 01:28:00,980
-Martha: İshak...
+Martha: Ä°shak...
 
 1073
 01:28:01,060 --> 01:28:05,039
-Reşad Halife: Birileri...Tabii ki. Hristiyanlar ve Yahudiler onun İshak olduğuna inanıyor.
+ReÅŸad Halife: Birileri...Tabii ki. Hristiyanlar ve Yahudiler onun Ä°shak olduÄŸuna inanÄ±yor.
 
 1074
 01:28:05,779 --> 01:28:09,979
-Ama o ırksal... O, ırksal bir çarpıtma.
+Ama o Ä±rksal... O, Ä±rksal bir Ã§arpÄ±tma.
 
 1075
 01:28:09,979 --> 01:28:13,500
-Onlar dediler ki, " 'Senin tek oğlun, virgül, İshak'ı, virgül, al..' "
+Onlar dediler ki, " 'Senin tek oÄŸlun, virgÃ¼l, Ä°shak'Ä±, virgÃ¼l, al..' "
 
 1076
 01:28:13,500 --> 01:28:17,619
-Yani orada aptalca bir hata yaptılar çünkü İshak, hiçbir zaman tek oğul değildi.
+Yani orada aptalca bir hata yaptÄ±lar Ã§Ã¼nkÃ¼ Ä°shak, hiÃ§bir zaman tek oÄŸul deÄŸildi.
 
 1077
 01:28:17,619 --> 01:28:19,140
-Dolayısıyla siz onlara dediğiniz zaman...
+DolayÄ±sÄ±yla siz onlara dediÄŸiniz zaman...
 
 1078
 01:28:19,140 --> 01:28:22,000
-Onlara bu tek oğul meselesinde karşı çıktığınız zaman...
+Onlara bu tek oÄŸul meselesinde karÅŸÄ± Ã§Ä±ktÄ±ÄŸÄ±nÄ±z zaman...
 
 1079
 01:28:22,000 --> 01:28:24,960
-Çünkü İsmail 14 yaşında olduğu için İshak'dan yaşça daha büyük.
+Ã‡Ã¼nkÃ¼ Ä°smail 14 yaÅŸÄ±nda olduÄŸu iÃ§in Ä°shak'dan yaÅŸÃ§a daha bÃ¼yÃ¼k.
 
 1080
 01:28:24,960 --> 01:28:29,560
-Size diyorlar ki, "Oh. İshak tek meşru oğlan olduğu için..." Ben de dedim ki, "Tamam. Haydi, Kitâb-ı Mukaddes'e bakalım."
+Size diyorlar ki, "Oh. Ä°shak tek meÅŸru oÄŸlan olduÄŸu iÃ§in..." Ben de dedim ki, "Tamam. Haydi, KitÃ¢b-Ä± Mukaddes'e bakalÄ±m."
 
 1081
 01:28:29,659 --> 01:28:34,079
-Ve Kitâb-ı Mukaddes, İsmail'i sürekli olarak "İbrahim'in oğlu" olarak adlandırır.
+Ve KitÃ¢b-Ä± Mukaddes, Ä°smail'i sÃ¼rekli olarak "Ä°brahim'in oÄŸlu" olarak adlandÄ±rÄ±r.
 
 1082
 01:28:34,279 --> 01:28:36,159
-Ta ki İbrahim ölene dek.
-Ve ardından da diyorlar ki...
+Ta ki Ä°brahim Ã¶lene dek.
+Ve ardÄ±ndan da diyorlar ki...
 
 1083
 01:28:36,159 --> 01:28:41,000
-"İbrahim öldüğü zaman, onun iki oğlu, İsmail ve İshak onu gömdüler."
+"Ä°brahim Ã¶ldÃ¼ÄŸÃ¼ zaman, onun iki oÄŸlu, Ä°smail ve Ä°shak onu gÃ¶mdÃ¼ler."
 
 1084
 01:28:41,460 --> 01:28:44,100
-Yani ortada hiçbir çıkış yolu yok.
+Yani ortada hiÃ§bir Ã§Ä±kÄ±ÅŸ yolu yok.
 
 1085
 01:28:44,100 --> 01:28:47,260
-Martha:  (Anlaşılmıyor)
+Martha:  (AnlaÅŸÄ±lmÄ±yor)
 
 1086
 01:28:47,520 --> 01:28:48,580
-Reşad Halife: Hayır.
+ReÅŸad Halife: HayÄ±r.
 
 1087
 01:28:48,720 --> 01:28:50,420
-Hayır. O (?) yapmadı.
+HayÄ±r. O (?) yapmadÄ±.
 
 1088
 01:28:51,960 --> 01:28:54,859
-Hayır. Onu bir romanda okumuşsundur.
+HayÄ±r. Onu bir romanda okumuÅŸsundur.
 
 1089
 01:28:54,859 --> 01:28:56,460
-Martha:  (Anlaşılmıyor)
+Martha:  (AnlaÅŸÄ±lmÄ±yor)
 
 1090
 01:28:56,460 --> 01:28:57,720
-Reşad Halife: Kimden?..
+ReÅŸad Halife: Kimden?..
 
 1091
 01:28:57,720 --> 01:28:59,960
-Martha:  (Anlaşılmıyor)
+Martha:  (AnlaÅŸÄ±lmÄ±yor)
 
 1092
 01:29:00,140 --> 01:29:04,640
-Reşad Halife: Hayır, hayır. O, Yaratılış'tan değil.
+ReÅŸad Halife: HayÄ±r, hayÄ±r. O, YaratÄ±lÄ±ÅŸ'tan deÄŸil.
 
 1093
 01:29:06,060 --> 01:29:08,699
-Tamam. İbrahim
+Tamam. Ä°brahim
 
 1094
 01:29:08,699 --> 01:29:13,059
-Demek istiyorum ki, Sarah kısırdı. Onun İshak dışında hiçbir şeyi yoktu.
+Demek istiyorum ki, Sarah kÄ±sÄ±rdÄ±. Onun Ä°shak dÄ±ÅŸÄ±nda hiÃ§bir ÅŸeyi yoktu.
 
 1095
 01:29:13,060 --> 01:29:15,060
-Martha:  (Anlaşılmıyor)
+Martha:  (AnlaÅŸÄ±lmÄ±yor)
 
 1096
 01:29:15,640 --> 01:29:18,980
-Reşad Halife: Onun, onun bununla ve şununla evlendiğini söyleyen bir roman var.
+ReÅŸad Halife: Onun, onun bununla ve ÅŸununla evlendiÄŸini sÃ¶yleyen bir roman var.
 
 1097
 01:29:19,199 --> 01:29:27,760
-Martha:  (Anlaşılmıyor)
+Martha:  (AnlaÅŸÄ±lmÄ±yor)
 
 1098
 01:29:28,159 --> 01:29:30,479
-Reşad Halife: Başka herhangi bir çocuk, onların alakaları yok...
+ReÅŸad Halife: BaÅŸka herhangi bir Ã§ocuk, onlarÄ±n alakalarÄ± yok...
 
 1099
 01:29:30,479 --> 01:29:34,239
-Çünkü Kuran ve Kitâb-ı Mukaddes yalnızca İsmail ile İshak'dan bahsediyor.
+Ã‡Ã¼nkÃ¼ Kuran ve KitÃ¢b-Ä± Mukaddes yalnÄ±zca Ä°smail ile Ä°shak'dan bahsediyor.
 
 1100
 01:29:35,720 --> 01:29:36,920
-Başka hiç kimseden (bahsetmiyor)...
+BaÅŸka hiÃ§ kimseden (bahsetmiyor)...
 
 1101
 01:29:37,699 --> 01:29:40,199
-Yaratılış 22'de...
+YaratÄ±lÄ±ÅŸ 22'de...
 
 1102
 01:29:41,699 --> 01:29:46,079
-Yaratılış 22'de, 25 dolaylarında diyor ki, "İbrahim öldüğü zaman...
+YaratÄ±lÄ±ÅŸ 22'de, 25 dolaylarÄ±nda diyor ki, "Ä°brahim Ã¶ldÃ¼ÄŸÃ¼ zaman...
 
 1103
 01:29:46,079 --> 01:29:49,260
-"...onun iki oğlu, İsmail ve İshak onu gömdüler."
+"...onun iki oÄŸlu, Ä°smail ve Ä°shak onu gÃ¶mdÃ¼ler."
 
 1104
 01:29:49,520 --> 01:29:53,100
-Yani İsmail, İbrahim'in oğluydu.
+Yani Ä°smail, Ä°brahim'in oÄŸluydu.
 
 1105
 01:29:53,100 --> 01:29:56,020
-O, 14 yıl boyunca İbrahim'in tek oğluydu.
+O, 14 yÄ±l boyunca Ä°brahim'in tek oÄŸluydu.
 
 1106
 01:29:56,300 --> 01:30:00,020
-İshak, hiçbir zaman tek oğul değildi.
+Ä°shak, hiÃ§bir zaman tek oÄŸul deÄŸildi.
 
 1107
 01:30:00,060 --> 01:30:03,520
-Martha: Ne İshak'ı (?) yapardı?.. (anlaşılmıyor)
+Martha: Ne Ä°shak'Ä± (?) yapardÄ±?.. (anlaÅŸÄ±lmÄ±yor)
 
 1108
 01:30:04,180 --> 01:30:07,239
-Reşad Halife: İshak, Yahudilerin atasıdır. İsmail, Arapların atasıdır.
+ReÅŸad Halife: Ä°shak, Yahudilerin atasÄ±dÄ±r. Ä°smail, AraplarÄ±n atasÄ±dÄ±r.
 
 1109
 01:30:07,239 --> 01:30:12,719
-(?)'ı Yahudiler yazdı--Demek istiyorum ki,
-Yaratılış'la, Tevrat ile oynadılar.
+(?)'Ä± Yahudiler yazdÄ±--Demek istiyorum ki,
+YaratÄ±lÄ±ÅŸ'la, Tevrat ile oynadÄ±lar.
 
 1110
 01:30:12,720 --> 01:30:19,039
-Martha: Yani mesele (şu), bir mucize istediler: İshak'ın doğumu mucizesi.
+Martha: Yani mesele (ÅŸu), bir mucize istediler: Ä°shak'Ä±n doÄŸumu mucizesi.
 
 1111
 01:30:20,479 --> 01:30:26,639
-Reşad Halife: Doğru. (Başka) herhangi bir şeye sahip olmak istemediler. İsmail'in herhangi bir şeyle herhangi bir ilgisinin olmasını (istemediler).
+ReÅŸad Halife: DoÄŸru. (BaÅŸka) herhangi bir ÅŸeye sahip olmak istemediler. Ä°smail'in herhangi bir ÅŸeyle herhangi bir ilgisinin olmasÄ±nÄ± (istemediler).
 
 1112
 01:30:26,800 --> 01:30:30,420
-Dolayısıyla onlar büyük bir hata yaptılar, sadece...
+DolayÄ±sÄ±yla onlar bÃ¼yÃ¼k bir hata yaptÄ±lar, sadece...
 
 1113
 01:30:31,840 --> 01:30:36,079
-Dolayısıyla onlar büyük bir hata yaptılar. Tıpkı Kuran'daki o iki ayet gibi...
+DolayÄ±sÄ±yla onlar bÃ¼yÃ¼k bir hata yaptÄ±lar. TÄ±pkÄ± Kuran'daki o iki ayet gibi...
 
 1114
 01:30:36,199 --> 01:30:38,920
-Aynen. Bariz bir hata yaptılar.
+Aynen. Bariz bir hata yaptÄ±lar.
 
 1115
 01:30:40,920 --> 01:30:47,579
-Ve ardından da onu Kitâb-ı Mukaddes'in daha yeni edisyonlarında düzeltmeye çalışıyorlar. Diyorlar ki, "Biricik sahip olduğunu al..." Bilirsiniz.
+Ve ardÄ±ndan da onu KitÃ¢b-Ä± Mukaddes'in daha yeni edisyonlarÄ±nda dÃ¼zeltmeye Ã§alÄ±ÅŸÄ±yorlar. Diyorlar ki, "Biricik sahip olduÄŸunu al..." Bilirsiniz.
 
 1116
 01:30:48,279 --> 01:30:50,880
-Gayet sıkı çalışıyorlar fakat daha berbat hale getiriyorlar.
+Gayet sÄ±kÄ± Ã§alÄ±ÅŸÄ±yorlar fakat daha berbat hale getiriyorlar.
 
 1117
 01:30:50,880 --> 01:30:55,460
-"Biriciğin" ne? "Eşeğin mi yoksa?.." (Kahkaha)
+"BiriciÄŸin" ne? "EÅŸeÄŸin mi yoksa?.." (Kahkaha)
 
 1118
 01:31:01,760 --> 01:31:09,140
-Bayan: (Tam olarak anlaşılmıyor)
+Bayan: (Tam olarak anlaÅŸÄ±lmÄ±yor)
 
 1119
 01:31:09,140 --> 01:31:14,480
-Reşad Halife: Öğrenmiyorlar--öğrendiler mi? Hiçbir şey öğrenmiyorlar!
+ReÅŸad Halife: Ã–ÄŸrenmiyorlar--Ã¶ÄŸrendiler mi? HiÃ§bir ÅŸey Ã¶ÄŸrenmiyorlar!
 
 1120
 01:31:15,220 --> 01:31:18,360
-Yıkımı insanlar kendilerine üzerlerine getiriyorlar.
+YÄ±kÄ±mÄ± insanlar kendilerine Ã¼zerlerine getiriyorlar.
 
 1121
 01:31:18,739 --> 01:31:21,359
@@ -4504,15 +4504,15 @@ Biliyoruz ki Sodom ve Gomora....
 
 1122
 01:31:21,380 --> 01:31:24,859
-Onların hepsi düzeltilemeyecek kadar yozlaşmışlardı.
+OnlarÄ±n hepsi dÃ¼zeltilemeyecek kadar yozlaÅŸmÄ±ÅŸlardÄ±.
 
 1123
 01:31:25,380 --> 01:31:27,940
-Ve bu (?) olan bir şeydir.
+Ve bu (?) olan bir ÅŸeydir.
 
 1124
 01:31:27,960 --> 01:31:31,840
-Demek istiyorum ki onlar, onu kendi üzerlerine getirdiler. Yani o, Tanrı'nın kanunudur ki onlar bunu yaptıkları zaman...
+Demek istiyorum ki onlar, onu kendi Ã¼zerlerine getirdiler. Yani o, TanrÄ±'nÄ±n kanunudur ki onlar bunu yaptÄ±klarÄ± zaman...
 
 1125
 01:31:31,840 --> 01:31:33,819
@@ -4520,38 +4520,38 @@ Demek istiyorum ki onlar, onu kendi üzerlerine getirdiler. Yani o, Tanrı'nın kan
 
 1126
 01:31:33,819 --> 01:31:38,340
-Bugünlerde, eşcinsellerin toplumda yaygın oldukları yerde...
+BugÃ¼nlerde, eÅŸcinsellerin toplumda yaygÄ±n olduklarÄ± yerde...
 
 1127
 01:31:38,340 --> 01:31:43,739
-Tucson Şehri'ni içinde bin eşcinsel olduğu için öylece yok edemeyiz.
+Tucson Åehri'ni iÃ§inde bin eÅŸcinsel olduÄŸu iÃ§in Ã¶ylece yok edemeyiz.
 
 1128
 01:31:44,159 --> 01:31:48,760
-Ama onları seçmesi için bir virüs gönderebilirsiniz...
+Ama onlarÄ± seÃ§mesi iÃ§in bir virÃ¼s gÃ¶nderebilirsiniz...
 
 1129
 01:31:49,260 --> 01:31:51,800
-...ve şu an olan da budur.
+...ve ÅŸu an olan da budur.
 
 1130
 01:31:51,800 --> 01:31:55,619
-Bir Adam: Eşcinsel (?) ile tanı konulmuş çocuklara ne oluyor?..
+Bir Adam: EÅŸcinsel (?) ile tanÄ± konulmuÅŸ Ã§ocuklara ne oluyor?..
 
 1131
 01:31:55,840 --> 01:31:59,760
-Reşad Halife: Onların, onların ana babaları
-onu onların üzerine getirmişlerdir.
+ReÅŸad Halife: OnlarÄ±n, onlarÄ±n ana babalarÄ±
+onu onlarÄ±n Ã¼zerine getirmiÅŸlerdir.
 
 1132
 01:32:00,819 --> 01:32:03,359
-Doğru. Kendi üzerlerine, aileleri (üzerine) getirirler.
+DoÄŸru. Kendi Ã¼zerlerine, aileleri (Ã¼zerine) getirirler.
 
 1133
 01:32:03,560 --> 01:32:06,899
-Aileleri o çocukları Tanrı'nın korumasından çıkarırlar.
+Aileleri o Ã§ocuklarÄ± TanrÄ±'nÄ±n korumasÄ±ndan Ã§Ä±karÄ±rlar.
 
 1134
 01:32:06,899 --> 01:32:09,839
-Olan işte budur.
+Olan iÅŸte budur.
 
