@@ -26,11 +26,123 @@ export default function Home() {
       return;
     }
 
-    const results = subtitles.filter((sub) =>
-      sub.text.toLocaleLowerCase('tr').includes(term.toLocaleLowerCase('tr'))
-    );
-    setSearchResults(results);
+    const normalizedTerm = term.toLocaleLowerCase('tr');
+    const keywords = normalizedTerm.split(/\s+/).filter(k => k.length >= 2);
+
+    if (keywords.length === 0) {
+      setSearchResults([]);
+      return;
+    }
+
+    const results = subtitles.map(sub => {
+      const lowerText = sub.text.toLocaleLowerCase('tr');
+      let priority = Infinity;
+
+      // Group 1: full phrase match.
+      if (lowerText.includes(normalizedTerm)) {
+        priority = 1;
+      }
+      // Group 2: subtitles that include ALL keywords.
+      else if (keywords.every(keyword => lowerText.includes(keyword))) {
+        priority = 2;
+      }
+      // Group 3: subtitles that include ANY keyword.
+      else if (keywords.some(keyword => lowerText.includes(keyword))) {
+        // Find the earliest matching keyword index based on the search term order.
+        const matchedIndices = keywords
+          .map((keyword, idx) => (lowerText.includes(keyword) ? idx : Infinity))
+          .filter(idx => idx !== Infinity);
+        const firstMatchIndex = Math.min(...matchedIndices);
+        priority = 3 + firstMatchIndex;
+      }
+
+      return { ...sub, matchPriority: priority };
+    }).filter(sub => sub.matchPriority !== Infinity);
+
+    // Remove duplicates based on a unique identifier (e.g., startTime and text).
+    const seen = new Set();
+    const uniqueResults = [];
+    results.forEach(sub => {
+      const id = `${sub.startTime}-${sub.text}`;
+      if (!seen.has(id)) {
+        seen.add(id);
+        uniqueResults.push(sub);
+      }
+    });
+
+    // Sort results by match priority (ascending).
+    uniqueResults.sort((a, b) => a.matchPriority - b.matchPriority);
+
+    setSearchResults(uniqueResults);
   }, [subtitles]);
+
+
+  const highlightText = (text, term) => {
+    if (!term || term.trim().length < 2) return text;
+
+    const lowerText = text.toLocaleLowerCase('tr');
+    const keywords = term.toLocaleLowerCase('tr')
+      .split(/\s+/)
+      .filter(k => k.length >= 2);
+
+    const isAlnum = (ch) => /[a-zA-Z0-9ğşıöçüİĞŞÖÇÜ]/.test(ch);
+
+    const isExactMatch = (start, end) => {
+      const leftOK = start === 0 || !isAlnum(text.charAt(start - 1));
+      const rightOK = end === text.length || !isAlnum(text.charAt(end));
+      return leftOK && rightOK;
+    };
+
+    let intervals = [];
+
+    keywords.forEach((keyword) => {
+      let startIndex = 0;
+      while ((startIndex = lowerText.indexOf(keyword, startIndex)) !== -1) {
+        const endIndex = startIndex + keyword.length;
+        const type = isExactMatch(startIndex, endIndex) ? 'exact' : 'partial';
+        intervals.push({ start: startIndex, end: endIndex, type });
+        startIndex = endIndex;
+      }
+    });
+
+    intervals.sort((a, b) => a.start - b.start);
+
+    const merged = [];
+    intervals.forEach(interval => {
+      if (merged.length === 0) {
+        merged.push({ ...interval });
+      } else {
+        const last = merged[merged.length - 1];
+        if (interval.start <= last.end) {
+          last.end = Math.max(last.end, interval.end);
+          if (last.type === 'partial' || interval.type === 'partial') {
+            last.type = 'partial';
+          }
+        } else {
+          merged.push({ ...interval });
+        }
+      }
+    });
+
+    const result = [];
+    let lastIndex = 0;
+    merged.forEach((interval, idx) => {
+      if (interval.start > lastIndex) {
+        result.push(text.substring(lastIndex, interval.start));
+      }
+      result.push(
+        <span key={idx} className={interval.type === 'exact' ? "text-red-500 font-semibold" : "text-purple-500 font-semibold"}>
+          {text.substring(interval.start, interval.end)}
+        </span>
+      );
+      lastIndex = interval.end;
+    });
+    if (lastIndex < text.length) {
+      result.push(text.substring(lastIndex));
+    }
+    return result;
+  };
+
 
   const formatTime = (seconds) => {
     const sec = Math.floor(seconds);
@@ -42,18 +154,6 @@ export default function Home() {
         .toString()
         .padStart(2, '0')}:${s.toString().padStart(2, '0')}`
       : `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
-  };
-
-  const highlightText = (text, query) => {
-    if (!query) return text;
-    const parts = text.split(new RegExp(`(${query})`, 'gi'));
-    return parts.map((part, index) =>
-      part.toLowerCase() === query.toLowerCase() ? (
-        <span key={index} className="text-rose-500 font-semibold">{part}</span>
-      ) : (
-        part
-      )
-    );
   };
 
   useEffect(() => {
@@ -78,7 +178,6 @@ export default function Home() {
     if (node) observerRef.current.observe(node);
   }, [searchResults, loadedResults]);
 
-
   const handleSubtitleClick = (sub) => {
     const fileNumber = sub.file;
     const videoInfo = videoData[fileNumber];
@@ -91,7 +190,6 @@ export default function Home() {
       console.error('No video data found for file:', sub.file);
     }
   };
-
 
   useEffect(() => {
     performSearch(searchTerm);
@@ -135,7 +233,7 @@ export default function Home() {
       </div>
 
       <div className="max-w-4xl mx-auto h-full mt-16 md:mt-20 pb-20 ">
-        <div className="h-full overflow-y-auto pb-2 md:pb-6 px-2 md:px-2.5">
+        <div className="h-full overflow-y-auto pb-5 md:pb-8 px-2 md:px-2.5">
           {searchTerm.trim() === '' ? (
             <div className="text-center text-neutral-900/50 md:text-2xl">Lütfen aramak istediğiniz kelimeyi giriniz.</div>
           ) : loadedResults.length > 0 ? (
@@ -143,6 +241,12 @@ export default function Home() {
               {loadedResults.map((result, index) => {
                 const fileNumber = result.file;
                 const videoInfo = videoData[fileNumber];
+                const bgClass =
+                  result.matchPriority === 1
+                    ? "bg-slate-50"
+                    : result.matchPriority === 2
+                      ? "bg-yellow-100"
+                      : "bg-orange-100";
                 return (
                   <div
                     ref={(node) => {
@@ -151,7 +255,7 @@ export default function Home() {
                       }
                     }}
                     key={`${fileNumber}-${index}`}
-                    className=" bg-neutral-50 rounded-md shadow-lg shadow-neutral-700/70 overflow-hidden"
+                    className={`${bgClass} rounded-md shadow-lg shadow-neutral-700/70 overflow-hidden cursor-pointer`}
                     onClick={() => handleSubtitleClick(result)}
                   >
                     <div className="flex flex-col md:flex-row">
