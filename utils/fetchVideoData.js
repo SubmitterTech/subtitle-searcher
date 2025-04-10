@@ -52,6 +52,7 @@ const videoMapping = {
     '48': 'PwHk3VgkR1o',
     '49': 'hxryNyd9QIA',
     '50': '90dDY_sl10s',
+    '51': 'bGXEj3kgNqU',
 };
 
 async function fetchVideoData(videoId) {
