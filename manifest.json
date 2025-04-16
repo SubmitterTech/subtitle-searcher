@@ -2,8 +2,8 @@
   "short_name": "Ses Ara",
   "name": "Reşad Halife Ses Kayıtlarında Kelime Ara",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/subtitle-searcher/",
+  "start_url": ".",
   "icons": [
     {
       "src": "/favicon.ico",
