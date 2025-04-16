@@ -1,10 +1,8 @@
-'use client';
-
 import { useState, useEffect, useCallback, useRef } from 'react';
-import embeddedSubtitles from '../utils/subtitles.json';
-import embeddedVideoData from '../utils/video-data.json';
+import embeddedSubtitles from './utils/subtitles.json';
+import embeddedVideoData from './utils/video-data.json';
 
-export default function Home() {
+export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [subtitles, setSubtitles] = useState([]);
   const [videoData, setVideoData] = useState({});
