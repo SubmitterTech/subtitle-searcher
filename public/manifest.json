@@ -16,7 +16,12 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo-large.png", 
+      "src": "logo-medium.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo-large.png",
       "type": "image/png",
       "sizes": "512x512"
     }
