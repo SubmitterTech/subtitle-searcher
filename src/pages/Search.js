@@ -217,7 +217,7 @@ function Search() {
           <div className="w-full h-full relative ">
             <input
               type="text"
-              placeholder="Ses kayıtlarında ara..."
+              placeholder="Ses kayıtlarında ve Videolarda ara..."
               className=" w-full h-full z-20 text-xl md:text-3xl py-2 px-4 text-neutral-400 focus:text-neutral-100 bg-neutral-800 rounded-md border border-neutral-400 focus:outline-none focus:border-neutral-600 focus:ring-2 focus:ring-neutral-200"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}

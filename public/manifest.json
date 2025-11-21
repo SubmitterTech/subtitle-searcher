@@ -1,6 +1,6 @@
 {
-  "short_name": "Ses Ara",
-  "name": "Reşad Halife Ses Kayıtlarında Kelime Ara",
+  "short_name": "Ses & Video Ara",
+  "name": "Reşad Halife Ses Kayıtlarında ve Videolarında Kelime Ara",
   "orientation": "portrait",
   "scope": "/subtitle-searcher/",
   "start_url": ".",
