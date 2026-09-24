@@ -4,6 +4,7 @@ import embeddedVideoData from '../utils/video-data.json';
 
 function Search() {
   const [searchTerm, setSearchTerm] = useState('');
+  const [searchMode, setSearchMode] = useState('all');
   const [subtitles, setSubtitles] = useState([]);
   const [videoData, setVideoData] = useState({});
   const [loading, setLoading] = useState(true);
@@ -15,7 +16,7 @@ function Search() {
   const batchSize = 9;
   const observerRef = useRef(null);
 
-  const performSearch = useCallback((term) => {
+  const performSearch = useCallback((term, mode = searchMode) => {
     if (!term) {
       return;
     }
@@ -36,22 +37,22 @@ function Search() {
       const lowerText = sub.text.toLocaleLowerCase('tr');
       let priority = Infinity;
 
-      // Group 1: full phrase match.
-      if (lowerText.includes(normalizedTerm)) {
-        priority = 1;
-      }
-      // Group 2: subtitles that include ALL keywords.
-      else if (keywords.every(keyword => lowerText.includes(keyword))) {
-        priority = 2;
-      }
-      // Group 3: subtitles that include ANY keyword.
-      else if (keywords.some(keyword => lowerText.includes(keyword))) {
-        // Find the earliest matching keyword index based on the search term order.
-        const matchedIndices = keywords
-          .map((keyword, idx) => (lowerText.includes(keyword) ? idx : Infinity))
-          .filter(idx => idx !== Infinity);
-        const firstMatchIndex = Math.min(...matchedIndices);
-        priority = 3 + firstMatchIndex;
+      if (mode === 'phrase') {
+        if (lowerText.includes(normalizedTerm)) {
+          priority = 1;
+        }
+      } else if (mode === 'all') {
+        if (keywords.every(keyword => lowerText.includes(keyword))) {
+          priority = 1;
+        }
+      } else if (mode === 'any') {
+        if (keywords.some(keyword => lowerText.includes(keyword))) {
+          const matchedIndices = keywords
+            .map((keyword, idx) => (lowerText.includes(keyword) ? idx : Infinity))
+            .filter(idx => idx !== Infinity);
+          const firstMatchIndex = Math.min(...matchedIndices);
+          priority = 1 + firstMatchIndex;
+        }
       }
 
       return { ...sub, matchPriority: priority };
@@ -190,8 +191,8 @@ function Search() {
   };
 
   useEffect(() => {
-    performSearch(searchTerm);
-  }, [searchTerm, performSearch]);
+    performSearch(searchTerm, searchMode);
+  }, [searchTerm, searchMode, performSearch]);
 
   useEffect(() => {
     setLoadedResults(searchResults.slice(0, batchSize));
@@ -213,7 +214,7 @@ function Search() {
   return (
     <div className="h-full fixed w-screen bg-gradient-to-r from-sky-500 to-cyan-500 flex flex-col">
       <div className="max-w-4xl relative -translate-x-1/2 left-1/2 mt-1 md:mt-3">
-        <div className="p-2 absolute top-0 left-0 right-0 flex space-x-3">
+        <div className="p-2 absolute top-0 left-0 right-0 flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-3">
           <div className="w-full h-full relative ">
             <input
               type="text"
@@ -227,11 +228,24 @@ function Search() {
               {searchResults.length > 0 && searchResults.length}
             </div>
           </div>
+
+          <label htmlFor="searchMode" className="sr-only">Arama modu</label>
+          <select
+            id="searchMode"
+            aria-label="Arama modu"
+            value={searchMode}
+            onChange={(e) => setSearchMode(e.target.value)}
+            className="h-full md:min-w-[180px] bg-neutral-800 text-neutral-100 border border-neutral-400 rounded-md px-3 py-2 text-sm md:text-base focus:outline-none focus:ring-2 focus:ring-neutral-200"
+          >
+            <option value="phrase">Tam ifade</option>
+            <option value="all">Tüm kelimeler</option>
+            <option value="any">Herhangi bir kelime</option>
+          </select>
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto h-full mt-16 md:mt-20 pb-20 ">
-        <div className="h-full overflow-y-auto pb-5 md:pb-8 px-2 md:px-2.5">
+      <div className="max-w-4xl mx-auto h-full mt-24 md:mt-20 pb-20 ">
+        <div className="h-full overflow-y-auto pb-5 md:pb-8 px-2 md:px-2.5 pt-4 md:pt-0">
           {searchTerm.trim() === '' ? (
             <div className="text-center text-neutral-900/50 md:text-2xl">Lütfen aramak istediğiniz kelimeyi giriniz.</div>
           ) : loadedResults.length > 0 ? (
@@ -239,6 +253,7 @@ function Search() {
               {loadedResults.map((result, index) => {
                 const fileNumber = result.file;
                 const videoInfo = videoData[fileNumber];
+                const resultNumber = index + 1;
                 const bgClass =
                   result.matchPriority === 1
                     ? "bg-slate-50"
@@ -257,21 +272,26 @@ function Search() {
                     onClick={() => handleSubtitleClick(result)}
                   >
                     <div className="flex flex-col md:flex-row">
-                      <div className="flex flex-col grow w-full">
-                        {videoInfo?.title ? (
-                          <div className="flex px-2 pt-2 cursor-pointer select-none">
-                            <div className="text-sm text-black font-semibold">
-                              {videoInfo.title}
+                      <div className="flex items-start gap-3 w-full">
+                        <div className="flex items-center justify-center w-10 h-10 rounded-full bg-sky-600 text-white text-sm font-bold shrink-0 mt-2 ml-2">
+                          {resultNumber}
+                        </div>
+                        <div className="flex flex-col grow w-full">
+                          {videoInfo?.title ? (
+                            <div className="flex px-2 pt-2 cursor-pointer select-none">
+                              <div className="text-sm text-black font-semibold">
+                                {videoInfo.title}
+                              </div>
                             </div>
-                          </div>
 
-                        ) : (<div className="text-md text-rose-400 ">{`Video başlığı çekilemedi...`}</div>)}
-                        <div className="flex flex-col grow p-2">
-                          <div className="text-sm text-sky-600">
-                            [{formatTime(result.startTime)} - {formatTime(result.endTime)}]
-                          </div>
-                          <div className=" text-neutral-800 select-text">
-                            {highlightText(result.text, searchTerm)}
+                          ) : (<div className="text-md text-rose-400 ">{`Video başlığı çekilemedi...`}</div>)}
+                          <div className="flex flex-col grow p-2">
+                            <div className="text-sm text-sky-600">
+                              [{formatTime(result.startTime)} - {formatTime(result.endTime)}]
+                            </div>
+                            <div className=" text-neutral-800 select-text">
+                              {highlightText(result.text, searchTerm)}
+                            </div>
                           </div>
                         </div>
                       </div>
